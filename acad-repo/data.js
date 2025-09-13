@@ -977,16 +977,6 @@ const data = {
         ],
       }
     },
-    "PHY111": {
-      "name": "Physics Laboratory",
-      "code": "PHY111",
-      "resources": {
-        "PYQs": [],
-        "Assignments": [],
-        "ClassNotes": [],
-        "AMNotes": []
-      }
-    },
     "PHY112": {
       "name": "Classical Dynamics",
       "code": "PHY112",
@@ -2808,16 +2798,6 @@ const data = {
       }
       
       
-    },
-    "CHM111": {
-      "name": "Chemistry Laboratory",
-      "code": "CHM111",
-      "resources": {
-        "PYQs": [],
-        "Assignments": [],
-        "ClassNotes": [],
-        "AMNotes": []
-      }
     },
     "CHM112": {
       "name": "General Chemistry",
