@@ -4353,7 +4353,7 @@ const data = {
           
           "Voiceover Slides": {
             
-            "files": [
+            "files": 
               [
                   {
                     "title": "LIF111 Lecture - 1",
@@ -4408,27 +4408,20 @@ const data = {
                     "link": "https://docs.google.com/presentation/d/1P6S-ghqfGvBBeMZ_Ug-Xt3EksYULT8wi/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
                   }
                   ]
-              ]
+              
             }
         },
         "AM Resources": {
           "files": [
             {
-              "title": "LIF YT Playlist",
-              "link": "https://docs.google.com/document/d/1XPsDHB6ylD5_i2xe3umlQNsIj39SUfMpPAt4ws4drrE/edit?usp=sharing"
-            },
-            {
-              "title": "LIF AM Class",
+              "title": "LIF AM Class PDF",
               "link": "https://drive.google.com/file/d/1pMhCTN7ZJEbxJqALcevFhlsDRI2djMIN/view?usp=sharing"
             },
             {
-              "title": "Gene Regulation in Prokaryotes (Lac Operon)",
-              "link": "https://docs.google.com/presentation/d/1NHu3CeHY90UFLXb-fYkqo_4hUMu4Y4w-/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "LIF AM CLASS SLIDES (13.11.2024)",
-              "link": "https://drive.google.com/file/d/1ITMMASnH8AcI7FzfiGvziSP6zIW0PI1n/view?usp=drivesdk"
+              "title": "LIF AM Class PPT",
+              "link": "https://docs.google.com/presentation/d/1tB3yW6uMTTM8an9Exmd6UGY_ShsH0iHd/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
             }
+            
           ]
         }
       },
