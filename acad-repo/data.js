@@ -2,6 +2,7 @@ const data = {
     "MTH111": {
         "name": "Single Variable Calculus",
         "code": "MTH111",
+        "subject": "Mathematics",
         "resources": {
           "PYQs": {
             "2023": [
@@ -105,6 +106,7 @@ const data = {
     "MTH112": {
       "name": "Application of Single Variable Calculus",
       "code": "MTH112",
+      "subject": "Mathematics",
       "resources": {
         "PYQs": {
           "2008": [
@@ -311,6 +313,7 @@ const data = {
     "MTH113": {
       "name": "Linear Algebra",
       "code": "MTH113",
+      "subject": "Mathematics",
       "resources": {
   "AM CLASS":[
       {
@@ -905,6 +908,7 @@ const data = {
     "MTH114": {
       "name": "Ordinary Differential Equations",
       "code": "MTH114",
+      "subject": "Mathematics",
       "resources": {
         "MTH114": [
           {title: "MTH114 RESOURCES", link: "https://docs.google.com/document/d/1rA5rOFfS-mLtTqIZD1ZOPk7SkrHSO-WfxGrStKmMbT0/edit?usp=drivesdk"}
@@ -980,6 +984,7 @@ const data = {
     "PHY112": {
       "name": "Classical Dynamics",
       "code": "PHY112",
+      "subject": "Physics",
       "resources": {
         "files": [
           {
@@ -1436,6 +1441,7 @@ const data = {
     "PHY113": {
       "name": "Introduction to Electromagnetism",
       "code": "PHY113",
+      "subject": "Physics",
       "resources": {
         "Short Notes": [
             {
@@ -1463,6 +1469,7 @@ const data = {
     "PHY114": {
       "name": "Introduction to Quantum Mechanics",
       "code": "PHY114",
+      "subject": "Physics",
       "resources": {
         "files": [
           {
@@ -2634,6 +2641,7 @@ const data = {
     "PHY115": {
       "name": "Oscillation and Waves",
       "code": "PHY115",
+      "subject": "Physics",
       "resources": {
         
         "Pyqs": {
@@ -2802,6 +2810,7 @@ const data = {
     "CHM112": {
       "name": "General Chemistry",
       "code": "CHM112",
+      "subject": "Chemistry",
       "resources": {
   
   "Notes": {
@@ -3107,6 +3116,7 @@ const data = {
     "CHM113": {
       "name": "General Chemistry",
       "code": "CHM113",
+      "subject": "Chemistry",
       "resources": {
         "Y14_AllTuts_Notes_PYQs": {
           
@@ -3549,6 +3559,7 @@ const data = {
     "TA111": {
       "name": "Technical Arts",
       "code": "TA111",
+      
       "resources": {
         
         "Topic Wise Resources": {
@@ -4376,6 +4387,7 @@ const data = {
     "ELC": {
       "name": "English Language and Communication",
       "code": "ELC",
+      "subject": "Language",
       "resources": {
         
         "AM exercises ECC": {
@@ -4709,16 +4721,17 @@ const data = {
     "ESC111/112": {
       "name": "Fundamental of Computing - I/II",
       "code": "ESC111/112",
+      "subject": "Computer Science",
       "resources": {
         
         "Tutorial Sheets": {
           "files": [
             {
-              "title": "810b3bab-b615-4b2e-ba64-7086d869b8f3_Strings",
+              "title": "Strings",
               "link": "https://drive.google.com/file/d/1mAlgBSGUa86wBJH1kc8IUhVvOvrM3gGV/view?usp=drivesdk"
             },
             {
-              "title": "cfba8ad4-14e2-4ca2-a114-88ff6b4b64a7_Passing_by_Reference__Value",
+              "title": "Passing by Reference Value",
               "link": "https://drive.google.com/file/d/1UEqteS4olUC2J9Z_-JWvpAclvtyl1B_v/view?usp=drivesdk"
             },
             {
@@ -5636,6 +5649,7 @@ const data = {
     "ESC113": {
       "name": "Fundamental of Computing - III",
       "code": "ESC113",
+      "subject": "Computer Science",
       "resources": {
         "2022": {
           "files": [
