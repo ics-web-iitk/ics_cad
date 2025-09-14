@@ -1452,6 +1452,10 @@ const data = {
         ,
         "PYQs": [
             {
+              "title": "QuiZ PYQ question bank",
+              "link": "https://drive.google.com/file/d/11JHTal9SCcWcMYm55bWxnWNHgUV7Qo0b/view?usp=sharing"
+            },
+            {
               "title": "Endsem_Y23_Sem1",
               "link": "https://drive.google.com/file/d/17NaM3g7-VOxjhRldwbmpWkjGBnh5-_iY/view?usp=drivesdk"
             },
@@ -1462,7 +1466,31 @@ const data = {
             {
               "title": "Endsem-solution_Sem2_Y23",
               "link": "https://drive.google.com/file/d/17K8XTmSQtWsNDzZyG8atLpjh1HzbgRBs/view?usp=drivesdk"
-            }
+            },
+              {
+                "title": "Midsem 25 (Solution)",
+                "link": "https://drive.google.com/file/d/1LnNlSjK-Lid2Qqb2utnZDQ8I3CMyTm6l/view?usp=sharing"
+              },
+              {
+                "title": "Midsem 25",
+                "link": "https://drive.google.com/file/d/1IqSOQhWQG21gZPV3_QkHv8mpixwq5Ls0/view?usp=sharing"
+              },
+              {
+                "title": "Midsem 2023",
+                "link": "https://drive.google.com/file/d/1L1l0WusvlrZQceN4YnYLwXGLObXZ9Saj/view?usp=sharing"
+              },
+              {
+                "title": "Midsem 2016",
+                "link": "https://drive.google.com/file/d/1OfmO3cfyPM64ss0TjiW6pD0akexXH9rA/view?usp=sharing"
+              },
+              {
+                "title": "Midsem 2015",
+                "link": "https://drive.google.com/file/d/1816H2qbS6RXKzroanfNYW3qTHxY7dr8q/view?usp=sharing"
+              },
+              {
+                "title": "Midsem 2013",
+                "link": "https://drive.google.com/file/d/1Lbl_Z_SIMKd8RBBQHNnJj-ov3EaxAlgX/view?usp=sharing"
+              }
           ]
           ,
           "Handwritten notes": [
