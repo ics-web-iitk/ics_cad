@@ -4255,187 +4255,144 @@ const data = {
       "code": "LIF111",
       "resources": {
         
-        "Supplementary Study Materials": {
+        "Reading Materials": {
           
-          "Student Notes": {
+         
             "files": [
               
-              {
-                "title": "DNA as a Genetic Material - Experiments (LIF111 AM Session 2023-24)",
-                "link": "https://docs.google.com/presentation/d/1ugsv3rezd1uioYA_9KV6EqsnRvlliNzD/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-              },
-              {
-                "title": "Lecture - wise Handwritten Notes (LIF111 - Pradip Sinha)",
-                "link": "https://drive.google.com/file/d/1D14pzEH3C0C45JgDnf7L3c7hZ8FLM3j-/view?usp=drivesdk"
-              },
-              {
-                "title": "Lecture - wise Handwritten Notes (LIF111 - Pradip Sinha)",
-                "link": "https://drive.google.com/file/d/1OlBM95sADBySMTUG-mI6LC-f_-RSxH7r/view?usp=drivesdk"
-              },
-              {
-                "title": "Lecture - wise Short Notes (LIF111 - Pradip Sinha)",
-                "link": "https://drive.google.com/file/d/12rBM4qKE1LZb17R2utB5t-c3PF9UsK_P/view?usp=drivesdk"
-              },
-              {
-                "title": "LIF111 AM Session 2023 - 24",
-                "link": "https://drive.google.com/file/d/1FaWYIMoc4036aYBmkOqDv4DUkKdSWZ4h/view?usp=drivesdk"
-              },
-              {
-                "title": "Mitosis and Meiosis (LIF111 AM Session 2023-24)",
-                "link": "https://drive.google.com/file/d/10ijOYyWaYt0jybAsdX1CNHUMWOwDPs3e/view?usp=drivesdk"
-              },
-              {
-                "title": "Suplementary Resources",
-                "link": "https://docs.google.com/document/d/1Kf99KMr40gP0z67ovjWe1KC9_Q9_imJ3gK8I0lw9_5k/edit?usp=sharing"
-              },
-              {
-                "title": "Notes",
-                "link": "https://docs.google.com/document/d/187hDxdhrteDUaDwdi20CDrODMg6gKKI5/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
-              }
+              
+                  {
+                    "title": "Western Blotting",
+                    "link": "https://drive.google.com/file/d/1GNfB63n6cUtcnxVY1lG86BC8x-I0pbtQ/view?usp=sharing"
+                  },
+                  {
+                    "title": "Water and its properties",
+                    "link": "https://drive.google.com/file/d/1GO6ubA4QsvK6N5T2FzM00-QtGPJznd8S/view?usp=sharing"
+                  },
+                  {
+                    "title": "Proteins Structure Function",
+                    "link": "https://drive.google.com/file/d/1B1bNDHPmJwUAYttiEq6bs8dNQOKlRNMX/view?usp=sharing"
+                  },
+                  {
+                    "title": "Protein Folding Misfolding",
+                    "link": "https://drive.google.com/file/d/15nALmIj0hrXYBbQweei5TIJfSj8GPFXs/view?usp=sharing"
+                  },
+                  {
+                    "title": "Nucleic Acids Part II",
+                    "link": "https://drive.google.com/file/d/1qpbx4IaGE1eh3MHAU8A6-JB071eEb4eJ/view?usp=sharing"
+                  },
+                  {
+                    "title": "Nucleic Acids Part I",
+                    "link": "https://drive.google.com/file/d/1qpbx4IaGE1eh3MHAU8A6-JB071eEb4eJ/view?usp=sharing"
+                  },
+                  {
+                    "title": "DNA gel electrophoresis",
+                    "link": "https://drive.google.com/file/d/1syJFIqbVHNYc7Fgf2oWErg49kabvEdlu/view?usp=sharing"
+                  },
+                  {
+                    "title": "Central dogma of molecular biology",
+                    "link": "https://drive.google.com/file/d/1_yzecobyIZQiFKehH_Tx7PW2K-yBem_O/view?usp=sharing"
+                  }
+                
+
             ]
-          },
-          "Video Resources": {
-            "files": [
-              {
-                "title": "Gene Regulation in Prokaryotes (Lac Operon)",
-                "link": "https://drive.google.com/file/d/1ZCxbgyGcIWO9Fg9dggmlPGFlXI2OzXIM/view?usp=drivesdk"
-              },
-              {
-                "title": "Schematic diagram of Mitotic Cell Division",
-                "link": "https://drive.google.com/file/d/17dkDuCcGTKdWWoJL6yvcspfgE-HFv9oi/view?usp=drivesdk"
-              },
-              {
-                "title": "Other Youtube Links",
-                "link": "https://docs.google.com/document/d/12TGxmaIwFsCuE6cNGTm-B3V4T452QiXa/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
-              }
-            ]
-          },
-          "Reference Books": {
-            "files": [
-              {
-                "title": "Biology - Concepts and Applications by Cecie Starr (8th Ed.)",
-                "link": "https://drive.google.com/file/d/1e-91M2hFkTTYN7cvAyrCVy5McbdF5Xvd/view?usp=drivesdk"
-              },
-              {
-                "title": "Genetics and Evolution (NCERT Class - XII)",
-                "link": "https://drive.google.com/file/d/1WIDGiAH4kMMAhgP_-wVThqDzxe1p5ccb/view?usp=drivesdk"
-              }
-            ]
-          }
-        },
+           },
         "Questionnaire": {
           "files": [
-            {
-              "title": "Compiled Practice Problems - LIF111",
-              "link": "https://drive.google.com/file/d/1j-nmZxwQo8z8NhMSKUGgFmiObeYov5LL/view?usp=drivesdk"
-            },
-            {
-              "title": "Practice Problems - LIF111 (Lecture - 1,2)",
-              "link": "https://docs.google.com/document/d/1guclJZ4kprmWvMwdo_BEuHtxQJFflfKs/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "Practice Problems - LIF111 (Lecture - 1,2) Solutions",
-              "link": "https://docs.google.com/document/d/1UJZUFXsas5Ozd5jpgpMa41gM-cIQ9WSm/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "Practice Problems - LIF111 (Lecture - 3)",
-              "link": "https://drive.google.com/file/d/1ToGWUwNzH8g9XCjRjzdfkaxRaD7Xsytb/view?usp=drivesdk"
-            },
-            {
-              "title": "Practice Problems - LIF111 (Lecture - 4)",
-              "link": "https://drive.google.com/file/d/1qMMR0cpNzen4WWksF4B3bhnnO5MYQUy9/view?usp=drivesdk"
-            },
-            {
-              "title": "Practice Problems - LIF111 (Lecture - 5)",
-              "link": "https://docs.google.com/document/d/1239J2F-t9piRVYmHJ2TQEqEYUgWWRuiB/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "Practice Problems - LIF111 (Lecture - 6,7)",
-              "link": "https://docs.google.com/document/d/1wuflwSAM_sdP8_Gd205AlVpkKtnxABA8/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "Practice Problems - LIF111 (Lecture - 8)",
-              "link": "https://drive.google.com/file/d/1zDKVZ7lMmN6bvuPIfGEHf9qHThfGwtBQ/view?usp=drivesdk"
-            },
-            {
-              "title": "Practice Problems - LIF111 (Lecture - 9)",
-              "link": "https://drive.google.com/file/d/13NDIRmAssBi6Mrmozud79KjAr-rCEgPb/view?usp=drivesdk"
-            }
-          ]
+                          {
+                  "title": "Sample Paper 2",
+                  "link": "https://drive.google.com/file/d/1jt69gj85I8HZM6V5uQ6CnXIR2ohmENGO/view?usp=sharing"
+                },
+                {
+                  "title": "Sample Paper 1",
+                  "link": "https://drive.google.com/file/d/14tIwha_YNbKchc9AtBS-cmZzKiWbXzCJ/view?usp=sharing"
+                },
+                {
+                  "title": "PYQ Subjective",
+                  "link": "https://drive.google.com/file/d/1rZw0nAXARivCEPILjPZbzenGuRYioKFs/view?usp=sharing"
+                },
+                {
+                  "title": "PYQ Objective",
+                  "link": "https://drive.google.com/file/d/1fsrUGXpfJ-AxSEjSGXHSJBRblH9_QrFs/view?usp=sharing"
+                },
+                {
+                  "title": "Practice Problems",
+                  "link": "https://drive.google.com/file/d/1XhEL0vYwU2q538oaW6QUjCWt4qSiEktb/view?usp=sharing"
+                }
+            ]
         },
-        // "Course Lecture Notes": {
+        "Course Lecture Slides": {
           
-        //   "Robert Sonowal (2024 - 25 - II)": {
-        //     "files": [
-        //       {
-        //         "title": "LIF111 Lecture - 1",
-        //         "link": "https://drive.google.com/file/d/1bSMsLiTtsD0hYiwoVGIUplw6ElTzxstw/view?usp=drivesdk"
-        //       },
-        //       {
-        //         "title": "LIF111 Lecture - 2",
-        //         "link": "https://drive.google.com/file/d/1OljsQw7d-1nAHW5DLFEADTdJyUxtuzY-/view?usp=drivesdk"
-        //       },
-        //       {
-        //         "title": "LIF111 Lecture - 3",
-        //         "link": "https://drive.google.com/file/d/14ErNKOy6AC39ymzPtV1PNpK0o00er-Wf/view?usp=drivesdk"
-        //       },
-        //       {
-        //         "title": "LIF111 Lecture - 4",
-        //         "link": "https://drive.google.com/file/d/1YET9e_scvm8PjycwmlrFHT8ltg0pGZQq/view?usp=drivesdk"
-        //       },
-        //       {
-        //         "title": "LIF111 Lecture - 5",
-        //         "link": "https://drive.google.com/file/d/135q-uiR_XJFPuY-Pd7pCnhfgkq_9p-dE/view?usp=drivesdk"
-        //       },
-        //       {
-        //         "title": "LIF111 Lecture - 6",
-        //         "link": "https://docs.google.com/presentation/d/1EvE4nIhESV6WaynDiY7Vs3Azxlj5i9x_/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-        //       }
-        //     ]
-        //   },
-        //   "Pradip Sinha (2024 - 25 - I)": {
-        //     "files": [
-        //       {
-        //         "title": "LIF111 Lecture (1) - 25.09.24",
-        //         "link": "https://docs.google.com/presentation/d/1wVPqM-FTJoNHAPOoROUWQhHvEI0WpqCj/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-        //       },
-        //       {
-        //         "title": "LIF111 Lecture (2) - 27.09.24",
-        //         "link": "https://docs.google.com/presentation/d/16Q2Pa7l5ERRay6YoDtGn-1LM0A2LAjwJ/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-        //       },
-        //       {
-        //         "title": "LIF111 Lecture (3) - 04.09.24",
-        //         "link": "https://docs.google.com/presentation/d/1YFApv3oMCVcudYdfcIBNt8mi7k6hYvMz/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-        //       },
-        //       {
-        //         "title": "LIF111 Lecture (4) - 16.10.24",
-        //         "link": "https://docs.google.com/presentation/d/1TIkg4oDWmbM44_aDmwmDxhuecMr_FKzJ/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-        //       },
-        //       {
-        //         "title": "LIF111 Lecture (5) - 18.10.24",
-        //         "link": "https://docs.google.com/presentation/d/17vV1RpGmh6tjf4meag5MIrTTsy9q4IaZ/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-        //       },
-        //       {
-        //         "title": "LIF111 Lecture (6) - 25.10.24",
-        //         "link": "https://docs.google.com/presentation/d/1137ThT7-sHnljTvAmop0WspHNwr2lpVq/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-        //       },
-        //       {
-        //         "title": "LIF111 Lecture (7) - 30.10.24",
-        //         "link": "https://docs.google.com/presentation/d/1aNgehKuPLZvqIVKn2c5XGkxHi4XN1bcf/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-        //       },
-        //       {
-        //         "title": "LIF111 Lecture (8) - 06.11.24",
-        //         "link": "https://docs.google.com/presentation/d/1hCoDVZ1jBD5H_JhsQiMG1bG6okjvvRaa/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-        //       },
-        //       {
-        //         "title": "LIF111 Lecture (9) - 08.11.24",
-        //         "link": "https://drive.google.com/file/d/1AltmiYgyISy1oEmNfasvhJGav0p4sP5D/view?usp=drivesdk"
-        //       }
-        //     ]
-        //   }
-        // },
-        "AM slides": {
+          "Voiceover Slides": {
+            
+            "files": [
+              [
+                  {
+                    "title": "LIF111 Lecture - 1",
+                    "link": "https://docs.google.com/presentation/d/1OpuEpvb_S4aBXIHS6oHeOp4doYs4O3Qg/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+                  },
+                  {
+                    "title": "LIF111 Lecture - 2",
+                    "link": "https://docs.google.com/presentation/d/1wjB6JQk44u_VnrSWH-cTKKfIPL6ZQ2yq/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+                  },
+                  {
+                    "title": "LIF111 Lecture - 3",
+                    "link": "https://docs.google.com/presentation/d/1LD2yGkAchyFSW-dCe_GThRNDEHbArpUp/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+                  },
+                  {
+                    "title": "LIF111 Lecture - 4",
+                    "link": "https://docs.google.com/presentation/d/1D2R5mTeDq1oL3g2vfzTYNg0bz3Sgk6jU/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+                  },
+                  {
+                    "title": "LIF111 Lecture - 5",
+                    "link": "https://docs.google.com/presentation/d/1SSPqFbrZdWy9P167B4l3L_diBCv4k-e3/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+                  },
+                  {
+                    "title": "LIF111 Lecture - 6",
+                    "link": "https://docs.google.com/presentation/d/1OPVAkvgCi8QiHZ-Z0jCeaWBApokGNK2B/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+                  },
+                  {
+                    "title": "LIF111 Lecture - 7",
+                    "link": "https://docs.google.com/presentation/d/1ROhqmVlEWidqlYj46NGNpy3sOidtLXbu/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+                  },
+                  {
+                    "title": "LIF111 Lecture - 8",
+                    "link": "https://docs.google.com/presentation/d/1lhnlU2PCu2sAvdWMEBSM4zs4FIr0Qy3_/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+                  },
+                  {
+                    "title": "LIF111 Lecture - 9",
+                    "link": "https://docs.google.com/presentation/d/1IZiSGy56EBr-uFB_TonHiGRoFJC-9mYZ/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+                  },
+                  {
+                    "title": "LIF111 Lecture - 10",
+                    "link": "https://docs.google.com/presentation/d/1fqb6NP96nZ3ixm6b67yijinQc8_MWx0w/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+                  },
+                  {
+                    "title": "LIF111 Lecture - 11",
+                    "link": "https://docs.google.com/presentation/d/1ZVIiUAquhwtKhrLvkI0tyJkFlehQEYhU/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+                  },
+                  {
+                    "title": "LIF111 Lecture - 12",
+                    "link": "https://docs.google.com/presentation/d/1xLaO5HcNqc-Z2vszx9C2nNj8QqjoMkmt/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+                  },
+                  {
+                    "title": "LIF111 Extra Lecture",
+                    "link": "https://docs.google.com/presentation/d/1P6S-ghqfGvBBeMZ_Ug-Xt3EksYULT8wi/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+                  }
+                  ]
+              ]
+            }
+        },
+        "AM Resources": {
           "files": [
+            {
+              "title": "LIF YT Playlist",
+              "link": "https://docs.google.com/document/d/1XPsDHB6ylD5_i2xe3umlQNsIj39SUfMpPAt4ws4drrE/edit?usp=sharing"
+            },
+            {
+              "title": "LIF AM Class",
+              "link": "https://drive.google.com/file/d/1pMhCTN7ZJEbxJqALcevFhlsDRI2djMIN/view?usp=sharing"
+            },
             {
               "title": "Gene Regulation in Prokaryotes (Lac Operon)",
               "link": "https://docs.google.com/presentation/d/1NHu3CeHY90UFLXb-fYkqo_4hUMu4Y4w-/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
@@ -4446,9 +4403,7 @@ const data = {
             }
           ]
         }
-      }
-      
-      
+      },
     },
     "ELC": {
       "name": "English Language and Communication",
@@ -4780,8 +4735,7 @@ const data = {
             ]
           }
         }
-      }
-      
+      }  
       
     },
     "ESC111/112": {
@@ -5964,3 +5918,4 @@ const data = {
       
     }
   }
+
