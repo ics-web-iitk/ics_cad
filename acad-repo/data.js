@@ -1451,18 +1451,18 @@ const data = {
           ]
         ,
         "PYQs": [
-            // {
-            //   "title": "Endsem_Y23_Sem1",
-            //   "link": "https://drive.google.com/file/d/17NaM3g7-VOxjhRldwbmpWkjGBnh5-_iY/view?usp=drivesdk"
-            // },
-            // {
-            //   "title": "Endsem_Y23_Sem1_soln",
-            //   "link": "https://drive.google.com/file/d/17MZlXtupsPoDbTcCFbmyl8pFIVpN5S2d/view?usp=drivesdk"
-            // },
-            // {
-            //   "title": "Endsem-solution_Sem2_Y23",
-            //   "link": "https://drive.google.com/file/d/17K8XTmSQtWsNDzZyG8atLpjh1HzbgRBs/view?usp=drivesdk"
-            // }
+            {
+              "title": "Endsem_Y23_Sem1",
+              "link": "https://drive.google.com/file/d/17NaM3g7-VOxjhRldwbmpWkjGBnh5-_iY/view?usp=drivesdk"
+            },
+            {
+              "title": "Endsem_Y23_Sem1_soln",
+              "link": "https://drive.google.com/file/d/17MZlXtupsPoDbTcCFbmyl8pFIVpN5S2d/view?usp=drivesdk"
+            },
+            {
+              "title": "Endsem-solution_Sem2_Y23",
+              "link": "https://drive.google.com/file/d/17K8XTmSQtWsNDzZyG8atLpjh1HzbgRBs/view?usp=drivesdk"
+            }
           ]
           ,
           "Handwritten notes": [
@@ -4790,806 +4790,819 @@ const data = {
       "subject": "Computer Science",
       "resources": {
         
-        "Tutorial Sheets": {
-          "files": [
-            {
-              "title": "Strings",
-              "link": "https://drive.google.com/file/d/1mAlgBSGUa86wBJH1kc8IUhVvOvrM3gGV/view?usp=drivesdk"
-            },
-            {
-              "title": "Passing by Reference Value",
-              "link": "https://drive.google.com/file/d/1UEqteS4olUC2J9Z_-JWvpAclvtyl1B_v/view?usp=drivesdk"
-            },
-            {
-              "title": "ESC 112 Tutorial 2",
-              "link": "https://docs.google.com/document/d/1cwiFMwMLObF3gL0_TCKFFU0e9ngLNdia/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "ESC 112 Tutorial 3",
-              "link": "https://drive.google.com/file/d/1i-_U6Soxlnz3ZfMtkXjFUmOqM5wFfZX3/view?usp=drivesdk"
-            },
-            {
-              "title": "ESC 112 Tutorial 4",
-              "link": "https://docs.google.com/document/d/1tCm4JwwHwb2RVVZ3sDachY8lPp7KCezP/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "ESC Tutorial",
-              "link": "https://drive.google.com/file/d/1p140HD3RZ3cUfIFUM2oC4XqjKQHsmymN/view?usp=drivesdk"
-            },
-            {
-              "title": "ESC112 Tutorial - Sheet",
-              "link": "https://drive.google.com/file/d/12jvY--lAFGH6ZjN4DuSoeA0Wo-f6QFCi/view?usp=drivesdk"
-            },
-            {
-              "title": "ESC112 Tutorial - Sheet",
-              "link": "https://docs.google.com/document/d/1VcVTWj8TnoaWaJsP-NkWvMuUcsKuN5q2/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "ESC112 Tutorial 1",
-              "link": "https://drive.google.com/file/d/1qgMsiISxk_5QtcAnY9t_ZI8tGTi_oPSW/view?usp=drivesdk"
-            },
-            {
-              "title": "ESC112 Tutorial 2",
-              "link": "https://docs.google.com/document/d/1wjWISKLP5WwDrvFxbL_qTd4OTHJ12gJG/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "ESC112 Tutorial 3",
-              "link": "https://drive.google.com/file/d/19FACL85OFzTcivKE-sQ-jEi7m_aOgKgc/view?usp=drivesdk"
-            },
-            {
-              "title": "ESC112 Tutorial 4",
-              "link": "https://docs.google.com/document/d/1TSQp1c-pVkmG7FYkhUz8qeELj5qipd-T/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "ESC112 Tutorial 4",
-              "link": "https://drive.google.com/file/d/1lrVlGhjEZNG5ggreosOgvzn8A4PBXzBt/view?usp=drivesdk"
-            },
-            {
-              "title": "ESC112 Tutorial 4 (1)",
-              "link": "https://docs.google.com/document/d/1KMFNyKC1JqQ3xA_HYmuW6RtEvFB0iFdU/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "ESC112 Tutorial Sheet 1",
-              "link": "https://drive.google.com/file/d/1ZPd_r9k-Q_3LydyIhsY_fGog1ZW-NkPs/view?usp=drivesdk"
-            },
-            {
-              "title": "ESC112 Tutorial Sheet 1(1)",
-              "link": "https://drive.google.com/file/d/1Jalib9vyMVyGrDOpJtxL2u-SZdwS6NGt/view?usp=drivesdk"
-            },
-            {
-              "title": "Linked lists - Learn C - Free Interactive C Tutorial",
-              "link": "https://drive.google.com/file/d/1WTY4c0IcrUiZOExPSymsb7Xa6wETakoF/view?usp=drivesdk"
-            },
-            {
-              "title": "week10",
-              "link": "https://docs.google.com/document/d/13H1rMzWdGRKq81nlCJZr3zJLgFsjN9d5/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "week11",
-              "link": "https://docs.google.com/document/d/1tEqZl1mV17pSetpOMLA7DCs1mkxIBIQe/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "week12",
-              "link": "https://docs.google.com/document/d/16f_atf_7X8IxAqfNOC7xwgCxFwweehLm/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "week13",
-              "link": "https://docs.google.com/document/d/1jM-h-ceAm-nFnXyPAv29rD18_2bnv5Yk/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "week14",
-              "link": "https://docs.google.com/document/d/1UlXJTEcpH8G7BzTHg5ityXi-J2Dy1IMv/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "week9",
-              "link": "https://docs.google.com/document/d/1fDDKXrYh7h0ZtUeknn5eNxA8QwONx8Kg/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            }
-          ]
-        },
-        "Extra Resources": {
-          "files": [
-            {
-              "title": "Youtube And Github Resources",
-              "link": "https://docs.google.com/document/d/1AF_v6md7Cdm5AClN0LB1fnuCqvHYp-8I/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            }
-          ]
-        },
-        "Professor Slides": {
-          "files": [
-            {
-              "title": "035dfb2e63a4c88ee61cf21ebe44ef0e755d637a547aaea6801d16bbacb6558c_Lec18_strings",
-              "link": "https://docs.google.com/presentation/d/1OdWtvWmU4FMBUTV0Ad1Q2SEvoKg8uTvE/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "18_Strings in C",
-              "link": "https://docs.google.com/presentation/d/1sR0pr5RSBOX3hWCYXJOP3ILYyLFp5wka/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "19_1",
-              "link": "https://drive.google.com/file/d/1KC6n321oF8OPOjdajNbleh7GiiKYd-pC/view?usp=drivesdk"
-            },
-            {
-              "title": "19_2",
-              "link": "https://drive.google.com/file/d/14lVHTQEKwEcGWcXvpHKJr6Ip7xBe1hU4/view?usp=drivesdk"
-            },
-            {
-              "title": "19_3",
-              "link": "https://drive.google.com/file/d/1b06qZwi11JT0ps3VJVdfio0a1w9UA741/view?usp=drivesdk"
-            },
-            {
-              "title": "19_IO with Strings in C",
-              "link": "https://docs.google.com/presentation/d/1jXi-nxOx3V-7fh3ods5dyzMk-_xUbHu1/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "20_1",
-              "link": "https://drive.google.com/file/d/1mUa_IxhsQhI7IKhlgQePaes4QENPpCeQ/view?usp=drivesdk"
-            },
-            {
-              "title": "20_2",
-              "link": "https://drive.google.com/file/d/1wquX8teYXuBpb2ATu-ar-07ar-8yKR8h/view?usp=drivesdk"
-            },
-            {
-              "title": "20_3",
-              "link": "https://drive.google.com/file/d/1iSBoUZEd6xKaRj0bQ_EOed3xSGE8JGHl/view?usp=drivesdk"
-            },
-            {
-              "title": "20_Advanced Strings",
-              "link": "https://docs.google.com/presentation/d/1oeN8qY1AVgPTFYLDqWZMMtsuzQJJK4Hp/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "21_1",
-              "link": "https://drive.google.com/file/d/1eCXcCdVATWjy18IqihfsgifAg8ntlqam/view?usp=drivesdk"
-            },
-            {
-              "title": "21_2",
-              "link": "https://drive.google.com/file/d/1AYwE88B_WXP89PvWGm7TIXI7rFPAi1dh/view?usp=drivesdk"
-            },
-            {
-              "title": "21_Number Systems in C",
-              "link": "https://docs.google.com/presentation/d/1-QACoxtf1HDn_BzFYsUBr-QEeIGmlUBX/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "22_1",
-              "link": "https://drive.google.com/file/d/17WQgwNYJLsadoa8vITEF5Y_KJip-PQ3w/view?usp=drivesdk"
-            },
-            {
-              "title": "22_2",
-              "link": "https://drive.google.com/file/d/1kKCLBajTAdESJyKa39_WQfiV1dRMb2N6/view?usp=drivesdk"
-            },
-            {
-              "title": "22_My First Pointer in C",
-              "link": "https://docs.google.com/presentation/d/1u55jkEWgSR2Ci5EWf92XicTgF0NlAWh0/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "23_1",
-              "link": "https://drive.google.com/file/d/1Srfpyxdb9ySHg711Nizi8_a7UJCTS21F/view?usp=drivesdk"
-            },
-            {
-              "title": "23_2",
-              "link": "https://drive.google.com/file/d/1cobIim9nf-Jdnp2Hd6mruL-7s8CSVWmI/view?usp=drivesdk"
-            },
-            {
-              "title": "23_Memory Allocation",
-              "link": "https://docs.google.com/presentation/d/1y0nuKxFPnXLBG8a2RiOjuJZI8tDCoIei/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "24_1",
-              "link": "https://drive.google.com/file/d/1v98ewxbhV4jRivb3ybzWhDwhO8zC4x9v/view?usp=drivesdk"
-            },
-            {
-              "title": "24_2",
-              "link": "https://drive.google.com/file/d/18ErbAiavGJ9VWM3xf-Fn3aIIoNbDs690/view?usp=drivesdk"
-            },
-            {
-              "title": "24_3",
-              "link": "https://drive.google.com/file/d/1P-4_48KTtdnmqZSbq3PkgcZlvWH3YaR3/view?usp=drivesdk"
-            },
-            {
-              "title": "24_Pointers to Pointers",
-              "link": "https://docs.google.com/presentation/d/1uhGyLrYkL028Y3CVac3dIuUXbno1WSFK/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "25_1",
-              "link": "https://drive.google.com/file/d/1U8s3g5rgPbVd5vO65PPAdMWClREZuYag/view?usp=drivesdk"
-            },
-            {
-              "title": "25_2",
-              "link": "https://drive.google.com/file/d/1Ss29y_MvTLafdo9YRVMbPmPCjtNrF_i5/view?usp=drivesdk"
-            },
-            {
-              "title": "26_1",
-              "link": "https://drive.google.com/file/d/16lM4cv6nTk5GFFeKlyxGZMK9Py3iCDjy/view?usp=drivesdk"
-            },
-            {
-              "title": "27_1",
-              "link": "https://drive.google.com/file/d/1fJoYWjom0pk5m2FWO7vJLbMYIrX8mSWz/view?usp=drivesdk"
-            },
-            {
-              "title": "28_1",
-              "link": "https://drive.google.com/file/d/1QqxRZ0Al5dWieON1KZQJpo5Zv0_D7ECG/view?usp=drivesdk"
-            },
-            {
-              "title": "29_1",
-              "link": "https://drive.google.com/file/d/1RTQWOikys_f84Mh6hIGx-d0SS9NthSj-/view?usp=drivesdk"
-            },
-            {
-              "title": "29_2",
-              "link": "https://drive.google.com/file/d/1yVq9ERMBzQTthJ7BCF3ApkYHwNH1jQWE/view?usp=drivesdk"
-            },
-            {
-              "title": "29_3",
-              "link": "https://drive.google.com/file/d/1zgXvOz2gfpJYG98wLIKp4Lm6yJFHmWd5/view?usp=drivesdk"
-            },
-            {
-              "title": "30_1",
-              "link": "https://drive.google.com/file/d/1BwGqOGgHkkhIS9EMbd63se3gBv0Z_D6A/view?usp=drivesdk"
-            },
-            {
-              "title": "30_2",
-              "link": "https://drive.google.com/file/d/1WCSBBreDaGwUckYl0aaepwH3TP5n2cZx/view?usp=drivesdk"
-            },
-            {
-              "title": "30_3",
-              "link": "https://drive.google.com/file/d/1qbyYzhdEC6h_3FASHPH4_YXXnpQjrjv0/view?usp=drivesdk"
-            },
-            {
-              "title": "30_Recursion in C",
-              "link": "https://docs.google.com/presentation/d/1uYtyXKAjL3xgvF0XABDzbcRUtKqhBJBt/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "31_1",
-              "link": "https://drive.google.com/file/d/12R9jOJtaZhUEJS3TBwE-OanpjXgqSBsr/view?usp=drivesdk"
-            },
-            {
-              "title": "31_Scope in C",
-              "link": "https://docs.google.com/presentation/d/1kK2GIMG-zz4KlWuVfAMnsqdzTx0AAZir/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "32_1",
-              "link": "https://drive.google.com/file/d/18eRMMjxJHl1CchbGTIiYreqbHNyY81Ev/view?usp=drivesdk"
-            },
-            {
-              "title": "32_Structures in C",
-              "link": "https://docs.google.com/presentation/d/1T4Oy7VqV-XvyyLs5wftRT3rdDbIPo6NK/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "33_1",
-              "link": "https://drive.google.com/file/d/1U9xNJxk7d42Qyf9TiLvqTuE68zyO4paV/view?usp=drivesdk"
-            },
-            {
-              "title": "33_2",
-              "link": "https://drive.google.com/file/d/1Vy_TUziMIy0d451ZiZaq1j22KTZopzNj/view?usp=drivesdk"
-            },
-            {
-              "title": "33_3",
-              "link": "https://drive.google.com/file/d/1bsz35SFpouMljDaKFI5xDDure1FSL_Kr/view?usp=drivesdk"
-            },
-            {
-              "title": "33_Linked Lists in C",
-              "link": "https://docs.google.com/presentation/d/1rvo1O3b_zaRig6g8lUmT-SJUoKlTAejT/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "34_Sorting in C",
-              "link": "https://docs.google.com/presentation/d/1HECN__pZh1hstAiyd3-yIrcAZE7QOWOB/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "35_1",
-              "link": "https://drive.google.com/file/d/1zW6cyk42OdT7YD5sECq1ivNHoaaBE7NG/view?usp=drivesdk"
-            },
-            {
-              "title": "35_2",
-              "link": "https://drive.google.com/file/d/1U8m4VDNFMMehr7H6_NEd1mJ-nuq4tpJo/view?usp=drivesdk"
-            },
-            {
-              "title": "35_3",
-              "link": "https://drive.google.com/file/d/1JRF7_zM9tliVPlkDK2K3N5f7pWpTAlUf/view?usp=drivesdk"
-            },
-            {
-              "title": "35_Advanced Sorting",
-              "link": "https://docs.google.com/presentation/d/1nJbCVuPm_NmsOwMJ9PAISfgYI7uphK1M/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "36_Numerical Methods",
-              "link": "https://docs.google.com/presentation/d/17OEJm556HqI0b_KDPDAYfg93C2-SAxGb/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "37_Bitwise Operations",
-              "link": "https://docs.google.com/presentation/d/1Y6gzP2SjKkAkOPDFL4IYPK40ym3SJRlt/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "38_Conclusion",
-              "link": "https://docs.google.com/presentation/d/197Cl1B_oH_mwDi-6R9zr0xz3pZEOnQB0/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "array of pointers",
-              "link": "https://docs.google.com/presentation/d/1s17w0fGfBL3rjujnR8lKadivpxiKLdmP/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "array_of_pointers",
-              "link": "https://docs.google.com/presentation/d/15bZcPlKMAL1r8JVQCE2OSOF2Ndtl9ghS/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "BINARY SEARCH",
-              "link": "https://docs.google.com/presentation/d/1e9lt-tmzJ2NQMAlfilg9o1O9Q3JrLW1L/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "Dynamic memory management",
-              "link": "https://docs.google.com/presentation/d/15XfDYneij74xF0DdkkzZZdyGSgFCuHRc/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "Dynamic_memory_management",
-              "link": "https://docs.google.com/presentation/d/13knqgph07p4M0cwYcG20TLfMn6qNjGhC/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "ESC112 Lecture Notes",
-              "link": "https://drive.google.com/file/d/10mTfYJ1D9ZJIArkR34RlK8a5J_mT_6WD/view?usp=drivesdk"
-            },
-            {
-              "title": "INTRO RECURSION",
-              "link": "https://docs.google.com/presentation/d/1unSrRqXGCzb-DaiMxviTTXVTQYbYpQtS/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "intro to pointers",
-              "link": "https://docs.google.com/presentation/d/1j1LPyY-txBfpMDqUkS1HY_0Rs4odUIQF/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "intro_to_pointers",
-              "link": "https://docs.google.com/presentation/d/1c5Ph6Pr4kqfb0zNQP8R8au4yhBGCm2xM/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "Introducing Structures",
-              "link": "https://docs.google.com/presentation/d/1MTr4Qp8Xiw7jhNVUNcySrNnq25XNzuW4/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "introducing_structures",
-              "link": "https://docs.google.com/presentation/d/1asPnwNvKvioENR24MG5sua1dE3VaQODz/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "Merge Sort",
-              "link": "https://docs.google.com/presentation/d/1AH8ByG7kRfR6M7b7L4YbJkg474otpjwV/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "MULTI DIM ARRAY",
-              "link": "https://docs.google.com/presentation/d/19xNfHBK1nC96EVHsr3CDgv1zWuzPlgWL/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "PASSING ARRAY REF",
-              "link": "https://docs.google.com/presentation/d/1oXtGGaDb2lsLDY2P85Fa-YFtorcJ_yIK/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "Quick Sort",
-              "link": "https://docs.google.com/presentation/d/1wVtxr2jIP4QOM0bhVYzmNlcg-ouVIIO6/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "Selection and Insertion Sort",
-              "link": "https://docs.google.com/presentation/d/14GYMaZF1q5vxx4OCRytWtQL93aStOA3-/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "sorting_1",
-              "link": "https://docs.google.com/presentation/d/1BbUCcXVw7In-8RbiAD-IpEbsImMj-GNy/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "sorting_2",
-              "link": "https://docs.google.com/presentation/d/1Mc_l_qysYUTJL2qejmM0oovUCklg387B/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "sorting_3",
-              "link": "https://docs.google.com/presentation/d/1Fi8dsuRxBbzpR_f4wbgr3rSWZbhq-XJ8/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "Structure pointers",
-              "link": "https://docs.google.com/presentation/d/16gOfRMJ1gVP_-G2R_iW-LfU7HynixRgX/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "structure_pointers_finishing_up",
-              "link": "https://docs.google.com/presentation/d/1WtR56mqE3y2ocZsTKLIE4LZH8Wu5rqmT/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "THINK ABOUT RECURSIVE SEARCH",
-              "link": "https://docs.google.com/presentation/d/16eROTGIeesEVZjnjIu0vmZWU9SSGszLz/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "VALUE AND ADDRESS",
-              "link": "https://docs.google.com/presentation/d/10rLKPvyXzvB9PPY_3YdxOi1yHm-gV0pe/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "values-and-addresses",
-              "link": "https://docs.google.com/presentation/d/1RqxDRO0h2dngmjGw-IAt8DeKHag2-eRe/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            }
-          ]
-        },
-        "Practice Questions": {
-          "files": [
-            {
-              "title": "easy",
-              "link": "https://drive.google.com/file/d/1Vj7mjt7ArvAo1UsM90rzzuNvlojFay8O/view?usp=drivesdk"
-            },
-            {
-              "title": "easy (1)",
-              "link": "https://drive.google.com/file/d/1Eolg89tJ9sAp-QKpUvLKOK9vMxmaLQO2/view?usp=drivesdk"
-            },
-            {
-              "title": "easy1",
-              "link": "https://drive.google.com/file/d/16hIYmmEdO4-61M6XokpG-3qmFMyjIv7J/view?usp=drivesdk"
-            },
-            {
-              "title": "easy1",
-              "link": "https://drive.google.com/file/d/1BPKJNOLrMr8m3Fq6wDwOYLqEp6t4GvUg/view?usp=drivesdk"
-            },
-            {
-              "title": "easy2",
-              "link": "https://drive.google.com/file/d/13HEDtVBUjTCf29lhe5Log1jUs2J-LM1Y/view?usp=drivesdk"
-            },
-            {
-              "title": "easy2",
-              "link": "https://drive.google.com/file/d/1tUFBGsMzBnITZhUT8KhoDx76KYd9igHB/view?usp=drivesdk"
-            },
-            {
-              "title": "hard",
-              "link": "https://drive.google.com/file/d/1Yqy9E0kdBBpBlwuPD-aQOQC3r4ds4Pfy/view?usp=drivesdk"
-            },
-            {
-              "title": "hard (1)",
-              "link": "https://drive.google.com/file/d/18yo82-fW1GQi77K86rdTtnAh0dpupOxp/view?usp=drivesdk"
-            },
-            {
-              "title": "hard (2)",
-              "link": "https://drive.google.com/file/d/19MVuaUC57Nj4BU07qZqLqvbz1sAHNrqi/view?usp=drivesdk"
-            },
-            {
-              "title": "medium",
-              "link": "https://drive.google.com/file/d/1hkxGKrfbjm5nSePX0u9ARXoikXlEJlQR/view?usp=drivesdk"
-            },
-            {
-              "title": "medium1",
-              "link": "https://drive.google.com/file/d/1CirTWd_CnJt74JQM8KEIfpGupfB3nijo/view?usp=drivesdk"
-            },
-            {
-              "title": "medium1",
-              "link": "https://drive.google.com/file/d/1ZrRtZpZ4rKXWHgzdRjfKokB_CX30LJqy/view?usp=drivesdk"
-            },
-            {
-              "title": "medium1 (1)",
-              "link": "https://drive.google.com/file/d/1fReewaJMYY9i_IsXQoD7oPPhRXUJppkO/view?usp=drivesdk"
-            },
-            {
-              "title": "medium2",
-              "link": "https://drive.google.com/file/d/1A0mhbEW8-yM-qpfg7Dcr77eRY9o99aIv/view?usp=drivesdk"
-            },
-            {
-              "title": "medium2",
-              "link": "https://drive.google.com/file/d/1AUXkvhJILCsbgHnEsrN9Gz3-XlFQiXzi/view?usp=drivesdk"
-            },
-            {
-              "title": "medium2 (1)",
-              "link": "https://drive.google.com/file/d/1Pl6d7bEE92dN6am8GS1ksEiJSMuFxTc1/view?usp=drivesdk"
-            },
-            {
-              "title": "P10",
-              "link": "https://drive.google.com/file/d/1Kt25v5Cm1CQdP0AoIVF0tgQP90BzIhd1/view?usp=drivesdk"
-            },
-            {
-              "title": "P11",
-              "link": "https://drive.google.com/file/d/1zKoXvQPCoE4goNbwbU14Ky10-9Qbn_UD/view?usp=drivesdk"
-            },
-            {
-              "title": "P7",
-              "link": "https://drive.google.com/file/d/1KRt6EhWzx84xb5hbfNguZf9hUqLQtat3/view?usp=drivesdk"
-            },
-            {
-              "title": "P9",
-              "link": "https://drive.google.com/file/d/13pVVhSvME7x4z1Jp4BLQ-u2KjXDOJNoT/view?usp=drivesdk"
-            }
-          ]
-        },
-        "Y23 Notes": {
-          "files": [
-            {
-              "title": "_Passing_array_by_reference",
-              "link": "https://docs.google.com/presentation/d/1st2KrFwz81-dL7SeYlP_-4h5dznIb7pN/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "2",
-              "link": "https://drive.google.com/file/d/1i_8IzLE6FyLIwyBKSE9Zwo6u1xG2IBfB/view?usp=drivesdk"
-            },
-            {
-              "title": "3",
-              "link": "https://drive.google.com/file/d/1PRTS3E9Z4910XaEOSpRRxi0thr8eFJuC/view?usp=drivesdk"
-            },
-            {
-              "title": "Adobe Scan 27-Jan-2024 (2)",
-              "link": "https://drive.google.com/file/d/1G4KcHGI7DtiSi0svrtj9vxJa4PZEiL2R/view?usp=drivesdk"
-            },
-            {
-              "title": "Call by Value and Reference",
-              "link": "https://drive.google.com/file/d/1zAU-RlQBqkWxY0N5vLF1dPNDBKwzyk6l/view?usp=drivesdk"
-            },
-            {
-              "title": "Copy of Sorting",
-              "link": "https://drive.google.com/file/d/1LNL18FZM6C3RbSZFZF4rvjTJH9elTHwf/view?usp=drivesdk"
-            },
-            {
-              "title": "ESC resources_",
-              "link": "https://docs.google.com/document/d/1Hi5rYOETVXNmcG3yO9xkj8uuAL-cGmkO/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "Intro to Linked Lists",
-              "link": "https://drive.google.com/file/d/1hY5D1C22Bol5exVjzGvQ_8ajpIGKygeF/view?usp=drivesdk"
-            },
-            {
-              "title": "Pointers and dynamic memory notes",
-              "link": "https://drive.google.com/file/d/1xV8Q1YxpMH8PnqE5j5BG56TgT9RRHrBh/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 191739",
-              "link": "https://drive.google.com/file/d/14DPVbnjpowoCpJgwTrhgo4SrtWrXkYUZ/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 191812",
-              "link": "https://drive.google.com/file/d/13aY0C2v6OVsVdXhMGXx3MoXK4qNv4GcT/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 191824",
-              "link": "https://drive.google.com/file/d/1Sn26Rry_n9hpwV_FnCfQBAwmAuVWtYxQ/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 191851",
-              "link": "https://drive.google.com/file/d/1S6kV6aX6chuV4uLtcAvc7VOjLN8voYjC/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 193303",
-              "link": "https://drive.google.com/file/d/1CD65cIylctcnd6MRj58Hfy8ryyqnpLfg/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 193304",
-              "link": "https://drive.google.com/file/d/1cNoZxaLGdCIhPTgapyJnvrEQ5P0jw2OG/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 193713",
-              "link": "https://drive.google.com/file/d/1ducb_ZNmh5mWzlAStDFzCoJnFTxI0sLm/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 193714",
-              "link": "https://drive.google.com/file/d/1x9gRxTV6uUbrmYelZ55XF76z8i9n8c1E/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 193733",
-              "link": "https://drive.google.com/file/d/15UhkpzjV8Fe4cJiE_iqim84OKP2deppr/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 193745",
-              "link": "https://drive.google.com/file/d/1BBVhrIcRs76Y8503zqptvur5VTHF_nvC/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 193757",
-              "link": "https://drive.google.com/file/d/17j3umKTu8XtJ2sX47D2xlAs8BxPh8g5u/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 193826",
-              "link": "https://drive.google.com/file/d/1zHLHT77NQo1zPgrIoGpewo9Ny5OwaHhq/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 193941",
-              "link": "https://drive.google.com/file/d/1EYiywPTG7HdqX8NgMt_FaKKGthmMeQ1W/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 194028",
-              "link": "https://drive.google.com/file/d/1yiEFL4hkXcjviZoeENKx4K5H5F286TVl/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 194108",
-              "link": "https://drive.google.com/file/d/1hWYMDwFIgIvsu78HI3oQG80ceWYLykrz/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 194231",
-              "link": "https://drive.google.com/file/d/1BjTR7hfwj4X94jAy40tFyRZAGfQgdM7n/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 194611",
-              "link": "https://drive.google.com/file/d/1IhMLIKf7srTvuGVpTBasvhV0sME71d7V/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 194751",
-              "link": "https://drive.google.com/file/d/1k9TB8ZrjVBeNyhW4MKumUco5RF8RcOrb/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 194838",
-              "link": "https://drive.google.com/file/d/1Nxc4J7Cb_7vWwEvwCCJgCqBmwr6ZNOIT/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 194919",
-              "link": "https://drive.google.com/file/d/1IOGsA7x9ezEfmVaGiAoc9JHUit-Vjp5Z/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 195029",
-              "link": "https://drive.google.com/file/d/1SpbxsqcQnBoYx_yc4lNXvJ3EL3-ln__Q/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 195048",
-              "link": "https://drive.google.com/file/d/1dGUzXBUrblVwk5BUtX1xZ1d8cHZjG42i/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 195207",
-              "link": "https://drive.google.com/file/d/1iGRukwHfKw7Xl7Pgbn4WLiPMD_bEv1Sc/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 195224",
-              "link": "https://drive.google.com/file/d/1I5REdhYa-Y_ftDySIvoj6bkmnsi76j_v/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 195245",
-              "link": "https://drive.google.com/file/d/1NKBiYFs9fyUeXGzyIxPP8qOs6bVLdolJ/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 195256",
-              "link": "https://drive.google.com/file/d/1F4gn-kF4wCBRF0gUfdltivmBhdJSMMQ0/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 200037",
-              "link": "https://drive.google.com/file/d/1eyrZi4QlD2LPopTRKnFvJVp5ZrZ56Pqn/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 200103",
-              "link": "https://drive.google.com/file/d/1_OyKhAjElAXgpvsCCBRp9Utk784-v6K4/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 200654",
-              "link": "https://drive.google.com/file/d/1zszOe6oJAtV9_I2tMim-aAsjoZOEaUJE/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 200824",
-              "link": "https://drive.google.com/file/d/1jmWBPk45WOBC89AEqfuDSSUL7_EaQ8b3/view?usp=drivesdk"
-            },
-            {
-              "title": "Screenshot 2024-05-25 200845",
-              "link": "https://drive.google.com/file/d/14W3OcZMMMiu9-EZzqgJbcw9TKFdQ0mBS/view?usp=drivesdk"
-            },
-            {
-              "title": "slides_for_am_interview",
-              "link": "https://docs.google.com/presentation/d/1fhXtjKRS6GcXdJNAjwYXZpo0DL0MX_cB/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "Sorting and Pointers",
-              "link": "https://drive.google.com/file/d/1AsoUghKnKZn6ST9AfBA8k3yEaQGEiSpG/view?usp=drivesdk"
-            },
-            {
-              "title": "Sorting and Searching",
-              "link": "https://docs.google.com/presentation/d/1byoTdJ0cNC8UDFMO6tVP3NUxGGR3umdh/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "Strings",
-              "link": "https://drive.google.com/file/d/1Tbem3XHUnlR17nFST4xZpOOLY3zYPMGA/view?usp=drivesdk"
-            },
-            {
-              "title": "WhatsApp Image 2024-05-25 at 20.11.35_f519ea14",
-              "link": "https://drive.google.com/file/d/1Pbx0-Aw1O5JuFXoUfkCd11r86gOs4YAB/view?usp=drivesdk"
-            },
-            {
-              "title": "WhatsApp Image 2024-05-25 at 20.11.45_091fa02d",
-              "link": "https://drive.google.com/file/d/1wFrXON2YeUdHWrVhbNssesbk1GOaF-ZI/view?usp=drivesdk"
-            }
-          ]
-        },
-        "AM Slides": {
-          
-          "ESC111": {
+          "Vocabulary": {
             "files": [
               {
-                "title": "Copy of ESC-Recursion-15-10-23_AM_Class",
-                "link": "https://drive.google.com/file/d/1QYtqnzcLWhZxQlzqCXRrc0S8_fLLdR9k/view?usp=drivesdk"
+                "title": "PYQ Compilation",
+                "link": "https://drive.google.com/file/d/18cpAbh1vgizqkmA9hR8Xfoj5EwB-nD8p/view?usp=sharing"
               },
               {
-                "title": "ESC AM Class2_231120_212350",
-                "link": "https://drive.google.com/file/d/1eHVv1X8mt2FqwmBkvrA_uqd6PuCOoO6k/view?usp=drivesdk"
-              },
-              {
-                "title": "ESC111 AM Class",
-                "link": "https://drive.google.com/file/d/1WaPbyqqFVK4uKvnT_X3Z2IbntJwI4DJM/view?usp=drivesdk"
-              }
-            ]
-          },
-          "ESC112": {
-            "files": [
-              {
-                "title": "Data Structures",
-                "link": "https://drive.google.com/file/d/1ZoCw-bHoRH6srCAbW5fxrsBk1FBNP1yT/view?usp=drivesdk"
-              },
-              {
-                "title": "ESC AM Class2",
-                "link": "https://drive.google.com/file/d/1-J1YxwhcSjm3r0SAsDysHf2TrBjKqTkb/view?usp=drivesdk"
+                "title": "AM Slides",
+                "link": "https://drive.google.com/file/d/1IAOpb5CnyP3VEUtFXw4g4GgtcnI0VgbJ/view?usp=sharing"
               }
             ]
           }
-        },
-        "Lab Exams": {
+
+        // "Tutorial Sheets": {
+        //   "files": [
+        //     {
+        //       "title": "Strings",
+        //       "link": "https://drive.google.com/file/d/1mAlgBSGUa86wBJH1kc8IUhVvOvrM3gGV/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Passing by Reference Value",
+        //       "link": "https://drive.google.com/file/d/1UEqteS4olUC2J9Z_-JWvpAclvtyl1B_v/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "ESC 112 Tutorial 2",
+        //       "link": "https://docs.google.com/document/d/1cwiFMwMLObF3gL0_TCKFFU0e9ngLNdia/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "ESC 112 Tutorial 3",
+        //       "link": "https://drive.google.com/file/d/1i-_U6Soxlnz3ZfMtkXjFUmOqM5wFfZX3/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "ESC 112 Tutorial 4",
+        //       "link": "https://docs.google.com/document/d/1tCm4JwwHwb2RVVZ3sDachY8lPp7KCezP/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "ESC Tutorial",
+        //       "link": "https://drive.google.com/file/d/1p140HD3RZ3cUfIFUM2oC4XqjKQHsmymN/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "ESC112 Tutorial - Sheet",
+        //       "link": "https://drive.google.com/file/d/12jvY--lAFGH6ZjN4DuSoeA0Wo-f6QFCi/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "ESC112 Tutorial - Sheet",
+        //       "link": "https://docs.google.com/document/d/1VcVTWj8TnoaWaJsP-NkWvMuUcsKuN5q2/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "ESC112 Tutorial 1",
+        //       "link": "https://drive.google.com/file/d/1qgMsiISxk_5QtcAnY9t_ZI8tGTi_oPSW/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "ESC112 Tutorial 2",
+        //       "link": "https://docs.google.com/document/d/1wjWISKLP5WwDrvFxbL_qTd4OTHJ12gJG/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "ESC112 Tutorial 3",
+        //       "link": "https://drive.google.com/file/d/19FACL85OFzTcivKE-sQ-jEi7m_aOgKgc/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "ESC112 Tutorial 4",
+        //       "link": "https://docs.google.com/document/d/1TSQp1c-pVkmG7FYkhUz8qeELj5qipd-T/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "ESC112 Tutorial 4",
+        //       "link": "https://drive.google.com/file/d/1lrVlGhjEZNG5ggreosOgvzn8A4PBXzBt/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "ESC112 Tutorial 4 (1)",
+        //       "link": "https://docs.google.com/document/d/1KMFNyKC1JqQ3xA_HYmuW6RtEvFB0iFdU/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "ESC112 Tutorial Sheet 1",
+        //       "link": "https://drive.google.com/file/d/1ZPd_r9k-Q_3LydyIhsY_fGog1ZW-NkPs/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "ESC112 Tutorial Sheet 1(1)",
+        //       "link": "https://drive.google.com/file/d/1Jalib9vyMVyGrDOpJtxL2u-SZdwS6NGt/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Linked lists - Learn C - Free Interactive C Tutorial",
+        //       "link": "https://drive.google.com/file/d/1WTY4c0IcrUiZOExPSymsb7Xa6wETakoF/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "week10",
+        //       "link": "https://docs.google.com/document/d/13H1rMzWdGRKq81nlCJZr3zJLgFsjN9d5/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "week11",
+        //       "link": "https://docs.google.com/document/d/1tEqZl1mV17pSetpOMLA7DCs1mkxIBIQe/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "week12",
+        //       "link": "https://docs.google.com/document/d/16f_atf_7X8IxAqfNOC7xwgCxFwweehLm/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "week13",
+        //       "link": "https://docs.google.com/document/d/1jM-h-ceAm-nFnXyPAv29rD18_2bnv5Yk/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "week14",
+        //       "link": "https://docs.google.com/document/d/1UlXJTEcpH8G7BzTHg5ityXi-J2Dy1IMv/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "week9",
+        //       "link": "https://docs.google.com/document/d/1fDDKXrYh7h0ZtUeknn5eNxA8QwONx8Kg/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     }
+        //   ]
+        // },
+        // "Extra Resources": {
+        //   "files": [
+        //     {
+        //       "title": "Youtube And Github Resources",
+        //       "link": "https://docs.google.com/document/d/1AF_v6md7Cdm5AClN0LB1fnuCqvHYp-8I/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     }
+        //   ]
+        // },
+        // "Professor Slides": {
+        //   "files": [
+        //     {
+        //       "title": "035dfb2e63a4c88ee61cf21ebe44ef0e755d637a547aaea6801d16bbacb6558c_Lec18_strings",
+        //       "link": "https://docs.google.com/presentation/d/1OdWtvWmU4FMBUTV0Ad1Q2SEvoKg8uTvE/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "18_Strings in C",
+        //       "link": "https://docs.google.com/presentation/d/1sR0pr5RSBOX3hWCYXJOP3ILYyLFp5wka/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "19_1",
+        //       "link": "https://drive.google.com/file/d/1KC6n321oF8OPOjdajNbleh7GiiKYd-pC/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "19_2",
+        //       "link": "https://drive.google.com/file/d/14lVHTQEKwEcGWcXvpHKJr6Ip7xBe1hU4/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "19_3",
+        //       "link": "https://drive.google.com/file/d/1b06qZwi11JT0ps3VJVdfio0a1w9UA741/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "19_IO with Strings in C",
+        //       "link": "https://docs.google.com/presentation/d/1jXi-nxOx3V-7fh3ods5dyzMk-_xUbHu1/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "20_1",
+        //       "link": "https://drive.google.com/file/d/1mUa_IxhsQhI7IKhlgQePaes4QENPpCeQ/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "20_2",
+        //       "link": "https://drive.google.com/file/d/1wquX8teYXuBpb2ATu-ar-07ar-8yKR8h/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "20_3",
+        //       "link": "https://drive.google.com/file/d/1iSBoUZEd6xKaRj0bQ_EOed3xSGE8JGHl/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "20_Advanced Strings",
+        //       "link": "https://docs.google.com/presentation/d/1oeN8qY1AVgPTFYLDqWZMMtsuzQJJK4Hp/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "21_1",
+        //       "link": "https://drive.google.com/file/d/1eCXcCdVATWjy18IqihfsgifAg8ntlqam/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "21_2",
+        //       "link": "https://drive.google.com/file/d/1AYwE88B_WXP89PvWGm7TIXI7rFPAi1dh/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "21_Number Systems in C",
+        //       "link": "https://docs.google.com/presentation/d/1-QACoxtf1HDn_BzFYsUBr-QEeIGmlUBX/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "22_1",
+        //       "link": "https://drive.google.com/file/d/17WQgwNYJLsadoa8vITEF5Y_KJip-PQ3w/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "22_2",
+        //       "link": "https://drive.google.com/file/d/1kKCLBajTAdESJyKa39_WQfiV1dRMb2N6/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "22_My First Pointer in C",
+        //       "link": "https://docs.google.com/presentation/d/1u55jkEWgSR2Ci5EWf92XicTgF0NlAWh0/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "23_1",
+        //       "link": "https://drive.google.com/file/d/1Srfpyxdb9ySHg711Nizi8_a7UJCTS21F/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "23_2",
+        //       "link": "https://drive.google.com/file/d/1cobIim9nf-Jdnp2Hd6mruL-7s8CSVWmI/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "23_Memory Allocation",
+        //       "link": "https://docs.google.com/presentation/d/1y0nuKxFPnXLBG8a2RiOjuJZI8tDCoIei/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "24_1",
+        //       "link": "https://drive.google.com/file/d/1v98ewxbhV4jRivb3ybzWhDwhO8zC4x9v/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "24_2",
+        //       "link": "https://drive.google.com/file/d/18ErbAiavGJ9VWM3xf-Fn3aIIoNbDs690/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "24_3",
+        //       "link": "https://drive.google.com/file/d/1P-4_48KTtdnmqZSbq3PkgcZlvWH3YaR3/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "24_Pointers to Pointers",
+        //       "link": "https://docs.google.com/presentation/d/1uhGyLrYkL028Y3CVac3dIuUXbno1WSFK/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "25_1",
+        //       "link": "https://drive.google.com/file/d/1U8s3g5rgPbVd5vO65PPAdMWClREZuYag/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "25_2",
+        //       "link": "https://drive.google.com/file/d/1Ss29y_MvTLafdo9YRVMbPmPCjtNrF_i5/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "26_1",
+        //       "link": "https://drive.google.com/file/d/16lM4cv6nTk5GFFeKlyxGZMK9Py3iCDjy/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "27_1",
+        //       "link": "https://drive.google.com/file/d/1fJoYWjom0pk5m2FWO7vJLbMYIrX8mSWz/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "28_1",
+        //       "link": "https://drive.google.com/file/d/1QqxRZ0Al5dWieON1KZQJpo5Zv0_D7ECG/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "29_1",
+        //       "link": "https://drive.google.com/file/d/1RTQWOikys_f84Mh6hIGx-d0SS9NthSj-/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "29_2",
+        //       "link": "https://drive.google.com/file/d/1yVq9ERMBzQTthJ7BCF3ApkYHwNH1jQWE/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "29_3",
+        //       "link": "https://drive.google.com/file/d/1zgXvOz2gfpJYG98wLIKp4Lm6yJFHmWd5/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "30_1",
+        //       "link": "https://drive.google.com/file/d/1BwGqOGgHkkhIS9EMbd63se3gBv0Z_D6A/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "30_2",
+        //       "link": "https://drive.google.com/file/d/1WCSBBreDaGwUckYl0aaepwH3TP5n2cZx/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "30_3",
+        //       "link": "https://drive.google.com/file/d/1qbyYzhdEC6h_3FASHPH4_YXXnpQjrjv0/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "30_Recursion in C",
+        //       "link": "https://docs.google.com/presentation/d/1uYtyXKAjL3xgvF0XABDzbcRUtKqhBJBt/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "31_1",
+        //       "link": "https://drive.google.com/file/d/12R9jOJtaZhUEJS3TBwE-OanpjXgqSBsr/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "31_Scope in C",
+        //       "link": "https://docs.google.com/presentation/d/1kK2GIMG-zz4KlWuVfAMnsqdzTx0AAZir/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "32_1",
+        //       "link": "https://drive.google.com/file/d/18eRMMjxJHl1CchbGTIiYreqbHNyY81Ev/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "32_Structures in C",
+        //       "link": "https://docs.google.com/presentation/d/1T4Oy7VqV-XvyyLs5wftRT3rdDbIPo6NK/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "33_1",
+        //       "link": "https://drive.google.com/file/d/1U9xNJxk7d42Qyf9TiLvqTuE68zyO4paV/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "33_2",
+        //       "link": "https://drive.google.com/file/d/1Vy_TUziMIy0d451ZiZaq1j22KTZopzNj/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "33_3",
+        //       "link": "https://drive.google.com/file/d/1bsz35SFpouMljDaKFI5xDDure1FSL_Kr/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "33_Linked Lists in C",
+        //       "link": "https://docs.google.com/presentation/d/1rvo1O3b_zaRig6g8lUmT-SJUoKlTAejT/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "34_Sorting in C",
+        //       "link": "https://docs.google.com/presentation/d/1HECN__pZh1hstAiyd3-yIrcAZE7QOWOB/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "35_1",
+        //       "link": "https://drive.google.com/file/d/1zW6cyk42OdT7YD5sECq1ivNHoaaBE7NG/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "35_2",
+        //       "link": "https://drive.google.com/file/d/1U8m4VDNFMMehr7H6_NEd1mJ-nuq4tpJo/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "35_3",
+        //       "link": "https://drive.google.com/file/d/1JRF7_zM9tliVPlkDK2K3N5f7pWpTAlUf/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "35_Advanced Sorting",
+        //       "link": "https://docs.google.com/presentation/d/1nJbCVuPm_NmsOwMJ9PAISfgYI7uphK1M/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "36_Numerical Methods",
+        //       "link": "https://docs.google.com/presentation/d/17OEJm556HqI0b_KDPDAYfg93C2-SAxGb/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "37_Bitwise Operations",
+        //       "link": "https://docs.google.com/presentation/d/1Y6gzP2SjKkAkOPDFL4IYPK40ym3SJRlt/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "38_Conclusion",
+        //       "link": "https://docs.google.com/presentation/d/197Cl1B_oH_mwDi-6R9zr0xz3pZEOnQB0/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "array of pointers",
+        //       "link": "https://docs.google.com/presentation/d/1s17w0fGfBL3rjujnR8lKadivpxiKLdmP/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "array_of_pointers",
+        //       "link": "https://docs.google.com/presentation/d/15bZcPlKMAL1r8JVQCE2OSOF2Ndtl9ghS/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "BINARY SEARCH",
+        //       "link": "https://docs.google.com/presentation/d/1e9lt-tmzJ2NQMAlfilg9o1O9Q3JrLW1L/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "Dynamic memory management",
+        //       "link": "https://docs.google.com/presentation/d/15XfDYneij74xF0DdkkzZZdyGSgFCuHRc/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "Dynamic_memory_management",
+        //       "link": "https://docs.google.com/presentation/d/13knqgph07p4M0cwYcG20TLfMn6qNjGhC/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "ESC112 Lecture Notes",
+        //       "link": "https://drive.google.com/file/d/10mTfYJ1D9ZJIArkR34RlK8a5J_mT_6WD/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "INTRO RECURSION",
+        //       "link": "https://docs.google.com/presentation/d/1unSrRqXGCzb-DaiMxviTTXVTQYbYpQtS/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "intro to pointers",
+        //       "link": "https://docs.google.com/presentation/d/1j1LPyY-txBfpMDqUkS1HY_0Rs4odUIQF/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "intro_to_pointers",
+        //       "link": "https://docs.google.com/presentation/d/1c5Ph6Pr4kqfb0zNQP8R8au4yhBGCm2xM/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "Introducing Structures",
+        //       "link": "https://docs.google.com/presentation/d/1MTr4Qp8Xiw7jhNVUNcySrNnq25XNzuW4/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "introducing_structures",
+        //       "link": "https://docs.google.com/presentation/d/1asPnwNvKvioENR24MG5sua1dE3VaQODz/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "Merge Sort",
+        //       "link": "https://docs.google.com/presentation/d/1AH8ByG7kRfR6M7b7L4YbJkg474otpjwV/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "MULTI DIM ARRAY",
+        //       "link": "https://docs.google.com/presentation/d/19xNfHBK1nC96EVHsr3CDgv1zWuzPlgWL/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "PASSING ARRAY REF",
+        //       "link": "https://docs.google.com/presentation/d/1oXtGGaDb2lsLDY2P85Fa-YFtorcJ_yIK/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "Quick Sort",
+        //       "link": "https://docs.google.com/presentation/d/1wVtxr2jIP4QOM0bhVYzmNlcg-ouVIIO6/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "Selection and Insertion Sort",
+        //       "link": "https://docs.google.com/presentation/d/14GYMaZF1q5vxx4OCRytWtQL93aStOA3-/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "sorting_1",
+        //       "link": "https://docs.google.com/presentation/d/1BbUCcXVw7In-8RbiAD-IpEbsImMj-GNy/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "sorting_2",
+        //       "link": "https://docs.google.com/presentation/d/1Mc_l_qysYUTJL2qejmM0oovUCklg387B/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "sorting_3",
+        //       "link": "https://docs.google.com/presentation/d/1Fi8dsuRxBbzpR_f4wbgr3rSWZbhq-XJ8/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "Structure pointers",
+        //       "link": "https://docs.google.com/presentation/d/16gOfRMJ1gVP_-G2R_iW-LfU7HynixRgX/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "structure_pointers_finishing_up",
+        //       "link": "https://docs.google.com/presentation/d/1WtR56mqE3y2ocZsTKLIE4LZH8Wu5rqmT/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "THINK ABOUT RECURSIVE SEARCH",
+        //       "link": "https://docs.google.com/presentation/d/16eROTGIeesEVZjnjIu0vmZWU9SSGszLz/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "VALUE AND ADDRESS",
+        //       "link": "https://docs.google.com/presentation/d/10rLKPvyXzvB9PPY_3YdxOi1yHm-gV0pe/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "values-and-addresses",
+        //       "link": "https://docs.google.com/presentation/d/1RqxDRO0h2dngmjGw-IAt8DeKHag2-eRe/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     }
+        //   ]
+        // },
+        // "Practice Questions": {
+        //   "files": [
+        //     {
+        //       "title": "easy",
+        //       "link": "https://drive.google.com/file/d/1Vj7mjt7ArvAo1UsM90rzzuNvlojFay8O/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "easy (1)",
+        //       "link": "https://drive.google.com/file/d/1Eolg89tJ9sAp-QKpUvLKOK9vMxmaLQO2/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "easy1",
+        //       "link": "https://drive.google.com/file/d/16hIYmmEdO4-61M6XokpG-3qmFMyjIv7J/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "easy1",
+        //       "link": "https://drive.google.com/file/d/1BPKJNOLrMr8m3Fq6wDwOYLqEp6t4GvUg/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "easy2",
+        //       "link": "https://drive.google.com/file/d/13HEDtVBUjTCf29lhe5Log1jUs2J-LM1Y/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "easy2",
+        //       "link": "https://drive.google.com/file/d/1tUFBGsMzBnITZhUT8KhoDx76KYd9igHB/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "hard",
+        //       "link": "https://drive.google.com/file/d/1Yqy9E0kdBBpBlwuPD-aQOQC3r4ds4Pfy/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "hard (1)",
+        //       "link": "https://drive.google.com/file/d/18yo82-fW1GQi77K86rdTtnAh0dpupOxp/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "hard (2)",
+        //       "link": "https://drive.google.com/file/d/19MVuaUC57Nj4BU07qZqLqvbz1sAHNrqi/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "medium",
+        //       "link": "https://drive.google.com/file/d/1hkxGKrfbjm5nSePX0u9ARXoikXlEJlQR/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "medium1",
+        //       "link": "https://drive.google.com/file/d/1CirTWd_CnJt74JQM8KEIfpGupfB3nijo/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "medium1",
+        //       "link": "https://drive.google.com/file/d/1ZrRtZpZ4rKXWHgzdRjfKokB_CX30LJqy/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "medium1 (1)",
+        //       "link": "https://drive.google.com/file/d/1fReewaJMYY9i_IsXQoD7oPPhRXUJppkO/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "medium2",
+        //       "link": "https://drive.google.com/file/d/1A0mhbEW8-yM-qpfg7Dcr77eRY9o99aIv/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "medium2",
+        //       "link": "https://drive.google.com/file/d/1AUXkvhJILCsbgHnEsrN9Gz3-XlFQiXzi/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "medium2 (1)",
+        //       "link": "https://drive.google.com/file/d/1Pl6d7bEE92dN6am8GS1ksEiJSMuFxTc1/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "P10",
+        //       "link": "https://drive.google.com/file/d/1Kt25v5Cm1CQdP0AoIVF0tgQP90BzIhd1/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "P11",
+        //       "link": "https://drive.google.com/file/d/1zKoXvQPCoE4goNbwbU14Ky10-9Qbn_UD/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "P7",
+        //       "link": "https://drive.google.com/file/d/1KRt6EhWzx84xb5hbfNguZf9hUqLQtat3/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "P9",
+        //       "link": "https://drive.google.com/file/d/13pVVhSvME7x4z1Jp4BLQ-u2KjXDOJNoT/view?usp=drivesdk"
+        //     }
+        //   ]
+        // },
+        // "Y23 Notes": {
+        //   "files": [
+        //     {
+        //       "title": "_Passing_array_by_reference",
+        //       "link": "https://docs.google.com/presentation/d/1st2KrFwz81-dL7SeYlP_-4h5dznIb7pN/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "2",
+        //       "link": "https://drive.google.com/file/d/1i_8IzLE6FyLIwyBKSE9Zwo6u1xG2IBfB/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "3",
+        //       "link": "https://drive.google.com/file/d/1PRTS3E9Z4910XaEOSpRRxi0thr8eFJuC/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Adobe Scan 27-Jan-2024 (2)",
+        //       "link": "https://drive.google.com/file/d/1G4KcHGI7DtiSi0svrtj9vxJa4PZEiL2R/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Call by Value and Reference",
+        //       "link": "https://drive.google.com/file/d/1zAU-RlQBqkWxY0N5vLF1dPNDBKwzyk6l/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Copy of Sorting",
+        //       "link": "https://drive.google.com/file/d/1LNL18FZM6C3RbSZFZF4rvjTJH9elTHwf/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "ESC resources_",
+        //       "link": "https://docs.google.com/document/d/1Hi5rYOETVXNmcG3yO9xkj8uuAL-cGmkO/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "Intro to Linked Lists",
+        //       "link": "https://drive.google.com/file/d/1hY5D1C22Bol5exVjzGvQ_8ajpIGKygeF/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Pointers and dynamic memory notes",
+        //       "link": "https://drive.google.com/file/d/1xV8Q1YxpMH8PnqE5j5BG56TgT9RRHrBh/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 191739",
+        //       "link": "https://drive.google.com/file/d/14DPVbnjpowoCpJgwTrhgo4SrtWrXkYUZ/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 191812",
+        //       "link": "https://drive.google.com/file/d/13aY0C2v6OVsVdXhMGXx3MoXK4qNv4GcT/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 191824",
+        //       "link": "https://drive.google.com/file/d/1Sn26Rry_n9hpwV_FnCfQBAwmAuVWtYxQ/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 191851",
+        //       "link": "https://drive.google.com/file/d/1S6kV6aX6chuV4uLtcAvc7VOjLN8voYjC/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 193303",
+        //       "link": "https://drive.google.com/file/d/1CD65cIylctcnd6MRj58Hfy8ryyqnpLfg/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 193304",
+        //       "link": "https://drive.google.com/file/d/1cNoZxaLGdCIhPTgapyJnvrEQ5P0jw2OG/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 193713",
+        //       "link": "https://drive.google.com/file/d/1ducb_ZNmh5mWzlAStDFzCoJnFTxI0sLm/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 193714",
+        //       "link": "https://drive.google.com/file/d/1x9gRxTV6uUbrmYelZ55XF76z8i9n8c1E/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 193733",
+        //       "link": "https://drive.google.com/file/d/15UhkpzjV8Fe4cJiE_iqim84OKP2deppr/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 193745",
+        //       "link": "https://drive.google.com/file/d/1BBVhrIcRs76Y8503zqptvur5VTHF_nvC/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 193757",
+        //       "link": "https://drive.google.com/file/d/17j3umKTu8XtJ2sX47D2xlAs8BxPh8g5u/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 193826",
+        //       "link": "https://drive.google.com/file/d/1zHLHT77NQo1zPgrIoGpewo9Ny5OwaHhq/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 193941",
+        //       "link": "https://drive.google.com/file/d/1EYiywPTG7HdqX8NgMt_FaKKGthmMeQ1W/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 194028",
+        //       "link": "https://drive.google.com/file/d/1yiEFL4hkXcjviZoeENKx4K5H5F286TVl/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 194108",
+        //       "link": "https://drive.google.com/file/d/1hWYMDwFIgIvsu78HI3oQG80ceWYLykrz/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 194231",
+        //       "link": "https://drive.google.com/file/d/1BjTR7hfwj4X94jAy40tFyRZAGfQgdM7n/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 194611",
+        //       "link": "https://drive.google.com/file/d/1IhMLIKf7srTvuGVpTBasvhV0sME71d7V/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 194751",
+        //       "link": "https://drive.google.com/file/d/1k9TB8ZrjVBeNyhW4MKumUco5RF8RcOrb/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 194838",
+        //       "link": "https://drive.google.com/file/d/1Nxc4J7Cb_7vWwEvwCCJgCqBmwr6ZNOIT/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 194919",
+        //       "link": "https://drive.google.com/file/d/1IOGsA7x9ezEfmVaGiAoc9JHUit-Vjp5Z/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 195029",
+        //       "link": "https://drive.google.com/file/d/1SpbxsqcQnBoYx_yc4lNXvJ3EL3-ln__Q/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 195048",
+        //       "link": "https://drive.google.com/file/d/1dGUzXBUrblVwk5BUtX1xZ1d8cHZjG42i/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 195207",
+        //       "link": "https://drive.google.com/file/d/1iGRukwHfKw7Xl7Pgbn4WLiPMD_bEv1Sc/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 195224",
+        //       "link": "https://drive.google.com/file/d/1I5REdhYa-Y_ftDySIvoj6bkmnsi76j_v/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 195245",
+        //       "link": "https://drive.google.com/file/d/1NKBiYFs9fyUeXGzyIxPP8qOs6bVLdolJ/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 195256",
+        //       "link": "https://drive.google.com/file/d/1F4gn-kF4wCBRF0gUfdltivmBhdJSMMQ0/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 200037",
+        //       "link": "https://drive.google.com/file/d/1eyrZi4QlD2LPopTRKnFvJVp5ZrZ56Pqn/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 200103",
+        //       "link": "https://drive.google.com/file/d/1_OyKhAjElAXgpvsCCBRp9Utk784-v6K4/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 200654",
+        //       "link": "https://drive.google.com/file/d/1zszOe6oJAtV9_I2tMim-aAsjoZOEaUJE/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 200824",
+        //       "link": "https://drive.google.com/file/d/1jmWBPk45WOBC89AEqfuDSSUL7_EaQ8b3/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Screenshot 2024-05-25 200845",
+        //       "link": "https://drive.google.com/file/d/14W3OcZMMMiu9-EZzqgJbcw9TKFdQ0mBS/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "slides_for_am_interview",
+        //       "link": "https://docs.google.com/presentation/d/1fhXtjKRS6GcXdJNAjwYXZpo0DL0MX_cB/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "Sorting and Pointers",
+        //       "link": "https://drive.google.com/file/d/1AsoUghKnKZn6ST9AfBA8k3yEaQGEiSpG/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Sorting and Searching",
+        //       "link": "https://docs.google.com/presentation/d/1byoTdJ0cNC8UDFMO6tVP3NUxGGR3umdh/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //     },
+        //     {
+        //       "title": "Strings",
+        //       "link": "https://drive.google.com/file/d/1Tbem3XHUnlR17nFST4xZpOOLY3zYPMGA/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "WhatsApp Image 2024-05-25 at 20.11.35_f519ea14",
+        //       "link": "https://drive.google.com/file/d/1Pbx0-Aw1O5JuFXoUfkCd11r86gOs4YAB/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "WhatsApp Image 2024-05-25 at 20.11.45_091fa02d",
+        //       "link": "https://drive.google.com/file/d/1wFrXON2YeUdHWrVhbNssesbk1GOaF-ZI/view?usp=drivesdk"
+        //     }
+        //   ]
+        // },
+        // "AM Slides": {
           
-          "ESC111-112": {
-            "files": [
-              {
-                "title": "Copy of Lab Exam 1",
-                "link": "https://drive.google.com/file/d/14xY9RYeNisnwHVBRlm9BtVnSX_hYbfXB/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lab Exam 2",
-                "link": "https://drive.google.com/file/d/1qNeJ1ueGRNZ1r9DAcfvwysLVJx1jxk5G/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lab Exam 3 2016 A",
-                "link": "https://drive.google.com/file/d/1muyOOxQTUigscFFCODzeNcUzzK7PTMXj/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lab Exam 3 2016 B",
-                "link": "https://drive.google.com/file/d/1UVoDZYfDpfhjNa69RnOm6hTILLep7BDI/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Midsem Lab Exam 2013 A",
-                "link": "https://drive.google.com/file/d/1iO-DmSaW7rZdlCvvc2bOJHf6Lzoe4EsP/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Midsem Lab Exam 2013 B",
-                "link": "https://drive.google.com/file/d/15CiCe2bITAIhn0p57AjsEGUy3ByE20w0/view?usp=drivesdk"
-              },
-              {
-                "title": "Unknown",
-                "link": "https://drive.google.com/file/d/10ZSOdwLdTPd7b6wEqkt2ztEa15oFCjD8/view?usp=drivesdk"
-              },
-              {
-                "title": "Y13",
-                "link": "https://drive.google.com/file/d/1slnyGjxTinBhGzHXq5eCRTHmRKg8T0XY/view?usp=drivesdk"
-              },
-              {
-                "title": "Y16",
-                "link": "https://drive.google.com/file/d/1eYPWQQ2egB7hwEAFw5hwEJ_JVrSPPg7k/view?usp=drivesdk"
-              },
-              {
-                "title": "Y17",
-                "link": "https://drive.google.com/file/d/1OpUTOO1MzWGZ0UXkO4OccwtB1wsI3IcI/view?usp=drivesdk"
-              }
-            ]
-          }
-        },
-        "Book Important Images + pdf": {
-          "files": [
-            {
-              "title": "Copy of Binary Search - C",
-              "link": "https://drive.google.com/file/d/1LtwwY2da-4KvHk6_K0oV2XF04b-irPAI/view?usp=drivesdk"
-            },
-            {
-              "title": "Copy of Bubble Sort - C",
-              "link": "https://drive.google.com/file/d/1WfiJZbx4sr7mfOiHCvCT6b59-zjbJUfE/view?usp=drivesdk"
-            },
-            {
-              "title": "Copy of Insertion Sort - C",
-              "link": "https://drive.google.com/file/d/1tp58RInZnWeOAAK7jwOSjsJ6svr3Zsk3/view?usp=drivesdk"
-            },
-            {
-              "title": "Copy of Merge Sort - C",
-              "link": "https://drive.google.com/file/d/1ympsxTOF5TWeoN7swzBqnP1FXSaRFhiB/view?usp=drivesdk"
-            },
-            {
-              "title": "Copy of Quick Sort - C",
-              "link": "https://drive.google.com/file/d/1prYZPvIK18uYhqcFOjxYyh2HTauitI-Y/view?usp=drivesdk"
-            }
-          ]
-        },
-        "PYQs": {
-          // "files": [
-          //   {
-          //     "title": "2024_ESC112_quiz",
-          //     "link": "https://drive.google.com/file/d/1xjU-ovCR6dkO6yQ1LbUZb-W6VZxC68h8/view?usp=drivesdk"
-          //   },
-          //   {
-          //     "title": "Endsem 2016 I",
-          //     "link": "https://drive.google.com/file/d/1wqZSwBFHzwa1hwEOp2-aJtOPxKuKxhOP/view?usp=drivesdk"
-          //   },
-          //   {
-          //     "title": "Endsem 2017 I A",
-          //     "link": "https://drive.google.com/file/d/1abyqhm2DwSYT4tdLMrFTikqApUy-kpE6/view?usp=drivesdk"
-          //   },
-          //   {
-          //     "title": "Endsem 2018 I",
-          //     "link": "https://drive.google.com/file/d/1dtS6zvk5yUGzXMKJA2lMPSTQomur1Zq9/view?usp=drivesdk"
-          //   },
+        //   "ESC111": {
+        //     "files": [
+        //       {
+        //         "title": "Copy of ESC-Recursion-15-10-23_AM_Class",
+        //         "link": "https://drive.google.com/file/d/1QYtqnzcLWhZxQlzqCXRrc0S8_fLLdR9k/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "ESC AM Class2_231120_212350",
+        //         "link": "https://drive.google.com/file/d/1eHVv1X8mt2FqwmBkvrA_uqd6PuCOoO6k/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "ESC111 AM Class",
+        //         "link": "https://drive.google.com/file/d/1WaPbyqqFVK4uKvnT_X3Z2IbntJwI4DJM/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   },
+        //   "ESC112": {
+        //     "files": [
+        //       {
+        //         "title": "Data Structures",
+        //         "link": "https://drive.google.com/file/d/1ZoCw-bHoRH6srCAbW5fxrsBk1FBNP1yT/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "ESC AM Class2",
+        //         "link": "https://drive.google.com/file/d/1-J1YxwhcSjm3r0SAsDysHf2TrBjKqTkb/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   }
+        // },
+        // "Lab Exams": {
+          
+        //   "ESC111-112": {
+        //     "files": [
+        //       {
+        //         "title": "Copy of Lab Exam 1",
+        //         "link": "https://drive.google.com/file/d/14xY9RYeNisnwHVBRlm9BtVnSX_hYbfXB/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lab Exam 2",
+        //         "link": "https://drive.google.com/file/d/1qNeJ1ueGRNZ1r9DAcfvwysLVJx1jxk5G/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lab Exam 3 2016 A",
+        //         "link": "https://drive.google.com/file/d/1muyOOxQTUigscFFCODzeNcUzzK7PTMXj/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lab Exam 3 2016 B",
+        //         "link": "https://drive.google.com/file/d/1UVoDZYfDpfhjNa69RnOm6hTILLep7BDI/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Midsem Lab Exam 2013 A",
+        //         "link": "https://drive.google.com/file/d/1iO-DmSaW7rZdlCvvc2bOJHf6Lzoe4EsP/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Midsem Lab Exam 2013 B",
+        //         "link": "https://drive.google.com/file/d/15CiCe2bITAIhn0p57AjsEGUy3ByE20w0/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Unknown",
+        //         "link": "https://drive.google.com/file/d/10ZSOdwLdTPd7b6wEqkt2ztEa15oFCjD8/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Y13",
+        //         "link": "https://drive.google.com/file/d/1slnyGjxTinBhGzHXq5eCRTHmRKg8T0XY/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Y16",
+        //         "link": "https://drive.google.com/file/d/1eYPWQQ2egB7hwEAFw5hwEJ_JVrSPPg7k/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Y17",
+        //         "link": "https://drive.google.com/file/d/1OpUTOO1MzWGZ0UXkO4OccwtB1wsI3IcI/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   }
+        // },
+        // "Book Important Images + pdf": {
+        //   "files": [
+        //     {
+        //       "title": "Copy of Binary Search - C",
+        //       "link": "https://drive.google.com/file/d/1LtwwY2da-4KvHk6_K0oV2XF04b-irPAI/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Copy of Bubble Sort - C",
+        //       "link": "https://drive.google.com/file/d/1WfiJZbx4sr7mfOiHCvCT6b59-zjbJUfE/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Copy of Insertion Sort - C",
+        //       "link": "https://drive.google.com/file/d/1tp58RInZnWeOAAK7jwOSjsJ6svr3Zsk3/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Copy of Merge Sort - C",
+        //       "link": "https://drive.google.com/file/d/1ympsxTOF5TWeoN7swzBqnP1FXSaRFhiB/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Copy of Quick Sort - C",
+        //       "link": "https://drive.google.com/file/d/1prYZPvIK18uYhqcFOjxYyh2HTauitI-Y/view?usp=drivesdk"
+        //     }
+        //   ]
+        // },
+        // "PYQs": {
+        //   // "files": [
+        //   //   {
+        //   //     "title": "2024_ESC112_quiz",
+        //   //     "link": "https://drive.google.com/file/d/1xjU-ovCR6dkO6yQ1LbUZb-W6VZxC68h8/view?usp=drivesdk"
+        //   //   },
+        //   //   {
+        //   //     "title": "Endsem 2016 I",
+        //   //     "link": "https://drive.google.com/file/d/1wqZSwBFHzwa1hwEOp2-aJtOPxKuKxhOP/view?usp=drivesdk"
+        //   //   },
+        //   //   {
+        //   //     "title": "Endsem 2017 I A",
+        //   //     "link": "https://drive.google.com/file/d/1abyqhm2DwSYT4tdLMrFTikqApUy-kpE6/view?usp=drivesdk"
+        //   //   },
+        //   //   {
+        //   //     "title": "Endsem 2018 I",
+        //   //     "link": "https://drive.google.com/file/d/1dtS6zvk5yUGzXMKJA2lMPSTQomur1Zq9/view?usp=drivesdk"
+        //   //   },
           //   {
           //     "title": "endsem_labexam",
           //     "link": "https://drive.google.com/file/d/1LCzkmnVDY4txcs6DbFMGUQomxAazI-y7/view?usp=drivesdk"
@@ -5711,7 +5724,7 @@ const data = {
       }
       
       
-    },
+    ,
     "ESC113": {
       "name": "Fundamental of Computing - III",
       "code": "ESC113",
