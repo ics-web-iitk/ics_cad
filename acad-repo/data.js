@@ -5,65 +5,65 @@ const data = {
         "subject": "Mathematics",
         "resources": {
           "PYQs": {
-            "2023": [
-              { "title": "Quiz Solution", "link": "https://drive.google.com/file/d/1QGGn1oVQw1Qn4ldyZyVs1O0nulMij2uq/view?usp=drive_link" },
-              { "title": "Endsem Solution", "link": "https://drive.google.com/file/d/1CshrO_H8-W6OP54i9BiR-3c0kY0ZyrFf/view?usp=drive_link" },
-              { "title": "Endsem Common Mistakes", "link": "https://drive.google.com/file/d/1VZdQ_hHJtG4iQi0ACRW76WtxZ4Z0ZdJG/view?usp=drive_link" }
-            ],
-            "2022": [
-              { "title": "Quiz Solution", "link": "https://drive.google.com/file/d/1iqMzBsxP8yZoECNYBzM5LTIkuBbbATRK/view?usp=drive_link" },
-              { "title": "Quiz Marking Scheme", "link": "https://drive.google.com/file/d/14LrTP3oM7JteeO5XbwdOu1qaOkW2m682/view?usp=drive_link" },
-              { "title": "Endsem Solution", "link": "https://drive.google.com/file/d/1x1CRtKz6yfEV6P_YOGNw-zFULNZ5hvz2/view?usp=drive_link" }
-            ],
-            "2021": [
-              { "title": "Quiz Solution", "link": "https://drive.google.com/file/d/1-LhNzoUCeltZ5pb4LvcBRVRPocAwjuBi/view?usp=drive_link" },
-              { "title": "Midsem Solution", "link": "https://drive.google.com/file/d/1lXiG0h3Q3FLDQ2m4wqPIrY3IqR8aZst-/view?usp=drive_link" }
-            ],
-            "2020": [
-              { "title": "Quiz", "link": "https://drive.google.com/file/d/1Pahs8pa2fMMyNUh0A2Y-Hu70SVkv3qFS/view?usp=drive_link" },
-              { "title": "Quiz Solution", "link": "https://drive.google.com/file/d/1z1D6iUCEyduJd8eBj78carjbTzDqu0B4/view?usp=drive_link" }
-            ],
-            "2017": [
-                { "title": "Quiz 1", "link": "https://drive.google.com/file/d/1SId6syxl8UvB7r3iACSlSxG2zDq4wz_0/view?usp=drive_link"},
-                { "title": "Quiz 2", "link": "https://drive.google.com/file/d/1gVpFn7zwsG0Et-sAiDMaEyK6Y5sjkds5/view?usp=drive_link"},
-                { "title": "Midsem", "link": "https://drive.google.com/file/d/1vtLSSXoS_RbqEtUqsTTqVDwsrsyxn2bf/view?usp=drive_link"},
-                { "title": "Endsem", "link": "https://drive.google.com/file/d/1oGc4kVBa946ehMUfx2KpQAgBAKTi79S8/view?usp=drive_link"}
-            ],
-            "2016": [
-              { "title": "Quiz MS", "link": "https://drive.google.com/file/d/1IhW7C56FDMIgKcBk6smUJipVB4gni4sT/view?usp=drive_link" }
-            ],
-            "2015": [
-                { "title": "Quiz Solution", "link": "https://drive.google.com/file/d/1VUC_0F01-Y9cDOQ9bj7tiyY8bcdZvqLy/view?usp=drive_link" }
-              ],
-              "2014": [
-                { "title": "Quiz Solution", "link": "https://drive.google.com/file/d/1jg84lZV8NSvB4u5Ymps5pkpk5H4Tbb0a/view?usp=drive_link" }
-              ],
-              "2013": [
-                { "title": "Quiz 1 MS", "link": "https://drive.google.com/file/d/1sqoVCInhokR_Q0xNBSQaVE5fJh0ssfu3/view?usp=drive_link" },
-                { "title": "Quiz 2 MS", "link": "https://drive.google.com/file/d/1EEvBXzgV1StsavmTYANmGy8N9vinVHHP/view?usp=drive_link" }
-              ],
-              "2012": [
-                { "title": "Quiz Solution", "link": "https://drive.google.com/file/d/12l-BiZs8vVuScOfHf-ACB-c7dcUXaovN/view?usp=drive_link" },
-                { "title": "Midsem Solution", "link": "https://drive.google.com/file/d/1GQiVv3qmykF0ct3fU2YDhplnTkVbZ0Wq/view?usp=drive_link" }
-              ],
+            // "2023": [
+            //   { "title": "Quiz Solution", "link": "https://drive.google.com/file/d/1QGGn1oVQw1Qn4ldyZyVs1O0nulMij2uq/view?usp=drive_link" },
+            //   { "title": "Endsem Solution", "link": "https://drive.google.com/file/d/1CshrO_H8-W6OP54i9BiR-3c0kY0ZyrFf/view?usp=drive_link" },
+            //   { "title": "Endsem Common Mistakes", "link": "https://drive.google.com/file/d/1VZdQ_hHJtG4iQi0ACRW76WtxZ4Z0ZdJG/view?usp=drive_link" }
+            // ],
+            // "2022": [
+            //   { "title": "Quiz Solution", "link": "https://drive.google.com/file/d/1iqMzBsxP8yZoECNYBzM5LTIkuBbbATRK/view?usp=drive_link" },
+            //   { "title": "Quiz Marking Scheme", "link": "https://drive.google.com/file/d/14LrTP3oM7JteeO5XbwdOu1qaOkW2m682/view?usp=drive_link" },
+            //   { "title": "Endsem Solution", "link": "https://drive.google.com/file/d/1x1CRtKz6yfEV6P_YOGNw-zFULNZ5hvz2/view?usp=drive_link" }
+            // ],
+            // "2021": [
+            //   { "title": "Quiz Solution", "link": "https://drive.google.com/file/d/1-LhNzoUCeltZ5pb4LvcBRVRPocAwjuBi/view?usp=drive_link" },
+            //   { "title": "Midsem Solution", "link": "https://drive.google.com/file/d/1lXiG0h3Q3FLDQ2m4wqPIrY3IqR8aZst-/view?usp=drive_link" }
+            // ],
+            // "2020": [
+            //   { "title": "Quiz", "link": "https://drive.google.com/file/d/1Pahs8pa2fMMyNUh0A2Y-Hu70SVkv3qFS/view?usp=drive_link" },
+            //   { "title": "Quiz Solution", "link": "https://drive.google.com/file/d/1z1D6iUCEyduJd8eBj78carjbTzDqu0B4/view?usp=drive_link" }
+            // ],
+            // "2017": [
+            //     { "title": "Quiz 1", "link": "https://drive.google.com/file/d/1SId6syxl8UvB7r3iACSlSxG2zDq4wz_0/view?usp=drive_link"},
+            //     { "title": "Quiz 2", "link": "https://drive.google.com/file/d/1gVpFn7zwsG0Et-sAiDMaEyK6Y5sjkds5/view?usp=drive_link"},
+            //     { "title": "Midsem", "link": "https://drive.google.com/file/d/1vtLSSXoS_RbqEtUqsTTqVDwsrsyxn2bf/view?usp=drive_link"},
+            //     { "title": "Endsem", "link": "https://drive.google.com/file/d/1oGc4kVBa946ehMUfx2KpQAgBAKTi79S8/view?usp=drive_link"}
+            // ],
+            // "2016": [
+            //   { "title": "Quiz MS", "link": "https://drive.google.com/file/d/1IhW7C56FDMIgKcBk6smUJipVB4gni4sT/view?usp=drive_link" }
+            // ],
+            // "2015": [
+            //     { "title": "Quiz Solution", "link": "https://drive.google.com/file/d/1VUC_0F01-Y9cDOQ9bj7tiyY8bcdZvqLy/view?usp=drive_link" }
+            //   ],
+            //   "2014": [
+            //     { "title": "Quiz Solution", "link": "https://drive.google.com/file/d/1jg84lZV8NSvB4u5Ymps5pkpk5H4Tbb0a/view?usp=drive_link" }
+            //   ],
+            //   "2013": [
+            //     { "title": "Quiz 1 MS", "link": "https://drive.google.com/file/d/1sqoVCInhokR_Q0xNBSQaVE5fJh0ssfu3/view?usp=drive_link" },
+            //     { "title": "Quiz 2 MS", "link": "https://drive.google.com/file/d/1EEvBXzgV1StsavmTYANmGy8N9vinVHHP/view?usp=drive_link" }
+            //   ],
+            //   "2012": [
+            //     { "title": "Quiz Solution", "link": "https://drive.google.com/file/d/12l-BiZs8vVuScOfHf-ACB-c7dcUXaovN/view?usp=drive_link" },
+            //     { "title": "Midsem Solution", "link": "https://drive.google.com/file/d/1GQiVv3qmykF0ct3fU2YDhplnTkVbZ0Wq/view?usp=drive_link" }
+            //   ],
               
-              "2011": [
-                { "title": "Quiz Solution", "link": "https://drive.google.com/file/d/1Uh2zE2pKmQGKQdqYAxjM-N9u8q9kdI_-/view?usp=drive_link" },
-                { "title": "Midsem Solution", "link": "https://drive.google.com/file/d/1eeBDYpY8-cFP4qc7c96c7Tu8POJSfFPG/view?usp=drive_link" }
-              ],
-              "2010": [
-                { "title": "Midsem 1 Solution", "link": "https://drive.google.com/file/d/19v2_UPc_c8U8tS8aMUj20YP7B5-QyhcH/view?usp=drive_link" },
-                { "title": "Midsem 2 Solution", "link": "https://drive.google.com/file/d/1E_iyKhzGk9nLxDNxt56lO7nwQ-qQBIXq/view?usp=drive_link" }
-              ],
-              "2009": [
-                { "title": "Midsem 1 Solution", "link": "https://drive.google.com/file/d/1ksglxGEiqg2z3HAZtRptXrsV-shkIFmx/view?usp=drive_link" },
-                { "title": "Midsem 2 Solution", "link": "https://drive.google.com/file/d/1D-ofvCXTitJWUGS1wTG55baqlvJ8LF2y/view?usp=drive_link" }
-              ]
-              ,
-              "2008": [
-                { "title": "Midsem 1 Solution", "link": "https://drive.google.com/file/d/10Q2JfMQAeriJWTjkexSVGnRXra1vaQyT/view?usp=drive_link" },
-                { "title": "Midsem 2 Solution", "link": "https://drive.google.com/file/d/1ChgBFNIGNO4TpIw5nNuiDRQYaeda7GPQ/view?usp=drive_link" }
-              ]
+            //   "2011": [
+            //     { "title": "Quiz Solution", "link": "https://drive.google.com/file/d/1Uh2zE2pKmQGKQdqYAxjM-N9u8q9kdI_-/view?usp=drive_link" },
+            //     { "title": "Midsem Solution", "link": "https://drive.google.com/file/d/1eeBDYpY8-cFP4qc7c96c7Tu8POJSfFPG/view?usp=drive_link" }
+            //   ],
+            //   "2010": [
+            //     { "title": "Midsem 1 Solution", "link": "https://drive.google.com/file/d/19v2_UPc_c8U8tS8aMUj20YP7B5-QyhcH/view?usp=drive_link" },
+            //     { "title": "Midsem 2 Solution", "link": "https://drive.google.com/file/d/1E_iyKhzGk9nLxDNxt56lO7nwQ-qQBIXq/view?usp=drive_link" }
+            //   ],
+            //   "2009": [
+            //     { "title": "Midsem 1 Solution", "link": "https://drive.google.com/file/d/1ksglxGEiqg2z3HAZtRptXrsV-shkIFmx/view?usp=drive_link" },
+            //     { "title": "Midsem 2 Solution", "link": "https://drive.google.com/file/d/1D-ofvCXTitJWUGS1wTG55baqlvJ8LF2y/view?usp=drive_link" }
+            //   ]
+            //   ,
+            //   "2008": [
+            //     { "title": "Midsem 1 Solution", "link": "https://drive.google.com/file/d/10Q2JfMQAeriJWTjkexSVGnRXra1vaQyT/view?usp=drive_link" },
+            //     { "title": "Midsem 2 Solution", "link": "https://drive.google.com/file/d/1ChgBFNIGNO4TpIw5nNuiDRQYaeda7GPQ/view?usp=drive_link" }
+            //   ]
           },
           "Assignments": [
             { "title": "Practice Problems 1", "link": "https://drive.google.com/file/d/1UiWoVGqwdzKvbDbjAiRKEWXmPXm7UNcv/view?usp=drive_link" },
@@ -109,55 +109,55 @@ const data = {
       "subject": "Mathematics",
       "resources": {
         "PYQs": {
-          "2008": [
-            {title: "Endsem Paper", link: "https://drive.google.com/file/d/1PDfTKcdZODMT6cGqMQEMMdSAMAxpkQeh/view?usp=drive_link"},
-            {title: "Endsem Solution", link: "https://drive.google.com/file/d/1u4LamMI6uQrKAlq41eVCkjUf-SgCanJ0/view?usp=drive_link"},
-          ],
-          "2009": [
-            {title: "Endsem Paper", link: "https://drive.google.com/file/d/1iFp2DfcOqYX2iqPn4uFgaUojlyQ2r-Y8/view?usp=drive_link"},
-            {title: "Endsem Solution", link: "https://drive.google.com/file/d/1xf_DXDQiRmnz2ozAVwjqG1pNs_L4Oeqb/view?usp=drive_link"},
+          // "2008": [
+          //   {title: "Endsem Paper", link: "https://drive.google.com/file/d/1PDfTKcdZODMT6cGqMQEMMdSAMAxpkQeh/view?usp=drive_link"},
+          //   {title: "Endsem Solution", link: "https://drive.google.com/file/d/1u4LamMI6uQrKAlq41eVCkjUf-SgCanJ0/view?usp=drive_link"},
+          // ],
+          // "2009": [
+          //   {title: "Endsem Paper", link: "https://drive.google.com/file/d/1iFp2DfcOqYX2iqPn4uFgaUojlyQ2r-Y8/view?usp=drive_link"},
+          //   {title: "Endsem Solution", link: "https://drive.google.com/file/d/1xf_DXDQiRmnz2ozAVwjqG1pNs_L4Oeqb/view?usp=drive_link"},
 
-          ],
-          "2010":[
-            {title: "Endsem Solution", link: "https://drive.google.com/file/d/1J0Y_cyowqA8xz6CeCsBBy0DCyNXNNAAy/view?usp=drive_link"},
+          // ],
+          // "2010":[
+          //   {title: "Endsem Solution", link: "https://drive.google.com/file/d/1J0Y_cyowqA8xz6CeCsBBy0DCyNXNNAAy/view?usp=drive_link"},
 
-          ],
-          "2011":[
-            {title: "Endsem Solution", link: "https://drive.google.com/file/d/1TXCdsj-3mynGGOLCRl28nQomJf94KsUw/view?usp=drive_link"},
+          // ],
+          // "2011":[
+          //   {title: "Endsem Solution", link: "https://drive.google.com/file/d/1TXCdsj-3mynGGOLCRl28nQomJf94KsUw/view?usp=drive_link"},
 
-          ],
-          "2012":[
-            {title: "Endsem Solution", link: "https://drive.google.com/file/d/1eCLnZa5VqA-wGRnrdDQQdcMVAfvqKY20/view?usp=drive_link"},
-            {title: "Endsem Paper", link: "https://drive.google.com/file/d/1Bm5iYqDcUielcOkQtkrA5ZkbZLUEiMGP/view?usp=drive_link"}
+          // ],
+          // "2012":[
+          //   {title: "Endsem Solution", link: "https://drive.google.com/file/d/1eCLnZa5VqA-wGRnrdDQQdcMVAfvqKY20/view?usp=drive_link"},
+          //   {title: "Endsem Paper", link: "https://drive.google.com/file/d/1Bm5iYqDcUielcOkQtkrA5ZkbZLUEiMGP/view?usp=drive_link"}
 
-          ],
-          "2013": [
-            {title: "Endsem I", link: "https://drive.google.com/file/d/1-UefqYP7_wexhIPSlK4lPo5_r60h5B3u/view?usp=drive_link"},
-            {title: "Endsem II", link: "https://drive.google.com/file/d/1LSg2vyk6Hc-80DT3VqlRYbCyCc-VsqaT/view?usp=drive_link"},
-            {title: "Endsem Solution", link: "https://drive.google.com/file/d/1clW5P6dB75k_8aba-dzgbYGE4X99nva2/view?usp=drive_link"},
-            {title: "Endsem Paper", link: "https://drive.google.com/file/d/1ylzvaayV2Hs3Xk6ZwDa2csk9FDhSc0uM/view?usp=drive_link"},
-          ],
-          "2014":[
-            {title: "Endsem Graph", link: "https://drive.google.com/file/d/1wC6sEl1UHJ2KTxpbm7ar1K4PvN6ustDr/view?usp=drive_link"},
-            {title: "Endsem 1", link: "https://drive.google.com/file/d/102WJedVh6JKhvz_9_pQEyoH14y_sDsTA/view?usp=drive_link"},
-            {title: "Endsem 2", link: "https://drive.google.com/file/d/1iiPXNXg0Cj_CFPhvUeZJr1fEZt9ZdHx4/view?usp=drive_link"},
+          // ],
+          // "2013": [
+          //   {title: "Endsem I", link: "https://drive.google.com/file/d/1-UefqYP7_wexhIPSlK4lPo5_r60h5B3u/view?usp=drive_link"},
+          //   {title: "Endsem II", link: "https://drive.google.com/file/d/1LSg2vyk6Hc-80DT3VqlRYbCyCc-VsqaT/view?usp=drive_link"},
+          //   {title: "Endsem Solution", link: "https://drive.google.com/file/d/1clW5P6dB75k_8aba-dzgbYGE4X99nva2/view?usp=drive_link"},
+          //   {title: "Endsem Paper", link: "https://drive.google.com/file/d/1ylzvaayV2Hs3Xk6ZwDa2csk9FDhSc0uM/view?usp=drive_link"},
+          // ],
+          // "2014":[
+          //   {title: "Endsem Graph", link: "https://drive.google.com/file/d/1wC6sEl1UHJ2KTxpbm7ar1K4PvN6ustDr/view?usp=drive_link"},
+          //   {title: "Endsem 1", link: "https://drive.google.com/file/d/102WJedVh6JKhvz_9_pQEyoH14y_sDsTA/view?usp=drive_link"},
+          //   {title: "Endsem 2", link: "https://drive.google.com/file/d/1iiPXNXg0Cj_CFPhvUeZJr1fEZt9ZdHx4/view?usp=drive_link"},
             
-          ],
-          "2015": [
-            {title: "Endsem Graph", link: "https://drive.google.com/file/d/1XvU6YIilHnFAVdiFTRxGuLEbs6aBAqY2/view?usp=drive_link"},
-            {title: "Endsem Paper", link: "https://drive.google.com/file/d/1XRMrgnm2lIJpB6Tai2MtBDGlnPAX5w-T/view?usp=drive_link"},
+          // ],
+          // "2015": [
+          //   {title: "Endsem Graph", link: "https://drive.google.com/file/d/1XvU6YIilHnFAVdiFTRxGuLEbs6aBAqY2/view?usp=drive_link"},
+          //   {title: "Endsem Paper", link: "https://drive.google.com/file/d/1XRMrgnm2lIJpB6Tai2MtBDGlnPAX5w-T/view?usp=drive_link"},
 
-          ],
-          "2016": [
-            {title: "Endsem Graph", link: "https://drive.google.com/file/d/1jCUjv3BXrepCG9Jpsa1VLGSr1iU_Y3-I/view?usp=drive_link"},
-            {title: "Endsem Paper", link: "https://drive.google.com/file/d/1Y9B8KQ6Q-iH7-0wzuI0hHk5gK9dJh4Dw/view?usp=drive_link"},
-            {title: "Endsem Marking Scheme", link: "https://drive.google.com/file/d/1z92rSPOI0ujEDoq2Ksp2U6eVRdJJ6F1b/view?usp=drive_link"}
+          // ],
+          // "2016": [
+          //   {title: "Endsem Graph", link: "https://drive.google.com/file/d/1jCUjv3BXrepCG9Jpsa1VLGSr1iU_Y3-I/view?usp=drive_link"},
+          //   {title: "Endsem Paper", link: "https://drive.google.com/file/d/1Y9B8KQ6Q-iH7-0wzuI0hHk5gK9dJh4Dw/view?usp=drive_link"},
+          //   {title: "Endsem Marking Scheme", link: "https://drive.google.com/file/d/1z92rSPOI0ujEDoq2Ksp2U6eVRdJJ6F1b/view?usp=drive_link"}
             
-          ],
-          "2018": [
-            {title: "Endsem Marking Scheme", link: "https://drive.google.com/file/d/13tC44if_uEenMIsX-jcr3QBtHpIGGDWE/view?usp=drive_link"},
+          // ],
+          // "2018": [
+          //   {title: "Endsem Marking Scheme", link: "https://drive.google.com/file/d/13tC44if_uEenMIsX-jcr3QBtHpIGGDWE/view?usp=drive_link"},
 
-          ]
+          // ]
 
           
         },
@@ -1451,21 +1451,74 @@ const data = {
           ]
         ,
         "PYQs": [
+            // {
+            //   "title": "Endsem_Y23_Sem1",
+            //   "link": "https://drive.google.com/file/d/17NaM3g7-VOxjhRldwbmpWkjGBnh5-_iY/view?usp=drivesdk"
+            // },
+            // {
+            //   "title": "Endsem_Y23_Sem1_soln",
+            //   "link": "https://drive.google.com/file/d/17MZlXtupsPoDbTcCFbmyl8pFIVpN5S2d/view?usp=drivesdk"
+            // },
+            // {
+            //   "title": "Endsem-solution_Sem2_Y23",
+            //   "link": "https://drive.google.com/file/d/17K8XTmSQtWsNDzZyG8atLpjh1HzbgRBs/view?usp=drivesdk"
+            // }
+          ]
+          ,
+          "Handwritten notes": [
             {
-              "title": "Endsem_Y23_Sem1",
-              "link": "https://drive.google.com/file/d/17NaM3g7-VOxjhRldwbmpWkjGBnh5-_iY/view?usp=drivesdk"
-            },
-            {
-              "title": "Endsem_Y23_Sem1_soln",
-              "link": "https://drive.google.com/file/d/17MZlXtupsPoDbTcCFbmyl8pFIVpN5S2d/view?usp=drivesdk"
-            },
-            {
-              "title": "Endsem-solution_Sem2_Y23",
-              "link": "https://drive.google.com/file/d/17K8XTmSQtWsNDzZyG8atLpjh1HzbgRBs/view?usp=drivesdk"
+              "title": "First Half",
+              "link": "https://drive.google.com/file/d/1n1chpAwUuzo4FMau-M1lonu01DP5tsUl/view?usp=sharing"
             }
           ]
+          ,
+          "Other Usefull material": [
+            {
+              "title": "Vectors",
+              "link": "https://docs.google.com/presentation/d/1bupCTpN8fyg2RHKmyB5IXrFP9XfvW_Rv/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+            },
+              {
+              "title": "Potential",
+              "link": "https://docs.google.com/presentation/d/102UpZN1hg4MziBwnegsVt1R1ogeF78xt/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+            },
+            {
+              "title": "Electrostatics",
+              "link": "https://docs.google.com/presentation/d/1He2CB_roh4Xi4QXhEuTwNVuu5QOkyUeo/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+            },
+            {
+              "title": "Multipole Expansion",
+              "link": "https://drive.google.com/file/d/1m6Cm0tZ9wHmQfW5ZeHTUUmmghv9RUDKw/view?usp=sharing"
+            },
+          ]
+          ,
+          "Practise Problems": [
+            [
+              {
+                "title": "practise problems_1",
+                "link": "https://docs.google.com/document/d/1GgwIoC-95nERAGHhh5hfPJN_P5GZEEaq/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+              },
+              {
+                "title": "practise problems_3",
+                "link": "https://drive.google.com/file/d/1uD9V8QhcUPtECr2Cq_BzoYWvuIyjLFoh/view?usp=sharing"
+              },
+              {
+                "title": "practise problems_4",
+                "link": "https://docs.google.com/document/d/1o-92sL84z7AGLSEnjyeeCQ4K7VWq8gBX/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
+              },
+              {
+                "title": "practise problems_5",
+                "link": "https://drive.google.com/file/d/1AKoG8x4jbaeH3NPTomXDY0oIXYQEkPbZ/view?usp=sharing"
+              },
+              {
+                "title": "practise problems_7",
+                "link": "https://drive.google.com/file/d/1_em3wpGNvIYVLSWlUkTmlFjTMnHVh9zy/view?usp=sharing"
+              }
+            ] 
+
+          ]
+          }
       }
-    },
+    ,
     "PHY114": {
       "name": "Introduction to Quantum Mechanics",
       "code": "PHY114",
@@ -1787,855 +1840,855 @@ const data = {
         },
         "PYQs": {
           
-          "Y22": {
-            "files": [
-              {
-                "title": "quantum_midsem (6)",
-                "link": "https://drive.google.com/file/d/1flbEig22pt_ZFWyW2CFbSn42eCSla0mJ/view?usp=drivesdk"
-              }
-            ],
-            "Quizzes": {
-              "files": [
-                {
-                  "title": "1 (2)",
-                  "link": "https://drive.google.com/file/d/191fDV6J9rVUwQnScybh2ADkkA-QwLwUZ/view?usp=drivesdk"
-                },
-                {
-                  "title": "2 (4)",
-                  "link": "https://drive.google.com/file/d/1_oKGT_gyB_om5lcTFY-pKAK2VQ62QNHn/view?usp=drivesdk"
-                },
-                {
-                  "title": "3 (4)",
-                  "link": "https://drive.google.com/file/d/1oLgO_P0pX38TSw4GwbjT0zP-W85O_wxl/view?usp=drivesdk"
-                },
-                {
-                  "title": "4 (3)",
-                  "link": "https://drive.google.com/file/d/1J097QPM77ABxun1VH_0horLnDW5hPw5Y/view?usp=drivesdk"
-                },
-                {
-                  "title": "5 (2)",
-                  "link": "https://drive.google.com/file/d/17psVxig-HRLluI3frtcZhCfOaSkJPVcf/view?usp=drivesdk"
-                }
-              ]
-            },
-            "Endsem": {
-              "files": [
-                {
-                  "title": "End sem long ans (5)",
-                  "link": "https://drive.google.com/file/d/10kju13D8nC0gtEfsQ5NJGx-zUDOeBy7H/view?usp=drivesdk"
-                },
-                {
-                  "title": "Endsem short ans (3)",
-                  "link": "https://drive.google.com/file/d/1My3AJUgHQOJbSpzlHHTtHgOogpdKX99u/view?usp=drivesdk"
-                }
-              ]
-            }
-          },
-          "Y23_SEM1": {
-            "files": [
-              {
-                "title": "MIDSEM",
-                "link": "https://drive.google.com/file/d/1w06BZqhIyciYp33tG8PL8Ku8aZpt8976/view?usp=drivesdk"
-              }
-            ],
-            "Endsem": {
-              "files": [
-                {
-                  "title": "ENDSEM-LONG-ANS",
-                  "link": "https://drive.google.com/file/d/1f8tPUCL7_2CVR2cq7OIFzuz4007KAlI_/view?usp=drivesdk"
-                },
-                {
-                  "title": "ENDSEM-SHORT-ANS",
-                  "link": "https://drive.google.com/file/d/1OyPZgakM5JoNohgt8ZWBtk3Bt3vBOGv2/view?usp=drivesdk"
-                }
-              ]
-            },
-            "Quizzes": {
-              "files": [
-                {
-                  "title": "QUIZ1",
-                  "link": "https://drive.google.com/file/d/1lUM4gU0oKpKJTONdxBfCpsDn6XcG63pz/view?usp=drivesdk"
-                },
-                {
-                  "title": "QUIZ2",
-                  "link": "https://drive.google.com/file/d/1SThl0qwPvMKc1a6dE7tuLyioicahjffC/view?usp=drivesdk"
-                },
-                {
-                  "title": "QUIZ3",
-                  "link": "https://drive.google.com/file/d/1MtDxq2Q9kNx0K92GNKjWV6UTaVj1UzA6/view?usp=drivesdk"
-                },
-                {
-                  "title": "QUIZ4",
-                  "link": "https://drive.google.com/file/d/1x7n0C8NERDZvPbN7B5Ipy--4EgGMnodo/view?usp=drivesdk"
-                },
-                {
-                  "title": "QUIZ5",
-                  "link": "https://drive.google.com/file/d/1k_c3fwH3FG0dJMIDkou2UdLKYTLgJAE2/view?usp=drivesdk"
-                },
-                {
-                  "title": "QUIZ6",
-                  "link": "https://drive.google.com/file/d/1SBbGVhOg_43DPPv5G2IahM_PKHOzEMz1/view?usp=drivesdk"
-                }
-              ]
-            }
-          },
-          "Y23_SEM2": {
-            "files": [
-              {
-                "title": "MIDSEM-1 PHY114",
-                "link": "https://drive.google.com/file/d/1uMLLMhiZvM6NNfpGpTyOm488WTdjSYcT/view?usp=drivesdk"
-              },
-              {
-                "title": "QUIZ-1 PHY114 YNM",
-                "link": "https://drive.google.com/file/d/1yiv6v_y5M5LHg7B0SrA-ay8NibbOA70p/view?usp=drivesdk"
-              }
-            ],
-            "Endsem": {
-              "files": [
-                {
-                  "title": "End Sem Solutions 2024",
-                  "link": "https://drive.google.com/file/d/1mZpLF2rJiUFJhVs6gNIBXlSNeIocaVSD/view?usp=drivesdk"
-                },
-                {
-                  "title": "Endsem QP",
-                  "link": "https://drive.google.com/file/d/1NFDnrWs5Z2YLqB71n5P_b7u4jlLUHWxa/view?usp=drivesdk"
-                }
-              ]
-            }
-          }
+          // "Y22": {
+          //   "files": [
+          //     {
+          //       "title": "quantum_midsem (6)",
+          //       "link": "https://drive.google.com/file/d/1flbEig22pt_ZFWyW2CFbSn42eCSla0mJ/view?usp=drivesdk"
+          //     }
+          //   ],
+          //   "Quizzes": {
+          //     "files": [
+          //       {
+          //         "title": "1 (2)",
+          //         "link": "https://drive.google.com/file/d/191fDV6J9rVUwQnScybh2ADkkA-QwLwUZ/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "2 (4)",
+          //         "link": "https://drive.google.com/file/d/1_oKGT_gyB_om5lcTFY-pKAK2VQ62QNHn/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "3 (4)",
+          //         "link": "https://drive.google.com/file/d/1oLgO_P0pX38TSw4GwbjT0zP-W85O_wxl/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "4 (3)",
+          //         "link": "https://drive.google.com/file/d/1J097QPM77ABxun1VH_0horLnDW5hPw5Y/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "5 (2)",
+          //         "link": "https://drive.google.com/file/d/17psVxig-HRLluI3frtcZhCfOaSkJPVcf/view?usp=drivesdk"
+          //       }
+          //     ]
+          //   },
+          //   "Endsem": {
+          //     "files": [
+          //       {
+          //         "title": "End sem long ans (5)",
+          //         "link": "https://drive.google.com/file/d/10kju13D8nC0gtEfsQ5NJGx-zUDOeBy7H/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "Endsem short ans (3)",
+          //         "link": "https://drive.google.com/file/d/1My3AJUgHQOJbSpzlHHTtHgOogpdKX99u/view?usp=drivesdk"
+          //       }
+          //     ]
+          //   }
+          // },
+          // "Y23_SEM1": {
+          //   "files": [
+          //     {
+          //       "title": "MIDSEM",
+          //       "link": "https://drive.google.com/file/d/1w06BZqhIyciYp33tG8PL8Ku8aZpt8976/view?usp=drivesdk"
+          //     }
+          //   ],
+          //   "Endsem": {
+          //     "files": [
+          //       {
+          //         "title": "ENDSEM-LONG-ANS",
+          //         "link": "https://drive.google.com/file/d/1f8tPUCL7_2CVR2cq7OIFzuz4007KAlI_/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "ENDSEM-SHORT-ANS",
+          //         "link": "https://drive.google.com/file/d/1OyPZgakM5JoNohgt8ZWBtk3Bt3vBOGv2/view?usp=drivesdk"
+          //       }
+          //     ]
+          //   },
+          //   "Quizzes": {
+          //     "files": [
+          //       {
+          //         "title": "QUIZ1",
+          //         "link": "https://drive.google.com/file/d/1lUM4gU0oKpKJTONdxBfCpsDn6XcG63pz/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "QUIZ2",
+          //         "link": "https://drive.google.com/file/d/1SThl0qwPvMKc1a6dE7tuLyioicahjffC/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "QUIZ3",
+          //         "link": "https://drive.google.com/file/d/1MtDxq2Q9kNx0K92GNKjWV6UTaVj1UzA6/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "QUIZ4",
+          //         "link": "https://drive.google.com/file/d/1x7n0C8NERDZvPbN7B5Ipy--4EgGMnodo/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "QUIZ5",
+          //         "link": "https://drive.google.com/file/d/1k_c3fwH3FG0dJMIDkou2UdLKYTLgJAE2/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "QUIZ6",
+          //         "link": "https://drive.google.com/file/d/1SBbGVhOg_43DPPv5G2IahM_PKHOzEMz1/view?usp=drivesdk"
+          //       }
+          //     ]
+          //   }
+          // },
+          // "Y23_SEM2": {
+          //   "files": [
+          //     {
+          //       "title": "MIDSEM-1 PHY114",
+          //       "link": "https://drive.google.com/file/d/1uMLLMhiZvM6NNfpGpTyOm488WTdjSYcT/view?usp=drivesdk"
+          //     },
+          //     {
+          //       "title": "QUIZ-1 PHY114 YNM",
+          //       "link": "https://drive.google.com/file/d/1yiv6v_y5M5LHg7B0SrA-ay8NibbOA70p/view?usp=drivesdk"
+          //     }
+          //   ],
+          //   "Endsem": {
+          //     "files": [
+          //       {
+          //         "title": "End Sem Solutions 2024",
+          //         "link": "https://drive.google.com/file/d/1mZpLF2rJiUFJhVs6gNIBXlSNeIocaVSD/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "Endsem QP",
+          //         "link": "https://drive.google.com/file/d/1NFDnrWs5Z2YLqB71n5P_b7u4jlLUHWxa/view?usp=drivesdk"
+          //       }
+          //     ]
+          //   }
+          // }
         },
-        "Assignments": {
-          "files": [
-            {
-              "title": "Spin Questions",
-              "link": "https://drive.google.com/file/d/1zqp9wtZ2-oEqpPxk8pdJ1FkGVT-uekmu/view?usp=drivesdk"
-            }
-          ],
-          "2023-24 Ist sem": {
-            "1": {
-              "files": [
-                {
-                  "title": "Assignment 1 Answers",
-                  "link": "https://drive.google.com/file/d/1L0eHMp5YXdG4UfQzP0e86TpceSMVTSvX/view?usp=drivesdk"
-                },
-                {
-                  "title": "Assignment 1(Non Graded)",
-                  "link": "https://drive.google.com/file/d/1BWDNSGUsYTMvwClfhA0ttlvpS_YeMM1M/view?usp=drivesdk"
-                },
-                {
-                  "title": "My Assignment 1 Solutions(Non Graded)",
-                  "link": "https://drive.google.com/file/d/1Gu0ITFl3E-SetEgn07vI5-CJeh--o3Ek/view?usp=drivesdk"
-                }
-              ]
-            },
-            "2": {
-              "files": [
-                {
-                  "title": "Assignment 2",
-                  "link": "https://drive.google.com/file/d/1St_i7-bJqeI_X5jzoEWQLpY7KowAvurA/view?usp=drivesdk"
-                },
-                {
-                  "title": "Assignment 2 Answers",
-                  "link": "https://drive.google.com/file/d/1HF28ySs1G6t8bF1S9dq-YDkq8R7IT3_6/view?usp=drivesdk"
-                }
-              ]
-            },
-            "3": {
-              "files": [
-                {
-                  "title": "Assignment 3",
-                  "link": "https://drive.google.com/file/d/1g9rY_9rak3PKJBqIbi2cB0xmg6J8kpH5/view?usp=drivesdk"
-                },
-                {
-                  "title": "Assignment 3 Answers",
-                  "link": "https://drive.google.com/file/d/1FN3LcQpqyM8zX4nGpolJMtyVM17Lz9f-/view?usp=drivesdk"
-                }
-              ]
-            },
-            "4": {
-              "files": [
-                {
-                  "title": "Assignment 4",
-                  "link": "https://drive.google.com/file/d/1jb6ZlF-pUBqeMs0ZNxnnYg7syuWesI7t/view?usp=drivesdk"
-                },
-                {
-                  "title": "Assignment 4 Answers",
-                  "link": "https://drive.google.com/file/d/1835lBYwfszfQpkGYwHjAl7G1fFnEsKgS/view?usp=drivesdk"
-                }
-              ]
-            },
-            "5": {
-              "files": [
-                {
-                  "title": "Assignment 5",
-                  "link": "https://drive.google.com/file/d/1vduwfusx25-JvC5RPeE7cABpPSpphhjy/view?usp=drivesdk"
-                },
-                {
-                  "title": "Assignment 5 Answers",
-                  "link": "https://drive.google.com/file/d/1l-9XDuOdCx2FpgMaabz7iZ45ktGxMJqi/view?usp=drivesdk"
-                }
-              ]
-            },
-            "6": {
-              "files": [
-                {
-                  "title": "Assignment 6",
-                  "link": "https://drive.google.com/file/d/1_233XH7w7mIKgHkLxmAC8FS6AzzgeomC/view?usp=drivesdk"
-                },
-                {
-                  "title": "Assignment 6 Answers",
-                  "link": "https://drive.google.com/file/d/1_oi2Vz1BkWAa2qV8V1VALJ43AK-bup50/view?usp=drivesdk"
-                }
-              ]
-            },
-            "7": {
-              "files": [
-                {
-                  "title": "Assignment 7",
-                  "link": "https://drive.google.com/file/d/1VHqiR95uRaYk75UW3uOvSLK9ZkV1gTm9/view?usp=drivesdk"
-                },
-                {
-                  "title": "Assignment 7 Answers",
-                  "link": "https://drive.google.com/file/d/1DPdhPei5G02WIkCV7u756GHshEKMV457/view?usp=drivesdk"
-                }
-              ]
-            },
-            "8": {
-              "files": [
-                {
-                  "title": "Assignment 8",
-                  "link": "https://drive.google.com/file/d/1ziq1cCHAVz1wQtl1iAL1supYbPz4gcHW/view?usp=drivesdk"
-                },
-                {
-                  "title": "Assignment 8 Answers",
-                  "link": "https://drive.google.com/file/d/17h_sgZcC2gaEsjTTcsmGyaNHEb3MMwHr/view?usp=drivesdk"
-                }
-              ]
-            },
-            "9": {
-              "files": [
-                {
-                  "title": "Assignment 9",
-                  "link": "https://drive.google.com/file/d/1PrjtuZunKTAhTfOxKhQAxhKXPAvJ1xQr/view?usp=drivesdk"
-                },
-                {
-                  "title": "Assignment 9 Answers",
-                  "link": "https://drive.google.com/file/d/1_eeS8Cvnkp27FbPyEZqQn2d5RA2V8-42/view?usp=drivesdk"
-                }
-              ]
-            },
-            "10": {
-              "files": [
-                {
-                  "title": "Assignment 10",
-                  "link": "https://drive.google.com/file/d/1D4YSnPg6D6R0M5OeIPZPJMNT6vKT7cZm/view?usp=drivesdk"
-                },
-                {
-                  "title": "Assignment 10 Answers",
-                  "link": "https://drive.google.com/file/d/1lurTXyBMxlQKBjG8Axbkjz5hJu1G95wQ/view?usp=drivesdk"
-                }
-              ]
-            },
-            "11": {
-              "files": [
-                {
-                  "title": "Assignment 11",
-                  "link": "https://drive.google.com/file/d/1dRIWBSCWAXCweZjxX2U8WNl3Q3iOjoW4/view?usp=drivesdk"
-                },
-                {
-                  "title": "Assignment 11 Answers",
-                  "link": "https://drive.google.com/file/d/1PEtEIY5iv1JbOB2m1uZePVmLB_9GfpPi/view?usp=drivesdk"
-                }
-              ]
-            },
-            "12": {
-              "files": [
-                {
-                  "title": "Assignment 12",
-                  "link": "https://drive.google.com/file/d/1F31zwoM4Oe1EViiQ4Qxl2G-b4kN0rZbM/view?usp=drivesdk"
-                },
-                {
-                  "title": "Assignment 12 Answers",
-                  "link": "https://drive.google.com/file/d/12BTkFb43piDZZr3sQAlqLzRnnLQIUqhM/view?usp=drivesdk"
-                }
-              ]
-            },
-            "13": {
-              "files": [
-                {
-                  "title": "Assignment 13",
-                  "link": "https://drive.google.com/file/d/1-o4imeMgMwiQImHlGjlYe7wYYd8HMRED/view?usp=drivesdk"
-                }
-              ]
-            },
-            "14": {
-              "files": [
-                {
-                  "title": "Assignment 14",
-                  "link": "https://drive.google.com/file/d/1clY6ysG46lIuomeNI5gaEytu_JEFRPcz/view?usp=drivesdk"
-                }
-              ]
-            },
-            "files": []
-          },
-          "2023-24 IInd sem": {
-            "files": [
-              {
-                "title": "Tutorial_1",
-                "link": "https://drive.google.com/file/d/1QDahwIKysf-UmFDzpjwd9jkhDEONIsfH/view?usp=drivesdk"
-              },
-              {
-                "title": "Tutorial_10",
-                "link": "https://drive.google.com/file/d/1bcqUxuQmbDthnTCBd1bSSEmpW0nIMDWR/view?usp=drivesdk"
-              },
-              {
-                "title": "Tutorial_11",
-                "link": "https://drive.google.com/file/d/1WKDu8VtqWSn_DX0TgeXFccr4ezUX91XX/view?usp=drivesdk"
-              },
-              {
-                "title": "Tutorial_12",
-                "link": "https://drive.google.com/file/d/1aQL49wy8ijvM8FL7bGxpHoClGFM_GrdS/view?usp=drivesdk"
-              },
-              {
-                "title": "Tutorial_13",
-                "link": "https://drive.google.com/file/d/1rEu4wwtezQFMo7KXR7h1f-L8Ph9RZsd6/view?usp=drivesdk"
-              },
-              {
-                "title": "Tutorial_14",
-                "link": "https://drive.google.com/file/d/1kwH1cz0F6GIewu1s9jKUUZV9SFR8Bhz1/view?usp=drivesdk"
-              },
-              {
-                "title": "Tutorial_2",
-                "link": "https://drive.google.com/file/d/1veCOLWyZF-vxGt5BWtbg5OvftoFNsuXG/view?usp=drivesdk"
-              },
-              {
-                "title": "Tutorial_3",
-                "link": "https://drive.google.com/file/d/1p09fqYdZ16Lol4BmGD5Z9B0Incts5Z8c/view?usp=drivesdk"
-              },
-              {
-                "title": "Tutorial_4",
-                "link": "https://drive.google.com/file/d/1QWAQU-yWXIELolOvldEDGsFHlWvtdKvT/view?usp=drivesdk"
-              },
-              {
-                "title": "Tutorial_5",
-                "link": "https://drive.google.com/file/d/1EVer0zOdNIvqRMFRIRd-K6rFEtb1eBQu/view?usp=drivesdk"
-              },
-              {
-                "title": "Tutorial_6",
-                "link": "https://drive.google.com/file/d/10sveUtjnDrPntWmRjJ0zsE5q0u9zxZb7/view?usp=drivesdk"
-              },
-              {
-                "title": "Tutorial_7",
-                "link": "https://drive.google.com/file/d/16BctFkRqa-azcTPexMq05_zTgR3S3rDs/view?usp=drivesdk"
-              },
-              {
-                "title": "Tutorial_8",
-                "link": "https://drive.google.com/file/d/1jqNt_QTJDZ-9A07a1Gau6dyqkfXF-06y/view?usp=drivesdk"
-              },
-              {
-                "title": "Tutorial_9",
-                "link": "https://drive.google.com/file/d/1ofl4KZckLSaZ6S5yJ7Aj9BFApFs9azHt/view?usp=drivesdk"
-              }
-            ],
-            "Solutions": {
-              "files": [
-                {
-                  "title": "HA 7 solution",
-                  "link": "https://drive.google.com/file/d/1mgCu8TErNXxCyRckTIoKOY_AVnRdmB-y/view?usp=drivesdk"
-                },
-                {
-                  "title": "HA 8 to 14 Solutions",
-                  "link": "https://drive.google.com/file/d/16C5oUD9tHesxo837tq-3Wxujq5eK34It/view?usp=drivesdk"
-                },
-                {
-                  "title": "Hints HA#2 PHY 114",
-                  "link": "https://drive.google.com/file/d/1U3naat7i_ZqYoXg5lRYiHehUa3e2_3io/view?usp=drivesdk"
-                },
-                {
-                  "title": "Hints HA#3 PHY 114",
-                  "link": "https://drive.google.com/file/d/1GGd7CIndyswbljjG5p9fTGNDJfZfLfo7/view?usp=drivesdk"
-                },
-                {
-                  "title": "Hints_Ans #6 YNM PHY 114",
-                  "link": "https://drive.google.com/file/d/164MOXwrdYyaPohRzpNvJ4HIwOnPMhbvV/view?usp=drivesdk"
-                },
-                {
-                  "title": "Hints_Ans HA#4  PHY 114",
-                  "link": "https://drive.google.com/file/d/15dJVmpughLRDDS45hIsqFkFtBE0FHVRK/view?usp=drivesdk"
-                },
-                {
-                  "title": "Hints_Ans HA#5 PHY 114",
-                  "link": "https://drive.google.com/file/d/1Khp5hBTwgK0eBvLQdyJZtRSR8Qw-rPsA/view?usp=drivesdk"
-                },
-                {
-                  "title": "Solutions HA 1-3",
-                  "link": "https://drive.google.com/file/d/1uVP5guaKcp7k3teb59G1eXPiZ2pBWLoa/view?usp=drivesdk"
-                }
-              ]
-            }
-          },
-          "2022-23 Ist sem": {
-            "files": [
-              {
-                "title": "Quantum_ass1",
-                "link": "https://drive.google.com/file/d/1Cwlwl-HzPspHgtJ20lOMgBtU-bpU7QV4/view?usp=drivesdk"
-              },
-              {
-                "title": "quantum_ass10",
-                "link": "https://drive.google.com/file/d/1SEeT_dkTOFwyvRexizEZ2AtXORq_4wfJ/view?usp=drivesdk"
-              },
-              {
-                "title": "quantum_ass11",
-                "link": "https://drive.google.com/file/d/1t4I9SKMPcfg_HIpmU_Sj4VNGTLa6KskH/view?usp=drivesdk"
-              },
-              {
-                "title": "quantum_ass12",
-                "link": "https://drive.google.com/file/d/1BgxMJiV1sFhaPWXeT9foWF_QNil2gR5r/view?usp=drivesdk"
-              },
-              {
-                "title": "Quantum_ass2",
-                "link": "https://drive.google.com/file/d/155pgXSH3b6iJzvop7yChu97sqyqiy7Eo/view?usp=drivesdk"
-              },
-              {
-                "title": "Quantum_ass3",
-                "link": "https://drive.google.com/file/d/1XVlTtwUaSvk1TRn6FS_OPonb9Ez6Gtuc/view?usp=drivesdk"
-              },
-              {
-                "title": "quantum_ass4",
-                "link": "https://drive.google.com/file/d/1kuMG9XiYpu2XtfKJz8i3XWPqcFuo4pMU/view?usp=drivesdk"
-              },
-              {
-                "title": "quantum_ass5",
-                "link": "https://drive.google.com/file/d/1jr5N9uxGmMfc-CEccU5q2u0wAJlKiNxu/view?usp=drivesdk"
-              },
-              {
-                "title": "quantum_ass6",
-                "link": "https://drive.google.com/file/d/1yuov5yOzS-OVgEPnphg0nlEZJNcgHeP6/view?usp=drivesdk"
-              },
-              {
-                "title": "quantum_ass7",
-                "link": "https://drive.google.com/file/d/1vrEPnwpD1cJjh6vPOE28FJ0FR_BKpEjK/view?usp=drivesdk"
-              },
-              {
-                "title": "quantum_ass8",
-                "link": "https://drive.google.com/file/d/1vnRIKRNiwYeztnHswqNMKVaqDQKjMg9O/view?usp=drivesdk"
-              },
-              {
-                "title": "quantum_ass9",
-                "link": "https://drive.google.com/file/d/1yEKdjM2z73T0xPLXDccyyntRp_S3ept7/view?usp=drivesdk"
-              }
-            ],
-            "solutions": {
-              "files": [
-                {
-                  "title": "Quantum Assignments_solutions",
-                  "link": "https://drive.google.com/file/d/1IbWRnTzjAlMPS4x-aCd7th-1HvoGLsB4/view?usp=drivesdk"
-                },
-                {
-                  "title": "Quantum solutions (2)",
-                  "link": "https://drive.google.com/file/d/1nTDbmsSDOfce3CURzMHmGaMtBWN5KPYK/view?usp=drivesdk"
-                }
-              ]
-            }
-          },
-          "2022-23 IInd Sem": {
-            "files": [
-              {
-                "title": "homework 1",
-                "link": "https://drive.google.com/file/d/1bm0bnIgDx7Phe2LxifZZHV8C6YWzl0Ah/view?usp=drivesdk"
-              },
-              {
-                "title": "homework 2",
-                "link": "https://drive.google.com/file/d/1lauZODjFyJ2S-VQhqunjGbf-g1Jo3qls/view?usp=drivesdk"
-              },
-              {
-                "title": "homework 3",
-                "link": "https://drive.google.com/file/d/1NugGveVIKEr0pNN_uotMgn3LXl6Vr8Zx/view?usp=drivesdk"
-              },
-              {
-                "title": "homework 4",
-                "link": "https://drive.google.com/file/d/1o4cJBmxf4sy7IrGpURGzc51k3W6ZVQ3J/view?usp=drivesdk"
-              },
-              {
-                "title": "homework 5",
-                "link": "https://drive.google.com/file/d/14Mu_86uEC8NvyjGlTRqpIMRSizMb034c/view?usp=drivesdk"
-              },
-              {
-                "title": "homework 6",
-                "link": "https://drive.google.com/file/d/1ykJuCrSbR-C6f9QmXu-6a3hXWxKOREsx/view?usp=drivesdk"
-              },
-              {
-                "title": "solution 1",
-                "link": "https://drive.google.com/file/d/1a2TaIJfipAqiZ8E3Bz2218sqkve5dQ4o/view?usp=drivesdk"
-              },
-              {
-                "title": "solution 2",
-                "link": "https://drive.google.com/file/d/1n89-SGO45bvIw04mPijoMq10NIyiVN-t/view?usp=drivesdk"
-              },
-              {
-                "title": "solution 3",
-                "link": "https://drive.google.com/file/d/1k072gXOxKY96NtKgq0jIcYkk1OI0ge0q/view?usp=drivesdk"
-              },
-              {
-                "title": "solution 4",
-                "link": "https://drive.google.com/file/d/1RmK8OsIiMzuApUqIRQ34NmVWZ9g6NlcG/view?usp=drivesdk"
-              },
-              {
-                "title": "solution 5",
-                "link": "https://drive.google.com/file/d/1c_qI3nbD30HAtxzmL__EbAvDKaZD6Nhr/view?usp=drivesdk"
-              },
-              {
-                "title": "solution 6",
-                "link": "https://drive.google.com/file/d/12M8bZlJnnmRr4R8RYlI8JAwFn363Cu2C/view?usp=drivesdk"
-              }
-            ]
-          },
-          "2020-21 IInd Sem": {
-            "files": [
-              {
-                "title": "T1",
-                "link": "https://drive.google.com/file/d/1m4TYSWmLFlURuiHOSa_DvnjLN5Yc7nXZ/view?usp=drivesdk"
-              },
-              {
-                "title": "T2",
-                "link": "https://drive.google.com/file/d/1NkkWjz3c1oDPU8Ayu9njDumzhftOmSWs/view?usp=drivesdk"
-              },
-              {
-                "title": "T3",
-                "link": "https://drive.google.com/file/d/1yew8YgflafiWwoZbR20L4YEeOQ5m9xi8/view?usp=drivesdk"
-              },
-              {
-                "title": "T4",
-                "link": "https://drive.google.com/file/d/1xtezmtRgTL7By8uhlYS1AFiubUqtMmSh/view?usp=drivesdk"
-              },
-              {
-                "title": "T5",
-                "link": "https://drive.google.com/file/d/1ZLuL8dzBOviPfJMtLGGVpNIp68Hi2AEs/view?usp=drivesdk"
-              },
-              {
-                "title": "T6",
-                "link": "https://drive.google.com/file/d/1B1garvXT3EQe_1y9yHhbEWJC5i6-3sd4/view?usp=drivesdk"
-              },
-              {
-                "title": "T7",
-                "link": "https://drive.google.com/file/d/1jkQNpNouIsILKYdSLrOQ7o7ssnvFvrfx/view?usp=drivesdk"
-              },
-              {
-                "title": "T8",
-                "link": "https://drive.google.com/file/d/1gNuac8nAEIkBF1mLQJE88uT5hEWqRdi8/view?usp=drivesdk"
-              },
-              {
-                "title": "T9",
-                "link": "https://drive.google.com/file/d/1HEjD3vs7KNmIcRyScdeF9Q324JX34lKA/view?usp=drivesdk"
-              }
-            ]
-          }
-        },
+        // "Assignments": {
+        //   "files": [
+        //     {
+        //       "title": "Spin Questions",
+        //       "link": "https://drive.google.com/file/d/1zqp9wtZ2-oEqpPxk8pdJ1FkGVT-uekmu/view?usp=drivesdk"
+        //     }
+        //   ],
+        //   "2023-24 Ist sem": {
+        //     "1": {
+        //       "files": [
+        //         {
+        //           "title": "Assignment 1 Answers",
+        //           "link": "https://drive.google.com/file/d/1L0eHMp5YXdG4UfQzP0e86TpceSMVTSvX/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Assignment 1(Non Graded)",
+        //           "link": "https://drive.google.com/file/d/1BWDNSGUsYTMvwClfhA0ttlvpS_YeMM1M/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "My Assignment 1 Solutions(Non Graded)",
+        //           "link": "https://drive.google.com/file/d/1Gu0ITFl3E-SetEgn07vI5-CJeh--o3Ek/view?usp=drivesdk"
+        //         }
+        //       ]
+        //     },
+        //     "2": {
+        //       "files": [
+        //         {
+        //           "title": "Assignment 2",
+        //           "link": "https://drive.google.com/file/d/1St_i7-bJqeI_X5jzoEWQLpY7KowAvurA/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Assignment 2 Answers",
+        //           "link": "https://drive.google.com/file/d/1HF28ySs1G6t8bF1S9dq-YDkq8R7IT3_6/view?usp=drivesdk"
+        //         }
+        //       ]
+        //     },
+        //     "3": {
+        //       "files": [
+        //         {
+        //           "title": "Assignment 3",
+        //           "link": "https://drive.google.com/file/d/1g9rY_9rak3PKJBqIbi2cB0xmg6J8kpH5/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Assignment 3 Answers",
+        //           "link": "https://drive.google.com/file/d/1FN3LcQpqyM8zX4nGpolJMtyVM17Lz9f-/view?usp=drivesdk"
+        //         }
+        //       ]
+        //     },
+        //     "4": {
+        //       "files": [
+        //         {
+        //           "title": "Assignment 4",
+        //           "link": "https://drive.google.com/file/d/1jb6ZlF-pUBqeMs0ZNxnnYg7syuWesI7t/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Assignment 4 Answers",
+        //           "link": "https://drive.google.com/file/d/1835lBYwfszfQpkGYwHjAl7G1fFnEsKgS/view?usp=drivesdk"
+        //         }
+        //       ]
+        //     },
+        //     "5": {
+        //       "files": [
+        //         {
+        //           "title": "Assignment 5",
+        //           "link": "https://drive.google.com/file/d/1vduwfusx25-JvC5RPeE7cABpPSpphhjy/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Assignment 5 Answers",
+        //           "link": "https://drive.google.com/file/d/1l-9XDuOdCx2FpgMaabz7iZ45ktGxMJqi/view?usp=drivesdk"
+        //         }
+        //       ]
+        //     },
+        //     "6": {
+        //       "files": [
+        //         {
+        //           "title": "Assignment 6",
+        //           "link": "https://drive.google.com/file/d/1_233XH7w7mIKgHkLxmAC8FS6AzzgeomC/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Assignment 6 Answers",
+        //           "link": "https://drive.google.com/file/d/1_oi2Vz1BkWAa2qV8V1VALJ43AK-bup50/view?usp=drivesdk"
+        //         }
+        //       ]
+        //     },
+        //     "7": {
+        //       "files": [
+        //         {
+        //           "title": "Assignment 7",
+        //           "link": "https://drive.google.com/file/d/1VHqiR95uRaYk75UW3uOvSLK9ZkV1gTm9/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Assignment 7 Answers",
+        //           "link": "https://drive.google.com/file/d/1DPdhPei5G02WIkCV7u756GHshEKMV457/view?usp=drivesdk"
+        //         }
+        //       ]
+        //     },
+        //     "8": {
+        //       "files": [
+        //         {
+        //           "title": "Assignment 8",
+        //           "link": "https://drive.google.com/file/d/1ziq1cCHAVz1wQtl1iAL1supYbPz4gcHW/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Assignment 8 Answers",
+        //           "link": "https://drive.google.com/file/d/17h_sgZcC2gaEsjTTcsmGyaNHEb3MMwHr/view?usp=drivesdk"
+        //         }
+        //       ]
+        //     },
+        //     "9": {
+        //       "files": [
+        //         {
+        //           "title": "Assignment 9",
+        //           "link": "https://drive.google.com/file/d/1PrjtuZunKTAhTfOxKhQAxhKXPAvJ1xQr/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Assignment 9 Answers",
+        //           "link": "https://drive.google.com/file/d/1_eeS8Cvnkp27FbPyEZqQn2d5RA2V8-42/view?usp=drivesdk"
+        //         }
+        //       ]
+        //     },
+        //     "10": {
+        //       "files": [
+        //         {
+        //           "title": "Assignment 10",
+        //           "link": "https://drive.google.com/file/d/1D4YSnPg6D6R0M5OeIPZPJMNT6vKT7cZm/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Assignment 10 Answers",
+        //           "link": "https://drive.google.com/file/d/1lurTXyBMxlQKBjG8Axbkjz5hJu1G95wQ/view?usp=drivesdk"
+        //         }
+        //       ]
+        //     },
+        //     "11": {
+        //       "files": [
+        //         {
+        //           "title": "Assignment 11",
+        //           "link": "https://drive.google.com/file/d/1dRIWBSCWAXCweZjxX2U8WNl3Q3iOjoW4/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Assignment 11 Answers",
+        //           "link": "https://drive.google.com/file/d/1PEtEIY5iv1JbOB2m1uZePVmLB_9GfpPi/view?usp=drivesdk"
+        //         }
+        //       ]
+        //     },
+        //     "12": {
+        //       "files": [
+        //         {
+        //           "title": "Assignment 12",
+        //           "link": "https://drive.google.com/file/d/1F31zwoM4Oe1EViiQ4Qxl2G-b4kN0rZbM/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Assignment 12 Answers",
+        //           "link": "https://drive.google.com/file/d/12BTkFb43piDZZr3sQAlqLzRnnLQIUqhM/view?usp=drivesdk"
+        //         }
+        //       ]
+        //     },
+        //     "13": {
+        //       "files": [
+        //         {
+        //           "title": "Assignment 13",
+        //           "link": "https://drive.google.com/file/d/1-o4imeMgMwiQImHlGjlYe7wYYd8HMRED/view?usp=drivesdk"
+        //         }
+        //       ]
+        //     },
+        //     "14": {
+        //       "files": [
+        //         {
+        //           "title": "Assignment 14",
+        //           "link": "https://drive.google.com/file/d/1clY6ysG46lIuomeNI5gaEytu_JEFRPcz/view?usp=drivesdk"
+        //         }
+        //       ]
+        //     },
+        //     "files": []
+        //   },
+        //   "2023-24 IInd sem": {
+        //     "files": [
+        //       {
+        //         "title": "Tutorial_1",
+        //         "link": "https://drive.google.com/file/d/1QDahwIKysf-UmFDzpjwd9jkhDEONIsfH/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tutorial_10",
+        //         "link": "https://drive.google.com/file/d/1bcqUxuQmbDthnTCBd1bSSEmpW0nIMDWR/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tutorial_11",
+        //         "link": "https://drive.google.com/file/d/1WKDu8VtqWSn_DX0TgeXFccr4ezUX91XX/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tutorial_12",
+        //         "link": "https://drive.google.com/file/d/1aQL49wy8ijvM8FL7bGxpHoClGFM_GrdS/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tutorial_13",
+        //         "link": "https://drive.google.com/file/d/1rEu4wwtezQFMo7KXR7h1f-L8Ph9RZsd6/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tutorial_14",
+        //         "link": "https://drive.google.com/file/d/1kwH1cz0F6GIewu1s9jKUUZV9SFR8Bhz1/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tutorial_2",
+        //         "link": "https://drive.google.com/file/d/1veCOLWyZF-vxGt5BWtbg5OvftoFNsuXG/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tutorial_3",
+        //         "link": "https://drive.google.com/file/d/1p09fqYdZ16Lol4BmGD5Z9B0Incts5Z8c/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tutorial_4",
+        //         "link": "https://drive.google.com/file/d/1QWAQU-yWXIELolOvldEDGsFHlWvtdKvT/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tutorial_5",
+        //         "link": "https://drive.google.com/file/d/1EVer0zOdNIvqRMFRIRd-K6rFEtb1eBQu/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tutorial_6",
+        //         "link": "https://drive.google.com/file/d/10sveUtjnDrPntWmRjJ0zsE5q0u9zxZb7/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tutorial_7",
+        //         "link": "https://drive.google.com/file/d/16BctFkRqa-azcTPexMq05_zTgR3S3rDs/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tutorial_8",
+        //         "link": "https://drive.google.com/file/d/1jqNt_QTJDZ-9A07a1Gau6dyqkfXF-06y/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tutorial_9",
+        //         "link": "https://drive.google.com/file/d/1ofl4KZckLSaZ6S5yJ7Aj9BFApFs9azHt/view?usp=drivesdk"
+        //       }
+        //     ],
+        //     "Solutions": {
+        //       "files": [
+        //         {
+        //           "title": "HA 7 solution",
+        //           "link": "https://drive.google.com/file/d/1mgCu8TErNXxCyRckTIoKOY_AVnRdmB-y/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "HA 8 to 14 Solutions",
+        //           "link": "https://drive.google.com/file/d/16C5oUD9tHesxo837tq-3Wxujq5eK34It/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Hints HA#2 PHY 114",
+        //           "link": "https://drive.google.com/file/d/1U3naat7i_ZqYoXg5lRYiHehUa3e2_3io/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Hints HA#3 PHY 114",
+        //           "link": "https://drive.google.com/file/d/1GGd7CIndyswbljjG5p9fTGNDJfZfLfo7/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Hints_Ans #6 YNM PHY 114",
+        //           "link": "https://drive.google.com/file/d/164MOXwrdYyaPohRzpNvJ4HIwOnPMhbvV/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Hints_Ans HA#4  PHY 114",
+        //           "link": "https://drive.google.com/file/d/15dJVmpughLRDDS45hIsqFkFtBE0FHVRK/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Hints_Ans HA#5 PHY 114",
+        //           "link": "https://drive.google.com/file/d/1Khp5hBTwgK0eBvLQdyJZtRSR8Qw-rPsA/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Solutions HA 1-3",
+        //           "link": "https://drive.google.com/file/d/1uVP5guaKcp7k3teb59G1eXPiZ2pBWLoa/view?usp=drivesdk"
+        //         }
+        //       ]
+        //     }
+        //   },
+        //   "2022-23 Ist sem": {
+        //     "files": [
+        //       {
+        //         "title": "Quantum_ass1",
+        //         "link": "https://drive.google.com/file/d/1Cwlwl-HzPspHgtJ20lOMgBtU-bpU7QV4/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "quantum_ass10",
+        //         "link": "https://drive.google.com/file/d/1SEeT_dkTOFwyvRexizEZ2AtXORq_4wfJ/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "quantum_ass11",
+        //         "link": "https://drive.google.com/file/d/1t4I9SKMPcfg_HIpmU_Sj4VNGTLa6KskH/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "quantum_ass12",
+        //         "link": "https://drive.google.com/file/d/1BgxMJiV1sFhaPWXeT9foWF_QNil2gR5r/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Quantum_ass2",
+        //         "link": "https://drive.google.com/file/d/155pgXSH3b6iJzvop7yChu97sqyqiy7Eo/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Quantum_ass3",
+        //         "link": "https://drive.google.com/file/d/1XVlTtwUaSvk1TRn6FS_OPonb9Ez6Gtuc/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "quantum_ass4",
+        //         "link": "https://drive.google.com/file/d/1kuMG9XiYpu2XtfKJz8i3XWPqcFuo4pMU/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "quantum_ass5",
+        //         "link": "https://drive.google.com/file/d/1jr5N9uxGmMfc-CEccU5q2u0wAJlKiNxu/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "quantum_ass6",
+        //         "link": "https://drive.google.com/file/d/1yuov5yOzS-OVgEPnphg0nlEZJNcgHeP6/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "quantum_ass7",
+        //         "link": "https://drive.google.com/file/d/1vrEPnwpD1cJjh6vPOE28FJ0FR_BKpEjK/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "quantum_ass8",
+        //         "link": "https://drive.google.com/file/d/1vnRIKRNiwYeztnHswqNMKVaqDQKjMg9O/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "quantum_ass9",
+        //         "link": "https://drive.google.com/file/d/1yEKdjM2z73T0xPLXDccyyntRp_S3ept7/view?usp=drivesdk"
+        //       }
+        //     ],
+        //     "solutions": {
+        //       "files": [
+        //         {
+        //           "title": "Quantum Assignments_solutions",
+        //           "link": "https://drive.google.com/file/d/1IbWRnTzjAlMPS4x-aCd7th-1HvoGLsB4/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Quantum solutions (2)",
+        //           "link": "https://drive.google.com/file/d/1nTDbmsSDOfce3CURzMHmGaMtBWN5KPYK/view?usp=drivesdk"
+        //         }
+        //       ]
+        //     }
+        //   },
+        //   "2022-23 IInd Sem": {
+        //     "files": [
+        //       {
+        //         "title": "homework 1",
+        //         "link": "https://drive.google.com/file/d/1bm0bnIgDx7Phe2LxifZZHV8C6YWzl0Ah/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "homework 2",
+        //         "link": "https://drive.google.com/file/d/1lauZODjFyJ2S-VQhqunjGbf-g1Jo3qls/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "homework 3",
+        //         "link": "https://drive.google.com/file/d/1NugGveVIKEr0pNN_uotMgn3LXl6Vr8Zx/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "homework 4",
+        //         "link": "https://drive.google.com/file/d/1o4cJBmxf4sy7IrGpURGzc51k3W6ZVQ3J/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "homework 5",
+        //         "link": "https://drive.google.com/file/d/14Mu_86uEC8NvyjGlTRqpIMRSizMb034c/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "homework 6",
+        //         "link": "https://drive.google.com/file/d/1ykJuCrSbR-C6f9QmXu-6a3hXWxKOREsx/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "solution 1",
+        //         "link": "https://drive.google.com/file/d/1a2TaIJfipAqiZ8E3Bz2218sqkve5dQ4o/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "solution 2",
+        //         "link": "https://drive.google.com/file/d/1n89-SGO45bvIw04mPijoMq10NIyiVN-t/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "solution 3",
+        //         "link": "https://drive.google.com/file/d/1k072gXOxKY96NtKgq0jIcYkk1OI0ge0q/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "solution 4",
+        //         "link": "https://drive.google.com/file/d/1RmK8OsIiMzuApUqIRQ34NmVWZ9g6NlcG/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "solution 5",
+        //         "link": "https://drive.google.com/file/d/1c_qI3nbD30HAtxzmL__EbAvDKaZD6Nhr/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "solution 6",
+        //         "link": "https://drive.google.com/file/d/12M8bZlJnnmRr4R8RYlI8JAwFn363Cu2C/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   },
+        //   "2020-21 IInd Sem": {
+        //     "files": [
+        //       {
+        //         "title": "T1",
+        //         "link": "https://drive.google.com/file/d/1m4TYSWmLFlURuiHOSa_DvnjLN5Yc7nXZ/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "T2",
+        //         "link": "https://drive.google.com/file/d/1NkkWjz3c1oDPU8Ayu9njDumzhftOmSWs/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "T3",
+        //         "link": "https://drive.google.com/file/d/1yew8YgflafiWwoZbR20L4YEeOQ5m9xi8/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "T4",
+        //         "link": "https://drive.google.com/file/d/1xtezmtRgTL7By8uhlYS1AFiubUqtMmSh/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "T5",
+        //         "link": "https://drive.google.com/file/d/1ZLuL8dzBOviPfJMtLGGVpNIp68Hi2AEs/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "T6",
+        //         "link": "https://drive.google.com/file/d/1B1garvXT3EQe_1y9yHhbEWJC5i6-3sd4/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "T7",
+        //         "link": "https://drive.google.com/file/d/1jkQNpNouIsILKYdSLrOQ7o7ssnvFvrfx/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "T8",
+        //         "link": "https://drive.google.com/file/d/1gNuac8nAEIkBF1mLQJE88uT5hEWqRdi8/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "T9",
+        //         "link": "https://drive.google.com/file/d/1HEjD3vs7KNmIcRyScdeF9Q324JX34lKA/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   }
+        // },
         "Lecture Notes": {
           
-          "Y22 Sem2 AK Jha": {
-            "files": [
-              {
-                "title": "Copy of notes sem 2 (2023)",
-                "link": "https://drive.google.com/file/d/10DpIGdJznoIhgLB58kpLRPjAeNdjt9jU/view?usp=drivesdk"
-              }
-            ]
-          },
-          "Y23 Sem2 YNM and AKG": {
-            "files": [
-              {
-                "title": "Copy of Lec 1 YNM PHY114",
-                "link": "https://drive.google.com/file/d/1IqN_HHroTlJdrC15dBPBS8YircC9DILf/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 10 YNM PHY114",
-                "link": "https://drive.google.com/file/d/1l0zcULgBm63YRDOW3O11fX63OdjFYZNi/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 11 YNM PHY114",
-                "link": "https://drive.google.com/file/d/1n7Kc_a6CYT7XedXDhyNyMW3hcGFsQ3tg/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 12 YNM PHY114",
-                "link": "https://drive.google.com/file/d/10n4p5zu9ykKsT1m9k8fZMdTdBpgQPk8V/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 13 YNM PHY114",
-                "link": "https://drive.google.com/file/d/1M5_zGICI9v5BC4OZZLWcAYXuFFtaA4L4/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 14 YNM PHY114",
-                "link": "https://drive.google.com/file/d/1pomZ2QOqRBn0cYX7o-Eh-Q6PegvHBO7O/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 14.2 YNM PHY114",
-                "link": "https://drive.google.com/file/d/14hchln05oa38-fNE2TpvuF_0ZSGQ5im5/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 15 YNM PHY114",
-                "link": "https://drive.google.com/file/d/1GzAr73cfhbHrd4ThywE8hvgQJ0AbL0K8/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 16 YNM PHY114",
-                "link": "https://drive.google.com/file/d/13YD5wcmMixcguf_8QOWd4bCeqLAMGI6t/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 17 YNM PHY114",
-                "link": "https://drive.google.com/file/d/1ePpvARdjmTUixmD0W-vm_T3Jymz4I4ZL/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 18 YNM PHY114",
-                "link": "https://drive.google.com/file/d/1FWgqBOjHp9vIIOEFHfDGYNMwZl_Ib1HN/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 19 YNM PHY114",
-                "link": "https://drive.google.com/file/d/1TJHvwkQwYIDIER8FnVtQ7BXveCKdhn0k/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 1B YNM PHY114",
-                "link": "https://drive.google.com/file/d/164qwYP0mRQJYy03_WYkc8Ho8-0t8gH2q/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 2 YNM PHY114",
-                "link": "https://drive.google.com/file/d/1U9skCzapNa6e3lgkk7za-cgFXEVFwRM6/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 20 YNM PHY114",
-                "link": "https://drive.google.com/file/d/1DmODKoLqWHQFsoNtu6CdeDi1pDEbKm-z/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 21 AKG PHY114",
-                "link": "https://drive.google.com/file/d/1X4jBgobHL3D8xly60HHOEdlmHlkfyWHF/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 22 AKG PHY114",
-                "link": "https://drive.google.com/file/d/1cnUGvimZ7xneByfMt69AuRILXyDqPLRL/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 23 AKG PHY114",
-                "link": "https://drive.google.com/file/d/1xSOTpZpTxaP9XR849j-NRHgKycdiYDu6/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 24 AKG PHY114",
-                "link": "https://drive.google.com/file/d/1pq0h_GHyCojrNmYcQnz-UiMAJJoqLqeB/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 25 AKG PHY114",
-                "link": "https://drive.google.com/file/d/1euW3e6SnB37NIckzLWuhirTvgVb3gOXc/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 26 AKG PHY114",
-                "link": "https://drive.google.com/file/d/1_67F0azPKthYdqg0LEOfVRbBZmsOahRM/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 27 AKG PHY114",
-                "link": "https://drive.google.com/file/d/16danSPyAJDoo-XCngcOHcQoJYrjqzSke/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 28 AKG PHY114",
-                "link": "https://drive.google.com/file/d/1FjO1qKHwTxnxqmZEBARXUlFAxQxPUjGF/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 3 YNM PHY114",
-                "link": "https://drive.google.com/file/d/1vcU6DeCJS17xl7cvNZnRYWJcU2QVYXne/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 4 YNM PHY 114",
-                "link": "https://drive.google.com/file/d/1xz8NmkeylSrzdCoabBWkzg4AikLQeBCa/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 5 YNM PHY114",
-                "link": "https://drive.google.com/file/d/1ktBmZGk-6JcrulLOoIrTm-Dn6C22MhmW/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 6 YNM PHY 114",
-                "link": "https://drive.google.com/file/d/12Tp95CdVAYJL1_Hz-LvXoFtgNPxa5ngH/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 7 YNM PHY114",
-                "link": "https://drive.google.com/file/d/1ELsuBhyVfdX9O-MsZFxG8RhYvMLO_x_N/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 8 YNM PHY 114",
-                "link": "https://drive.google.com/file/d/1GjORxxA_9MATOlAOkm86kz_32I2PKaxc/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lec 9 YNM PHY114",
-                "link": "https://drive.google.com/file/d/1F8owSbP6T43woeOQEY9pdb_Uc2ZrFFGl/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of PHY114_Notes_Diffraction_NFE_YNM_2024 - 16 17",
-                "link": "https://drive.google.com/file/d/1dtpT4rNV88WWlarESnUfRsPKD4l3djpB/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of PHY114_Notes_Reciprocal_Lattice_YNM_2024",
-                "link": "https://drive.google.com/file/d/105gqajwbIPmC3atnkY5TZAwtH6CfNwx9/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Phy114-Liner-Algebra-notes",
-                "link": "https://drive.google.com/file/d/1irG_rV_xMyMbUBTxrQK208_lIrF7aJhs/view?usp=drivesdk"
-              }
-            ]
-          },
-          "Y23 Sem1 MK Harbola": {
-            "files": [
-              {
-                "title": "Copy of Lecture 01",
-                "link": "https://drive.google.com/file/d/1j8gk7QBwYkOW7aLoZhS970dEmJqL7RTE/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 02",
-                "link": "https://drive.google.com/file/d/1eIoE0rxBFCMaeU7NHGn70SEHK-VVN3D_/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 03",
-                "link": "https://drive.google.com/file/d/1uvS326mMtcfCEfQPYqQ04-UdV-gUaqqt/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 04",
-                "link": "https://drive.google.com/file/d/1ZMtIfvnMw3MILtP0jJH2a4NtD_34pk9u/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 05",
-                "link": "https://drive.google.com/file/d/1QLEZGFW2s8FCHwCZdSNR95i79CyM8J7M/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 05 Supplement",
-                "link": "https://drive.google.com/file/d/1vLRVuyis_JKgO3BOY5q2qyE7obXCPFGi/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 06",
-                "link": "https://drive.google.com/file/d/1eypQgOyzBA9dayzmx_fSDfvA2RQ0p-QJ/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 07",
-                "link": "https://drive.google.com/file/d/18_dh4TOIHs2PriTn0YBueuPBrX0HRspM/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 08",
-                "link": "https://drive.google.com/file/d/1SM1jIfVdeDQeYdvedtfM-wdDzLgyERKx/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 09",
-                "link": "https://drive.google.com/file/d/1Uyk9MMJ8Z-NY6BbYi0jxQLsgI4_BX3Jl/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 10",
-                "link": "https://drive.google.com/file/d/1US1CmI1ytFGpU3FPQuv_jfKzZWlbFbD2/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 10 Supplement",
-                "link": "https://drive.google.com/file/d/1AfcpXyWG-v5UVlSmWdiQ6MAP1-NQmyP9/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 11",
-                "link": "https://drive.google.com/file/d/1rcSn35HH5-OVNyAyrYpPnSjSKsEizXJY/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 12",
-                "link": "https://drive.google.com/file/d/15_GwWB89-5wzsSEnL6HWSba8nl4sfMJd/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 13",
-                "link": "https://drive.google.com/file/d/1gEV35BYGGtYvLUYQnbRz7FrB-2fLWHU8/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 14",
-                "link": "https://drive.google.com/file/d/1lXiZe25LXP4aVnDxaBHTPopgD6S0eyAc/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 15",
-                "link": "https://drive.google.com/file/d/1qrIbkqqYRoGa_C-c8LC739l8pTpUOZdr/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 16",
-                "link": "https://drive.google.com/file/d/1IJ_bqLXB_Ac0k6g4x0qs1CQcBRyXJ2Ed/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 17",
-                "link": "https://drive.google.com/file/d/14_kPdRf8N909_Buhwur8H7J3zT438x9q/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 18",
-                "link": "https://drive.google.com/file/d/19M1JZtsw7ZePP_ZsB4oXQujC4pLwxYLV/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 19",
-                "link": "https://drive.google.com/file/d/1nG4xa5rSxqIXoJgd_KURmQQkMo4Lk8CS/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 20",
-                "link": "https://drive.google.com/file/d/1nzPnEHltfoeqhwE0lXTP_CJD2ksIlvp_/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 21",
-                "link": "https://drive.google.com/file/d/1KyV2gTz6Sm6fyLGEzarx8I1itTKe-dZe/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 22",
-                "link": "https://drive.google.com/file/d/1R6dLzvdCSBdS1p3wy5ganimkpS8qsGBj/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 23",
-                "link": "https://drive.google.com/file/d/1ikHWQARvhmDp5M64QzSM8GAouAHQJToL/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 24",
-                "link": "https://drive.google.com/file/d/1_aQ2EK9UvfLdIqGY2Qj3QsAaWawRKuVM/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 25",
-                "link": "https://drive.google.com/file/d/16dv4QJGkqxcPG5rYHJ2B1dXSZkatfKGW/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 26",
-                "link": "https://drive.google.com/file/d/1gYXFFmAhEv2BTroX-OA0lNhHbv5rVsQL/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 27",
-                "link": "https://drive.google.com/file/d/1WlD1R9m4n6vzaNhZg-4hUx5_Qlpy_jK8/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 28",
-                "link": "https://drive.google.com/file/d/18Hc4pv1SgbP9TFECS0j1bV5kqIbkUihD/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 29",
-                "link": "https://drive.google.com/file/d/1Oo6KfcbewhuAKPIPiV0VCREA49gwXhOG/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 30",
-                "link": "https://drive.google.com/file/d/18lIuynIIUkrZ9dv0YUXEqwlFSm6nbqed/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 31",
-                "link": "https://drive.google.com/file/d/1FlNGlm8yavuFXfQqkwcO1obewROZTyvn/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 32",
-                "link": "https://drive.google.com/file/d/11QRq8iGbsIaq3xGyU1ho5YHUSA6IgrBO/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 33",
-                "link": "https://drive.google.com/file/d/1IOPeE8kbMUdFnEh9pk7FiEM6lJp6h_Ou/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 34",
-                "link": "https://drive.google.com/file/d/1_VFnoAa671X4iEgWJBEVZ4E9JT5TIlXR/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 35",
-                "link": "https://drive.google.com/file/d/1mmNmJ6dWyQZvyW5ryJXtD9VtJaK45AK2/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Lecture 36",
-                "link": "https://drive.google.com/file/d/17FruWCyMu6DbJ2FVarvohq5qouKhdAkL/view?usp=drivesdk"
-              }
-            ]
-          }
-        }
+        //   "Y22 Sem2 AK Jha": {
+        //     "files": [
+        //       {
+        //         "title": "Copy of notes sem 2 (2023)",
+        //         "link": "https://drive.google.com/file/d/10DpIGdJznoIhgLB58kpLRPjAeNdjt9jU/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   },
+        //   "Y23 Sem2 YNM and AKG": {
+        //     "files": [
+        //       {
+        //         "title": "Copy of Lec 1 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/1IqN_HHroTlJdrC15dBPBS8YircC9DILf/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 10 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/1l0zcULgBm63YRDOW3O11fX63OdjFYZNi/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 11 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/1n7Kc_a6CYT7XedXDhyNyMW3hcGFsQ3tg/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 12 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/10n4p5zu9ykKsT1m9k8fZMdTdBpgQPk8V/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 13 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/1M5_zGICI9v5BC4OZZLWcAYXuFFtaA4L4/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 14 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/1pomZ2QOqRBn0cYX7o-Eh-Q6PegvHBO7O/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 14.2 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/14hchln05oa38-fNE2TpvuF_0ZSGQ5im5/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 15 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/1GzAr73cfhbHrd4ThywE8hvgQJ0AbL0K8/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 16 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/13YD5wcmMixcguf_8QOWd4bCeqLAMGI6t/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 17 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/1ePpvARdjmTUixmD0W-vm_T3Jymz4I4ZL/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 18 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/1FWgqBOjHp9vIIOEFHfDGYNMwZl_Ib1HN/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 19 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/1TJHvwkQwYIDIER8FnVtQ7BXveCKdhn0k/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 1B YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/164qwYP0mRQJYy03_WYkc8Ho8-0t8gH2q/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 2 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/1U9skCzapNa6e3lgkk7za-cgFXEVFwRM6/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 20 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/1DmODKoLqWHQFsoNtu6CdeDi1pDEbKm-z/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 21 AKG PHY114",
+        //         "link": "https://drive.google.com/file/d/1X4jBgobHL3D8xly60HHOEdlmHlkfyWHF/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 22 AKG PHY114",
+        //         "link": "https://drive.google.com/file/d/1cnUGvimZ7xneByfMt69AuRILXyDqPLRL/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 23 AKG PHY114",
+        //         "link": "https://drive.google.com/file/d/1xSOTpZpTxaP9XR849j-NRHgKycdiYDu6/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 24 AKG PHY114",
+        //         "link": "https://drive.google.com/file/d/1pq0h_GHyCojrNmYcQnz-UiMAJJoqLqeB/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 25 AKG PHY114",
+        //         "link": "https://drive.google.com/file/d/1euW3e6SnB37NIckzLWuhirTvgVb3gOXc/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 26 AKG PHY114",
+        //         "link": "https://drive.google.com/file/d/1_67F0azPKthYdqg0LEOfVRbBZmsOahRM/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 27 AKG PHY114",
+        //         "link": "https://drive.google.com/file/d/16danSPyAJDoo-XCngcOHcQoJYrjqzSke/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 28 AKG PHY114",
+        //         "link": "https://drive.google.com/file/d/1FjO1qKHwTxnxqmZEBARXUlFAxQxPUjGF/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 3 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/1vcU6DeCJS17xl7cvNZnRYWJcU2QVYXne/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 4 YNM PHY 114",
+        //         "link": "https://drive.google.com/file/d/1xz8NmkeylSrzdCoabBWkzg4AikLQeBCa/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 5 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/1ktBmZGk-6JcrulLOoIrTm-Dn6C22MhmW/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 6 YNM PHY 114",
+        //         "link": "https://drive.google.com/file/d/12Tp95CdVAYJL1_Hz-LvXoFtgNPxa5ngH/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 7 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/1ELsuBhyVfdX9O-MsZFxG8RhYvMLO_x_N/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 8 YNM PHY 114",
+        //         "link": "https://drive.google.com/file/d/1GjORxxA_9MATOlAOkm86kz_32I2PKaxc/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lec 9 YNM PHY114",
+        //         "link": "https://drive.google.com/file/d/1F8owSbP6T43woeOQEY9pdb_Uc2ZrFFGl/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of PHY114_Notes_Diffraction_NFE_YNM_2024 - 16 17",
+        //         "link": "https://drive.google.com/file/d/1dtpT4rNV88WWlarESnUfRsPKD4l3djpB/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of PHY114_Notes_Reciprocal_Lattice_YNM_2024",
+        //         "link": "https://drive.google.com/file/d/105gqajwbIPmC3atnkY5TZAwtH6CfNwx9/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Phy114-Liner-Algebra-notes",
+        //         "link": "https://drive.google.com/file/d/1irG_rV_xMyMbUBTxrQK208_lIrF7aJhs/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   },
+        //   "Y23 Sem1 MK Harbola": {
+        //     "files": [
+        //       {
+        //         "title": "Copy of Lecture 01",
+        //         "link": "https://drive.google.com/file/d/1j8gk7QBwYkOW7aLoZhS970dEmJqL7RTE/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 02",
+        //         "link": "https://drive.google.com/file/d/1eIoE0rxBFCMaeU7NHGn70SEHK-VVN3D_/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 03",
+        //         "link": "https://drive.google.com/file/d/1uvS326mMtcfCEfQPYqQ04-UdV-gUaqqt/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 04",
+        //         "link": "https://drive.google.com/file/d/1ZMtIfvnMw3MILtP0jJH2a4NtD_34pk9u/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 05",
+        //         "link": "https://drive.google.com/file/d/1QLEZGFW2s8FCHwCZdSNR95i79CyM8J7M/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 05 Supplement",
+        //         "link": "https://drive.google.com/file/d/1vLRVuyis_JKgO3BOY5q2qyE7obXCPFGi/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 06",
+        //         "link": "https://drive.google.com/file/d/1eypQgOyzBA9dayzmx_fSDfvA2RQ0p-QJ/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 07",
+        //         "link": "https://drive.google.com/file/d/18_dh4TOIHs2PriTn0YBueuPBrX0HRspM/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 08",
+        //         "link": "https://drive.google.com/file/d/1SM1jIfVdeDQeYdvedtfM-wdDzLgyERKx/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 09",
+        //         "link": "https://drive.google.com/file/d/1Uyk9MMJ8Z-NY6BbYi0jxQLsgI4_BX3Jl/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 10",
+        //         "link": "https://drive.google.com/file/d/1US1CmI1ytFGpU3FPQuv_jfKzZWlbFbD2/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 10 Supplement",
+        //         "link": "https://drive.google.com/file/d/1AfcpXyWG-v5UVlSmWdiQ6MAP1-NQmyP9/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 11",
+        //         "link": "https://drive.google.com/file/d/1rcSn35HH5-OVNyAyrYpPnSjSKsEizXJY/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 12",
+        //         "link": "https://drive.google.com/file/d/15_GwWB89-5wzsSEnL6HWSba8nl4sfMJd/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 13",
+        //         "link": "https://drive.google.com/file/d/1gEV35BYGGtYvLUYQnbRz7FrB-2fLWHU8/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 14",
+        //         "link": "https://drive.google.com/file/d/1lXiZe25LXP4aVnDxaBHTPopgD6S0eyAc/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 15",
+        //         "link": "https://drive.google.com/file/d/1qrIbkqqYRoGa_C-c8LC739l8pTpUOZdr/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 16",
+        //         "link": "https://drive.google.com/file/d/1IJ_bqLXB_Ac0k6g4x0qs1CQcBRyXJ2Ed/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 17",
+        //         "link": "https://drive.google.com/file/d/14_kPdRf8N909_Buhwur8H7J3zT438x9q/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 18",
+        //         "link": "https://drive.google.com/file/d/19M1JZtsw7ZePP_ZsB4oXQujC4pLwxYLV/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 19",
+        //         "link": "https://drive.google.com/file/d/1nG4xa5rSxqIXoJgd_KURmQQkMo4Lk8CS/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 20",
+        //         "link": "https://drive.google.com/file/d/1nzPnEHltfoeqhwE0lXTP_CJD2ksIlvp_/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 21",
+        //         "link": "https://drive.google.com/file/d/1KyV2gTz6Sm6fyLGEzarx8I1itTKe-dZe/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 22",
+        //         "link": "https://drive.google.com/file/d/1R6dLzvdCSBdS1p3wy5ganimkpS8qsGBj/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 23",
+        //         "link": "https://drive.google.com/file/d/1ikHWQARvhmDp5M64QzSM8GAouAHQJToL/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 24",
+        //         "link": "https://drive.google.com/file/d/1_aQ2EK9UvfLdIqGY2Qj3QsAaWawRKuVM/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 25",
+        //         "link": "https://drive.google.com/file/d/16dv4QJGkqxcPG5rYHJ2B1dXSZkatfKGW/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 26",
+        //         "link": "https://drive.google.com/file/d/1gYXFFmAhEv2BTroX-OA0lNhHbv5rVsQL/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 27",
+        //         "link": "https://drive.google.com/file/d/1WlD1R9m4n6vzaNhZg-4hUx5_Qlpy_jK8/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 28",
+        //         "link": "https://drive.google.com/file/d/18Hc4pv1SgbP9TFECS0j1bV5kqIbkUihD/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 29",
+        //         "link": "https://drive.google.com/file/d/1Oo6KfcbewhuAKPIPiV0VCREA49gwXhOG/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 30",
+        //         "link": "https://drive.google.com/file/d/18lIuynIIUkrZ9dv0YUXEqwlFSm6nbqed/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 31",
+        //         "link": "https://drive.google.com/file/d/1FlNGlm8yavuFXfQqkwcO1obewROZTyvn/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 32",
+        //         "link": "https://drive.google.com/file/d/11QRq8iGbsIaq3xGyU1ho5YHUSA6IgrBO/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 33",
+        //         "link": "https://drive.google.com/file/d/1IOPeE8kbMUdFnEh9pk7FiEM6lJp6h_Ou/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 34",
+        //         "link": "https://drive.google.com/file/d/1_VFnoAa671X4iEgWJBEVZ4E9JT5TIlXR/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 35",
+        //         "link": "https://drive.google.com/file/d/1mmNmJ6dWyQZvyW5ryJXtD9VtJaK45AK2/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Copy of Lecture 36",
+        //         "link": "https://drive.google.com/file/d/17FruWCyMu6DbJ2FVarvohq5qouKhdAkL/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   }
+        // }
       }
-      
+      }  
       
     },
     "PHY115": {
@@ -2646,34 +2699,34 @@ const data = {
         
         "Pyqs": {
           
-          "End sems": {
-            "files": [
-              {
-                "title": "Copy of Endsem_P1_PHY115(Y23)_SEM-2",
-                "link": "https://drive.google.com/file/d/175JYWa5Bg0xzpaXEfVmVTJLRZ9HJMPcN/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Endsem_P2_PHY115(Y23)_SEM-2",
-                "link": "https://drive.google.com/file/d/1BIGG1cjY5I6-1pfW0NmhigLFg02U757G/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Endsem_P2_Solutions_PHY115(Y23)_SEM-2",
-                "link": "https://drive.google.com/file/d/1kq8Un4cVgdJGFBrIL7reL56CJ6wNGox_/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Endsem_PHY115(Y22)_SEM-1",
-                "link": "https://drive.google.com/file/d/1aWwtnl68Ar_w0eqKquSgKg1wxiBfik9R/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Endsem_PHY115(Y23)_SEM-1",
-                "link": "https://drive.google.com/file/d/1fh5fn0FUZlJD9cH2T1WKQMcb5jY5ZM0c/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Endsem_Solutions_PHY115(Y22)_SEM-1",
-                "link": "https://drive.google.com/file/d/10DVaxuPTseUeq79Evn8zdZjxtvwvi8eU/view?usp=drivesdk"
-              }
-            ]
-          },
+          // "End sems": {
+          //   "files": [
+          //     {
+          //       "title": "Copy of Endsem_P1_PHY115(Y23)_SEM-2",
+          //       "link": "https://drive.google.com/file/d/175JYWa5Bg0xzpaXEfVmVTJLRZ9HJMPcN/view?usp=drivesdk"
+          //     },
+          //     {
+          //       "title": "Copy of Endsem_P2_PHY115(Y23)_SEM-2",
+          //       "link": "https://drive.google.com/file/d/1BIGG1cjY5I6-1pfW0NmhigLFg02U757G/view?usp=drivesdk"
+          //     },
+          //     {
+          //       "title": "Copy of Endsem_P2_Solutions_PHY115(Y23)_SEM-2",
+          //       "link": "https://drive.google.com/file/d/1kq8Un4cVgdJGFBrIL7reL56CJ6wNGox_/view?usp=drivesdk"
+          //     },
+          //     {
+          //       "title": "Copy of Endsem_PHY115(Y22)_SEM-1",
+          //       "link": "https://drive.google.com/file/d/1aWwtnl68Ar_w0eqKquSgKg1wxiBfik9R/view?usp=drivesdk"
+          //     },
+          //     {
+          //       "title": "Copy of Endsem_PHY115(Y23)_SEM-1",
+          //       "link": "https://drive.google.com/file/d/1fh5fn0FUZlJD9cH2T1WKQMcb5jY5ZM0c/view?usp=drivesdk"
+          //     },
+          //     {
+          //       "title": "Copy of Endsem_Solutions_PHY115(Y22)_SEM-1",
+          //       "link": "https://drive.google.com/file/d/10DVaxuPTseUeq79Evn8zdZjxtvwvi8eU/view?usp=drivesdk"
+          //     }
+          //   ]
+          // },
           "midsems": {
             "files": [
               {
@@ -2695,32 +2748,32 @@ const data = {
             ]
           },
           "quizzes": {
-            "files": [
-              {
-                "title": "Copy of Quiz_Solutions_PHY115",
-                "link": "https://drive.google.com/file/d/1mShDMhdF5BCoHZCWjIqgzC4Ilovs7vAy/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Quiz-1_PHY115(Y23)_SEM-2",
-                "link": "https://drive.google.com/file/d/1FTEgSK_r8DH5vub0-hgy1qAwwyfUzuwz/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Quiz-1_Solutions_PHY115(Y23)_SEM-1",
-                "link": "https://drive.google.com/file/d/12p93n_WKaGvMEaAA7eVqGh3aXaCYEjnN/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Quiz-1&2_PHY115(Y22)_SEM-1",
-                "link": "https://drive.google.com/file/d/1yXzcDIg5Gcs1m2iY-pZada6kVQLnMkib/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Quiz-2_PHY115(Y23)_SEM-2",
-                "link": "https://drive.google.com/file/d/1pi4WlUcytcGk2EGqSjj2zCWjFDG9_Raw/view?usp=drivesdk"
-              },
-              {
-                "title": "Copy of Quiz-2_Solutions_PHY115(Y23)_SEM-1",
-                "link": "https://drive.google.com/file/d/1y6X9OiMDIIdQfB-cxFwq-dhChRsS6w5U/view?usp=drivesdk"
-              }
-            ]
+            // "files": [
+            //   {
+            //     "title": "Copy of Quiz_Solutions_PHY115",
+            //     "link": "https://drive.google.com/file/d/1mShDMhdF5BCoHZCWjIqgzC4Ilovs7vAy/view?usp=drivesdk"
+            //   },
+            //   {
+            //     "title": "Copy of Quiz-1_PHY115(Y23)_SEM-2",
+            //     "link": "https://drive.google.com/file/d/1FTEgSK_r8DH5vub0-hgy1qAwwyfUzuwz/view?usp=drivesdk"
+            //   },
+            //   {
+            //     "title": "Copy of Quiz-1_Solutions_PHY115(Y23)_SEM-1",
+            //     "link": "https://drive.google.com/file/d/12p93n_WKaGvMEaAA7eVqGh3aXaCYEjnN/view?usp=drivesdk"
+            //   },
+            //   {
+            //     "title": "Copy of Quiz-1&2_PHY115(Y22)_SEM-1",
+            //     "link": "https://drive.google.com/file/d/1yXzcDIg5Gcs1m2iY-pZada6kVQLnMkib/view?usp=drivesdk"
+            //   },
+            //   {
+            //     "title": "Copy of Quiz-2_PHY115(Y23)_SEM-2",
+            //     "link": "https://drive.google.com/file/d/1pi4WlUcytcGk2EGqSjj2zCWjFDG9_Raw/view?usp=drivesdk"
+            //   },
+            //   {
+            //     "title": "Copy of Quiz-2_Solutions_PHY115(Y23)_SEM-1",
+            //     "link": "https://drive.google.com/file/d/1y6X9OiMDIIdQfB-cxFwq-dhChRsS6w5U/view?usp=drivesdk"
+            //   }
+            // ]
           }
         },
         "Am class": {
@@ -2825,262 +2878,262 @@ const data = {
       }
     ]
   },
-  "Lecture notes": {
-    "files": [
-      {
-        "title": "Copy of 11th-edition-atkins-physical-chemistry-2018_compress",
-        "link": "https://drive.google.com/file/d/1kLCGFY2a15N_lkBmprWmH0FfamOLgN0-/view?usp=drivesdk"
-      }
-    ],
-    "Y23": {
-      "files": [
-        {
-          "title": "Copy of 1",
-          "link": "https://drive.google.com/file/d/14nDVpjaUwFlm6oBdjmqlsNygC_rFP-bd/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of 2",
-          "link": "https://drive.google.com/file/d/1NkOCbVhxW3GpEAMoamiCVa6wPEWgmHqh/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of 3",
-          "link": "https://drive.google.com/file/d/1-VkeqZYubql4HmdKHMfNhsJLHRT9Z2Qy/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of 4",
-          "link": "https://drive.google.com/file/d/1vJLO4V8eBNAY5qmqsLVmL8SfkVySOc8f/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of L10",
-          "link": "https://drive.google.com/file/d/1gHApivXynfcWwrp_QJ_d52XM7Rn-6wHs/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of L11",
-          "link": "https://drive.google.com/file/d/1qM2BuE9rs0NyQ40muLUZtrxbr_dhBEI9/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of L12",
-          "link": "https://drive.google.com/file/d/1rSPk9lnfHIDKVQrHRQ_0qkBkiqsWtZYp/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of L5",
-          "link": "https://drive.google.com/file/d/1vJ_jB7WOvwQ-8gCEqydDwGBDdzYpGv6r/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of L6",
-          "link": "https://drive.google.com/file/d/1DoCIQt5q_gHIwJT365b04cErrvdVsPX4/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of L7",
-          "link": "https://drive.google.com/file/d/1QshVOWVfWip5DidC7C75sSuSeChZLIky/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of L8",
-          "link": "https://drive.google.com/file/d/1kQ5_1AnR9pGT9cBXxbYK3z--la6kU5OQ/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of L9",
-          "link": "https://drive.google.com/file/d/1ohrqKFvAQytlX9ZzYOQzungEzlYfVfTw/view?usp=drivesdk"
-        }
-      ]
-    },
-    "Y14": {
-      "files": [
-        {
-          "title": "Copy of Lec1",
-          "link": "https://drive.google.com/file/d/1TqkR-97ZeBuDGs5lDi99EBhDfH5qxly6/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of Lec10",
-          "link": "https://drive.google.com/file/d/1wWs43YhIcIuSEhNeY_5exsrqrXgquw0D/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of Lec10 1",
-          "link": "https://drive.google.com/file/d/1RpNxIpbYFYKS_VrYYZyYKqwLj1-Nizf4/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of Lec11",
-          "link": "https://drive.google.com/file/d/1bEPAEeD0RohWO1trvPxztJoGcGQ0OOWe/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of Lec12",
-          "link": "https://drive.google.com/file/d/1XMSoPx2kYlqlabCdjNRfPqSI_JvlQ9an/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of Lec13",
-          "link": "https://drive.google.com/file/d/1LhMhT49T8HvFP_-LA1DXAamlKOcUcfrw/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of Lec14",
-          "link": "https://drive.google.com/file/d/1RA0IrHAE820lTBZ9GxlaO-0hyfPRrDrE/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of Lec2",
-          "link": "https://drive.google.com/file/d/1TWsNco0ruuAop9qhZsZ8Qm3mnlNJHOL2/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of Lec3",
-          "link": "https://drive.google.com/file/d/1p69Ua6KLkTvlPz3KfsVbDkTK6V4zUTCa/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of Lec3 (1)",
-          "link": "https://drive.google.com/file/d/1Neq4k0p2gF3SAe6KfLTqKb5RzgLPhUUt/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of Lec4",
-          "link": "https://drive.google.com/file/d/1S8uBohVHInMKQtevmxbzI1rHyI5GZwby/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of Lec5",
-          "link": "https://drive.google.com/file/d/1c1QhGG0b_dJX-ZHZKP2k3LISYnGEHpjs/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of Lec5 (1)",
-          "link": "https://drive.google.com/file/d/1NB9gMn3iiFna3MLGGxaa_7AJQ2b2cy6T/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of Lec6",
-          "link": "https://drive.google.com/file/d/1cDikXwC3rzWRIM4rjJ9ioCEyMYhsttP9/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of Lec7",
-          "link": "https://drive.google.com/file/d/1ceyjXt71OrAoy8jNMLOgM-4jZ9kvupe6/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of Lec8",
-          "link": "https://drive.google.com/file/d/1IUSxOpOl9_F1umhIZ-noYiGqVwm9z7Ti/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of Lec9",
-          "link": "https://drive.google.com/file/d/1DQcRDj3ZZkDCf6GzyqRU9fT6uYNdOIJr/view?usp=drivesdk"
-        },
-        {
-          "title": "Copy of MOtheory",
-          "link": "https://drive.google.com/file/d/1LGtaqnyAovvlKSOmyc8FteuTHkQHJXov/view?usp=drivesdk"
-        }
-      ]
-    }
-  },
-  "tut prev yr": {
-    "files": [
-      {
-        "title": "CHM112 TUT1 _sem2_SOLUTION",
-        "link": "https://drive.google.com/file/d/1QVppY2OZJk-Y4cZdAUNllo3dn6Uwn9QE/view?usp=drivesdk"
-      },
-      {
-        "title": "chm112_sem2_tutorial3",
-        "link": "https://drive.google.com/file/d/1PIMG78tdo1SxOkTPNqNdbpMAl7rnGb5a/view?usp=drivesdk"
-      },
-      {
-        "title": "CHM112M_Sem1_Tut2_Sol_Y23",
-        "link": "https://drive.google.com/file/d/1pqkt89LIcCILgC4_glhCr3ofn8nKpmAG/view?usp=drivesdk"
-      },
-      {
-        "title": "CHM112M_Sem1_Tut2_Y23",
-        "link": "https://drive.google.com/file/d/1_1oqhFYCP9YtEiHfRYKUrrxl5VG-ejpT/view?usp=drivesdk"
-      },
-      {
-        "title": "CHM112M_Sem1_Tut3_Y23",
-        "link": "https://drive.google.com/file/d/1g6mdsZYuTjjSit7I8TLUExYS1FXYtY7r/view?usp=drivesdk"
-      },
-      {
-        "title": "CHM112M_Sem1_Tut5_Y23",
-        "link": "https://drive.google.com/file/d/1YWsufoe68xctGhAnw8zv68X-tlhZeCna/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of 112 Tut 2 Sol",
-        "link": "https://drive.google.com/file/d/1P3aBOd3VPG2ASz-BU9157BxMwOG0TvZp/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of CHM112M_Sem1_Tut5_Sol_Y23",
-        "link": "https://drive.google.com/file/d/13JFVTXwWgqPwuTKz7aH8qy-S1b_NBich/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of CHM112M_Sem2_Tut4_Y23",
-        "link": "https://drive.google.com/file/d/1GgNdwwvHYYDGt5OD2OFUjU8M42y4_-rb/view?usp=drivesdk"
-      },
-      {
-        "title": "tutorial3_sem2_solution",
-        "link": "https://drive.google.com/file/d/18-vGWt6NraVs7M1nhlVKHxEE7SFOx74W/view?usp=drivesdk"
-      },
-      {
-        "title": "tutorial4_sem2_solution",
-        "link": "https://drive.google.com/file/d/11Q6ADsrSyRItSX_y04gjQTs7XZlyx84T/view?usp=drivesdk"
-      },
-      {
-        "title": "tutorial5_SEM2_solution",
-        "link": "https://drive.google.com/file/d/1KCuk6Zru_5u2ZGiaPuYfKYlFGrrHjvoy/view?usp=drivesdk"
-      }
-    ]
-  },
-  "PYQs": {
-    "files": [
-      {
-        "title": "Copy of CHM112_Sem1_Endsem_Y22",
-        "link": "https://drive.google.com/file/d/1XM_dWFwOpTVZegfK6NdIeSLQd1ohVykv/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of CHM112_Sem1_Y23_Quiz",
-        "link": "https://drive.google.com/file/d/1n09KIX6wbi0E9IH2yIKFQbW2ZxU4HJY8/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of CHM112_Sem1_Y23_Quiz(1)",
-        "link": "https://drive.google.com/file/d/1GI5N_idzqOdlDu9bSXZfo2Htp3RP4Jkb/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of CHM112_Sem2_MidSem_Y23",
-        "link": "https://drive.google.com/file/d/1iTw9UQMh-CwXbehO7QJrBjmtV-N-NFTq/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of CHM112_Sem2_MidSem_Y23(1)",
-        "link": "https://drive.google.com/file/d/1eNvuE7HulCEoYI3h1fuXPRIW1c2-7SwM/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of CHM112_Sem2_Y23_Quiz",
-        "link": "https://drive.google.com/file/d/19eYu0-yvNfBrqhfih7xu0_pGVyGzNABe/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of CHM112_Sem2_Y23_Quiz(1)",
-        "link": "https://drive.google.com/file/d/1_BqAI0rKLFqpfsqbT6hJ2GsMb5wrYl0X/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of CHM112M_Sem1_MidSem_Y23",
-        "link": "https://drive.google.com/file/d/1SgUmF0RrBfuymQW-NvdAZ3hOsNyT4Yyv/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of CHM112M_Sem1_MidSem_Y23(1)",
-        "link": "https://drive.google.com/file/d/1d2CnaeOa7bkNbxjQoaJNZLAHN3xSyuVt/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of Quiz Sol",
-        "link": "https://drive.google.com/file/d/1atUWYzEDUVZEsjsNmhUXLrzYL0DT29TH/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of Y11_Mid_Sem_Physical",
-        "link": "https://drive.google.com/file/d/1lJ_XZgpolsumcS-XwxheQP_3qScnaVC3/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of Y12_End_Sem_Physical_Solutions",
-        "link": "https://drive.google.com/file/d/1mxt2JgXSkLXS1H4V7IPtFDlOjQ7aeFmB/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of Y12_Mid_Sem_Physical",
-        "link": "https://drive.google.com/file/d/1LPqE_EvCn2cOrtFOZQvv0fM4vizJFjOr/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of Y15_End_Sem_Organic-Inorganic",
-        "link": "https://drive.google.com/file/d/1k7lhparxzodvUNFLF_EdAuNdyrJIxWL6/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of Y16_Mid_Sem_Solution",
-        "link": "https://drive.google.com/file/d/1ejZl8D5J8aQ62o9Jx4kowjBc_JfYlcIF/view?usp=drivesdk"
-      },
-      {
-        "title": "Copy of Y16_Mid_Sem_Solution_Detailed",
-        "link": "https://drive.google.com/file/d/1AQMuNtsx8OGNWpHC39BOrGxxBa_KflCz/view?usp=drivesdk"
-      }
-    ]
-  },
+  // "Lecture notes": {
+  //   "files": [
+  //     {
+  //       "title": "Copy of 11th-edition-atkins-physical-chemistry-2018_compress",
+  //       "link": "https://drive.google.com/file/d/1kLCGFY2a15N_lkBmprWmH0FfamOLgN0-/view?usp=drivesdk"
+  //     }
+  //   ],
+  //   "Y23": {
+  //     "files": [
+  //       {
+  //         "title": "Copy of 1",
+  //         "link": "https://drive.google.com/file/d/14nDVpjaUwFlm6oBdjmqlsNygC_rFP-bd/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of 2",
+  //         "link": "https://drive.google.com/file/d/1NkOCbVhxW3GpEAMoamiCVa6wPEWgmHqh/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of 3",
+  //         "link": "https://drive.google.com/file/d/1-VkeqZYubql4HmdKHMfNhsJLHRT9Z2Qy/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of 4",
+  //         "link": "https://drive.google.com/file/d/1vJLO4V8eBNAY5qmqsLVmL8SfkVySOc8f/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of L10",
+  //         "link": "https://drive.google.com/file/d/1gHApivXynfcWwrp_QJ_d52XM7Rn-6wHs/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of L11",
+  //         "link": "https://drive.google.com/file/d/1qM2BuE9rs0NyQ40muLUZtrxbr_dhBEI9/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of L12",
+  //         "link": "https://drive.google.com/file/d/1rSPk9lnfHIDKVQrHRQ_0qkBkiqsWtZYp/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of L5",
+  //         "link": "https://drive.google.com/file/d/1vJ_jB7WOvwQ-8gCEqydDwGBDdzYpGv6r/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of L6",
+  //         "link": "https://drive.google.com/file/d/1DoCIQt5q_gHIwJT365b04cErrvdVsPX4/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of L7",
+  //         "link": "https://drive.google.com/file/d/1QshVOWVfWip5DidC7C75sSuSeChZLIky/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of L8",
+  //         "link": "https://drive.google.com/file/d/1kQ5_1AnR9pGT9cBXxbYK3z--la6kU5OQ/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of L9",
+  //         "link": "https://drive.google.com/file/d/1ohrqKFvAQytlX9ZzYOQzungEzlYfVfTw/view?usp=drivesdk"
+  //       }
+  //     ]
+  //   },
+  //   "Y14": {
+  //     "files": [
+  //       {
+  //         "title": "Copy of Lec1",
+  //         "link": "https://drive.google.com/file/d/1TqkR-97ZeBuDGs5lDi99EBhDfH5qxly6/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of Lec10",
+  //         "link": "https://drive.google.com/file/d/1wWs43YhIcIuSEhNeY_5exsrqrXgquw0D/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of Lec10 1",
+  //         "link": "https://drive.google.com/file/d/1RpNxIpbYFYKS_VrYYZyYKqwLj1-Nizf4/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of Lec11",
+  //         "link": "https://drive.google.com/file/d/1bEPAEeD0RohWO1trvPxztJoGcGQ0OOWe/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of Lec12",
+  //         "link": "https://drive.google.com/file/d/1XMSoPx2kYlqlabCdjNRfPqSI_JvlQ9an/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of Lec13",
+  //         "link": "https://drive.google.com/file/d/1LhMhT49T8HvFP_-LA1DXAamlKOcUcfrw/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of Lec14",
+  //         "link": "https://drive.google.com/file/d/1RA0IrHAE820lTBZ9GxlaO-0hyfPRrDrE/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of Lec2",
+  //         "link": "https://drive.google.com/file/d/1TWsNco0ruuAop9qhZsZ8Qm3mnlNJHOL2/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of Lec3",
+  //         "link": "https://drive.google.com/file/d/1p69Ua6KLkTvlPz3KfsVbDkTK6V4zUTCa/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of Lec3 (1)",
+  //         "link": "https://drive.google.com/file/d/1Neq4k0p2gF3SAe6KfLTqKb5RzgLPhUUt/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of Lec4",
+  //         "link": "https://drive.google.com/file/d/1S8uBohVHInMKQtevmxbzI1rHyI5GZwby/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of Lec5",
+  //         "link": "https://drive.google.com/file/d/1c1QhGG0b_dJX-ZHZKP2k3LISYnGEHpjs/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of Lec5 (1)",
+  //         "link": "https://drive.google.com/file/d/1NB9gMn3iiFna3MLGGxaa_7AJQ2b2cy6T/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of Lec6",
+  //         "link": "https://drive.google.com/file/d/1cDikXwC3rzWRIM4rjJ9ioCEyMYhsttP9/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of Lec7",
+  //         "link": "https://drive.google.com/file/d/1ceyjXt71OrAoy8jNMLOgM-4jZ9kvupe6/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of Lec8",
+  //         "link": "https://drive.google.com/file/d/1IUSxOpOl9_F1umhIZ-noYiGqVwm9z7Ti/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of Lec9",
+  //         "link": "https://drive.google.com/file/d/1DQcRDj3ZZkDCf6GzyqRU9fT6uYNdOIJr/view?usp=drivesdk"
+  //       },
+  //       {
+  //         "title": "Copy of MOtheory",
+  //         "link": "https://drive.google.com/file/d/1LGtaqnyAovvlKSOmyc8FteuTHkQHJXov/view?usp=drivesdk"
+  //       }
+  //     ]
+  //   }
+  // },
+  // "tut prev yr": {
+  //   "files": [
+  //     {
+  //       "title": "CHM112 TUT1 _sem2_SOLUTION",
+  //       "link": "https://drive.google.com/file/d/1QVppY2OZJk-Y4cZdAUNllo3dn6Uwn9QE/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "chm112_sem2_tutorial3",
+  //       "link": "https://drive.google.com/file/d/1PIMG78tdo1SxOkTPNqNdbpMAl7rnGb5a/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "CHM112M_Sem1_Tut2_Sol_Y23",
+  //       "link": "https://drive.google.com/file/d/1pqkt89LIcCILgC4_glhCr3ofn8nKpmAG/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "CHM112M_Sem1_Tut2_Y23",
+  //       "link": "https://drive.google.com/file/d/1_1oqhFYCP9YtEiHfRYKUrrxl5VG-ejpT/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "CHM112M_Sem1_Tut3_Y23",
+  //       "link": "https://drive.google.com/file/d/1g6mdsZYuTjjSit7I8TLUExYS1FXYtY7r/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "CHM112M_Sem1_Tut5_Y23",
+  //       "link": "https://drive.google.com/file/d/1YWsufoe68xctGhAnw8zv68X-tlhZeCna/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of 112 Tut 2 Sol",
+  //       "link": "https://drive.google.com/file/d/1P3aBOd3VPG2ASz-BU9157BxMwOG0TvZp/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of CHM112M_Sem1_Tut5_Sol_Y23",
+  //       "link": "https://drive.google.com/file/d/13JFVTXwWgqPwuTKz7aH8qy-S1b_NBich/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of CHM112M_Sem2_Tut4_Y23",
+  //       "link": "https://drive.google.com/file/d/1GgNdwwvHYYDGt5OD2OFUjU8M42y4_-rb/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "tutorial3_sem2_solution",
+  //       "link": "https://drive.google.com/file/d/18-vGWt6NraVs7M1nhlVKHxEE7SFOx74W/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "tutorial4_sem2_solution",
+  //       "link": "https://drive.google.com/file/d/11Q6ADsrSyRItSX_y04gjQTs7XZlyx84T/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "tutorial5_SEM2_solution",
+  //       "link": "https://drive.google.com/file/d/1KCuk6Zru_5u2ZGiaPuYfKYlFGrrHjvoy/view?usp=drivesdk"
+  //     }
+  //   ]
+  // },
+  // "PYQs": {
+  //   "files": [
+  //     {
+  //       "title": "Copy of CHM112_Sem1_Endsem_Y22",
+  //       "link": "https://drive.google.com/file/d/1XM_dWFwOpTVZegfK6NdIeSLQd1ohVykv/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of CHM112_Sem1_Y23_Quiz",
+  //       "link": "https://drive.google.com/file/d/1n09KIX6wbi0E9IH2yIKFQbW2ZxU4HJY8/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of CHM112_Sem1_Y23_Quiz(1)",
+  //       "link": "https://drive.google.com/file/d/1GI5N_idzqOdlDu9bSXZfo2Htp3RP4Jkb/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of CHM112_Sem2_MidSem_Y23",
+  //       "link": "https://drive.google.com/file/d/1iTw9UQMh-CwXbehO7QJrBjmtV-N-NFTq/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of CHM112_Sem2_MidSem_Y23(1)",
+  //       "link": "https://drive.google.com/file/d/1eNvuE7HulCEoYI3h1fuXPRIW1c2-7SwM/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of CHM112_Sem2_Y23_Quiz",
+  //       "link": "https://drive.google.com/file/d/19eYu0-yvNfBrqhfih7xu0_pGVyGzNABe/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of CHM112_Sem2_Y23_Quiz(1)",
+  //       "link": "https://drive.google.com/file/d/1_BqAI0rKLFqpfsqbT6hJ2GsMb5wrYl0X/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of CHM112M_Sem1_MidSem_Y23",
+  //       "link": "https://drive.google.com/file/d/1SgUmF0RrBfuymQW-NvdAZ3hOsNyT4Yyv/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of CHM112M_Sem1_MidSem_Y23(1)",
+  //       "link": "https://drive.google.com/file/d/1d2CnaeOa7bkNbxjQoaJNZLAHN3xSyuVt/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of Quiz Sol",
+  //       "link": "https://drive.google.com/file/d/1atUWYzEDUVZEsjsNmhUXLrzYL0DT29TH/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of Y11_Mid_Sem_Physical",
+  //       "link": "https://drive.google.com/file/d/1lJ_XZgpolsumcS-XwxheQP_3qScnaVC3/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of Y12_End_Sem_Physical_Solutions",
+  //       "link": "https://drive.google.com/file/d/1mxt2JgXSkLXS1H4V7IPtFDlOjQ7aeFmB/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of Y12_Mid_Sem_Physical",
+  //       "link": "https://drive.google.com/file/d/1LPqE_EvCn2cOrtFOZQvv0fM4vizJFjOr/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of Y15_End_Sem_Organic-Inorganic",
+  //       "link": "https://drive.google.com/file/d/1k7lhparxzodvUNFLF_EdAuNdyrJIxWL6/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of Y16_Mid_Sem_Solution",
+  //       "link": "https://drive.google.com/file/d/1ejZl8D5J8aQ62o9Jx4kowjBc_JfYlcIF/view?usp=drivesdk"
+  //     },
+  //     {
+  //       "title": "Copy of Y16_Mid_Sem_Solution_Detailed",
+  //       "link": "https://drive.google.com/file/d/1AQMuNtsx8OGNWpHC39BOrGxxBa_KflCz/view?usp=drivesdk"
+  //     }
+  //   ]
+  //},
   "AM session qustionaire & solution": {
     "files": [
       {
@@ -3118,180 +3171,180 @@ const data = {
       "code": "CHM113",
       "subject": "Chemistry",
       "resources": {
-        "Y14_AllTuts_Notes_PYQs": {
+        // "Y14_AllTuts_Notes_PYQs": {
           
-          "Y14": {
-            "files": [
-              {
-                "title": "Lec1",
-                "link": "https://drive.google.com/file/d/1L7zvfHi3sLWQx3wsS3VV_w1brg3C0TVD/view?usp=drivesdk"
-              },
-              {
-                "title": "Lec10",
-                "link": "https://drive.google.com/file/d/1qjDxTH5VUFwGpA0YHDcs4tkSQuezPC-d/view?usp=drivesdk"
-              },
-              {
-                "title": "Lec11",
-                "link": "https://drive.google.com/file/d/12SV1NQq0cpJncFQsgWfo-WospTFOwd4h/view?usp=drivesdk"
-              },
-              {
-                "title": "Lec12",
-                "link": "https://drive.google.com/file/d/15n5fPSY5RY8KPEwFwGAVic6H9vjKqrxk/view?usp=drivesdk"
-              },
-              {
-                "title": "Lec13",
-                "link": "https://drive.google.com/file/d/1-f0FaZxQyA39oF8BmIsI781NORchDHoj/view?usp=drivesdk"
-              },
-              {
-                "title": "Lec14",
-                "link": "https://drive.google.com/file/d/1ZN_xMN_cQM9MnqxgZRIOtOp7tMaGHNUs/view?usp=drivesdk"
-              },
-              {
-                "title": "Lec2",
-                "link": "https://drive.google.com/file/d/142hNfp_cvTFgI9WoD4cwleocXLD7zaXR/view?usp=drivesdk"
-              },
-              {
-                "title": "Lec3",
-                "link": "https://drive.google.com/file/d/1Ijw0fqWpOw4ejKIfcIkODvYwEoDAdJOV/view?usp=drivesdk"
-              },
-              {
-                "title": "Lec4",
-                "link": "https://drive.google.com/file/d/1XMHNSTWjcgTco02QvbH2dO04ZfxgpXkJ/view?usp=drivesdk"
-              },
-              {
-                "title": "Lec5",
-                "link": "https://drive.google.com/file/d/16peIv5IfE-akUfJ2MBG5-Kk2qWUFsOGW/view?usp=drivesdk"
-              },
-              {
-                "title": "Lec6",
-                "link": "https://drive.google.com/file/d/1vkL7A3LiTfsBoY4iVFDoyeLtwW-8jP4B/view?usp=drivesdk"
-              },
-              {
-                "title": "Lec7",
-                "link": "https://drive.google.com/file/d/1W-GKCSrSnlM9Wjr4VfnufDha6yaP2UEb/view?usp=drivesdk"
-              },
-              {
-                "title": "Lec8",
-                "link": "https://drive.google.com/file/d/1t6lUUv_9KR6aCFlKESg4SUWItZvMlKaV/view?usp=drivesdk"
-              },
-              {
-                "title": "Lec9",
-                "link": "https://drive.google.com/file/d/1vbMV3cPpGn0qC_xVJog5RMk9rKZHk6Bu/view?usp=drivesdk"
-              },
-              {
-                "title": "Notes_on_Color_of_Inorganic_Complexes",
-                "link": "https://drive.google.com/file/d/17bM4VOGre2UjBGe2kBteU9IQchpf01X8/view?usp=drivesdk"
-              },
-              {
-                "title": "Notes_on_Coordination_Compounds",
-                "link": "https://drive.google.com/file/d/10pE3RVEQ-8OpdB4XIkPBW-GLxxmvL2t5/view?usp=drivesdk"
-              },
-              {
-                "title": "SolnTut1A",
-                "link": "https://drive.google.com/file/d/1TywR20UpT261d3TZuxc-F1mJx1eM7LiJ/view?usp=drivesdk"
-              },
-              {
-                "title": "SolnTut2A",
-                "link": "https://drive.google.com/file/d/1iJ_ZUphzT38ZQBsf1LE76JQrvf9BjeIi/view?usp=drivesdk"
-              },
-              {
-                "title": "SolnTut3A",
-                "link": "https://drive.google.com/file/d/1ZoTb7JxiPtAIPkYT-2LWzDEoPNGgor9Q/view?usp=drivesdk"
-              },
-              {
-                "title": "SolnTut5A",
-                "link": "https://drive.google.com/file/d/13SlQKnKCp8ykZb2E0xeX5YVcWwF6lAlE/view?usp=drivesdk"
-              },
-              {
-                "title": "SolnTut6A",
-                "link": "https://drive.google.com/file/d/1SxxV4C_XLGGPFbO-uLJj2AhWneoqG42g/view?usp=drivesdk"
-              },
-              {
-                "title": "SolnTut7A",
-                "link": "https://drive.google.com/file/d/1OVhN2B1bT0aTZ9WLbe-zeTpW4jdohIOl/view?usp=drivesdk"
-              },
-              {
-                "title": "Tut1A",
-                "link": "https://drive.google.com/file/d/1Tktn5Bd9JUUqOoGkSf4qtrNYB9XvI7_v/view?usp=drivesdk"
-              },
-              {
-                "title": "Tut2A",
-                "link": "https://drive.google.com/file/d/1N2jzUiTXVBr5xC71V0S4Z39eMW8y40Qx/view?usp=drivesdk"
-              },
-              {
-                "title": "Tut3A",
-                "link": "https://drive.google.com/file/d/1IztNIUP5wwfCugDWGVCOb2h7_3hexbjV/view?usp=drivesdk"
-              },
-              {
-                "title": "Tut5A",
-                "link": "https://drive.google.com/file/d/1PDmfRkphD96I26RM9wKCzc5ow56TBZKj/view?usp=drivesdk"
-              },
-              {
-                "title": "Tut6A",
-                "link": "https://drive.google.com/file/d/1Nv9vkLwqFEMCQeOnQI3e_l_XXQ5ZVnUH/view?usp=drivesdk"
-              },
-              {
-                "title": "Tut7A",
-                "link": "https://drive.google.com/file/d/1J--DWQ8LBr5xQM5gqP3DKXB_WdSuVLbZ/view?usp=drivesdk"
-              }
-            ]
-          }
-        },
-        "PYQs": {
+        //   "Y14": {
+        //     "files": [
+        //       {
+        //         "title": "Lec1",
+        //         "link": "https://drive.google.com/file/d/1L7zvfHi3sLWQx3wsS3VV_w1brg3C0TVD/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Lec10",
+        //         "link": "https://drive.google.com/file/d/1qjDxTH5VUFwGpA0YHDcs4tkSQuezPC-d/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Lec11",
+        //         "link": "https://drive.google.com/file/d/12SV1NQq0cpJncFQsgWfo-WospTFOwd4h/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Lec12",
+        //         "link": "https://drive.google.com/file/d/15n5fPSY5RY8KPEwFwGAVic6H9vjKqrxk/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Lec13",
+        //         "link": "https://drive.google.com/file/d/1-f0FaZxQyA39oF8BmIsI781NORchDHoj/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Lec14",
+        //         "link": "https://drive.google.com/file/d/1ZN_xMN_cQM9MnqxgZRIOtOp7tMaGHNUs/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Lec2",
+        //         "link": "https://drive.google.com/file/d/142hNfp_cvTFgI9WoD4cwleocXLD7zaXR/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Lec3",
+        //         "link": "https://drive.google.com/file/d/1Ijw0fqWpOw4ejKIfcIkODvYwEoDAdJOV/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Lec4",
+        //         "link": "https://drive.google.com/file/d/1XMHNSTWjcgTco02QvbH2dO04ZfxgpXkJ/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Lec5",
+        //         "link": "https://drive.google.com/file/d/16peIv5IfE-akUfJ2MBG5-Kk2qWUFsOGW/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Lec6",
+        //         "link": "https://drive.google.com/file/d/1vkL7A3LiTfsBoY4iVFDoyeLtwW-8jP4B/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Lec7",
+        //         "link": "https://drive.google.com/file/d/1W-GKCSrSnlM9Wjr4VfnufDha6yaP2UEb/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Lec8",
+        //         "link": "https://drive.google.com/file/d/1t6lUUv_9KR6aCFlKESg4SUWItZvMlKaV/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Lec9",
+        //         "link": "https://drive.google.com/file/d/1vbMV3cPpGn0qC_xVJog5RMk9rKZHk6Bu/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Notes_on_Color_of_Inorganic_Complexes",
+        //         "link": "https://drive.google.com/file/d/17bM4VOGre2UjBGe2kBteU9IQchpf01X8/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Notes_on_Coordination_Compounds",
+        //         "link": "https://drive.google.com/file/d/10pE3RVEQ-8OpdB4XIkPBW-GLxxmvL2t5/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "SolnTut1A",
+        //         "link": "https://drive.google.com/file/d/1TywR20UpT261d3TZuxc-F1mJx1eM7LiJ/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "SolnTut2A",
+        //         "link": "https://drive.google.com/file/d/1iJ_ZUphzT38ZQBsf1LE76JQrvf9BjeIi/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "SolnTut3A",
+        //         "link": "https://drive.google.com/file/d/1ZoTb7JxiPtAIPkYT-2LWzDEoPNGgor9Q/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "SolnTut5A",
+        //         "link": "https://drive.google.com/file/d/13SlQKnKCp8ykZb2E0xeX5YVcWwF6lAlE/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "SolnTut6A",
+        //         "link": "https://drive.google.com/file/d/1SxxV4C_XLGGPFbO-uLJj2AhWneoqG42g/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "SolnTut7A",
+        //         "link": "https://drive.google.com/file/d/1OVhN2B1bT0aTZ9WLbe-zeTpW4jdohIOl/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tut1A",
+        //         "link": "https://drive.google.com/file/d/1Tktn5Bd9JUUqOoGkSf4qtrNYB9XvI7_v/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tut2A",
+        //         "link": "https://drive.google.com/file/d/1N2jzUiTXVBr5xC71V0S4Z39eMW8y40Qx/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tut3A",
+        //         "link": "https://drive.google.com/file/d/1IztNIUP5wwfCugDWGVCOb2h7_3hexbjV/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tut5A",
+        //         "link": "https://drive.google.com/file/d/1PDmfRkphD96I26RM9wKCzc5ow56TBZKj/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tut6A",
+        //         "link": "https://drive.google.com/file/d/1Nv9vkLwqFEMCQeOnQI3e_l_XXQ5ZVnUH/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Tut7A",
+        //         "link": "https://drive.google.com/file/d/1J--DWQ8LBr5xQM5gqP3DKXB_WdSuVLbZ/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   }
+        // },
+        // "PYQs": {
           
-          "End/MidSem": {
-            "files": [
-              {
-                "title": "Y11_Midsem",
-                "link": "https://drive.google.com/file/d/135dcK0jD6-jYmIntkXbmH_SxfpIElpUF/view?usp=drivesdk"
-              },
-              {
-                "title": "Y12_Endsem",
-                "link": "https://drive.google.com/file/d/1H77-9BV4T0nb5nORyRbAopk2hNGjn7aG/view?usp=drivesdk"
-              },
-              {
-                "title": "Y14_MidSem",
-                "link": "https://drive.google.com/file/d/1MhCqBfTjfhOpIsMkWmFCWhzYh1uRoumX/view?usp=drivesdk"
-              },
-              {
-                "title": "Y15_Sem2Endsem",
-                "link": "https://drive.google.com/file/d/1bada2JtYNORrUTN7BQoQLtCNwkrPwC9I/view?usp=drivesdk"
-              },
-              {
-                "title": "Y16_Sem2Endsem",
-                "link": "https://drive.google.com/file/d/1HfQt2EC4mxbZvx9ZbuJHn21_dF2xsLn1/view?usp=drivesdk"
-              },
-              {
-                "title": "Y16_Sem2Midsem",
-                "link": "https://drive.google.com/file/d/1Akg4kx32uPoeX93_f19jjyTR7ZYcEI4Y/view?usp=drivesdk"
-              },
-              {
-                "title": "Y23_Sem1Endsem",
-                "link": "https://drive.google.com/file/d/10bX4XcXG3P8p7CXBlSm622CBjGXbcRnj/view?usp=drivesdk"
-              },
-              {
-                "title": "Y23_Sem2Endsem",
-                "link": "https://drive.google.com/file/d/1CnnLpHKkjKbOHpBSmu3aRRrBQXCUlLeQ/view?usp=drivesdk"
-              }
-            ]
-          },
-          "Quizzes": {
-            "files": [
-              {
-                "title": "Y14_Quiz",
-                "link": "https://drive.google.com/file/d/1dvgvya5tA_abS8JMfk2BTSUB6_kSWUEp/view?usp=drivesdk"
-              },
-              {
-                "title": "Y23_Sem1Quiz",
-                "link": "https://drive.google.com/file/d/1K6kfPxptIq0n_y6G_JwX9xx1UW09OBot/view?usp=drivesdk"
-              },
-              {
-                "title": "Y23_Sem2Quiz",
-                "link": "https://drive.google.com/file/d/1AgzTtHUeddY5Ym-OruVi58XwTewfOcGi/view?usp=drivesdk"
-              }
-            ]
-          }
-        },
+        //   "End/MidSem": {
+        //     "files": [
+        //       {
+        //         "title": "Y11_Midsem",
+        //         "link": "https://drive.google.com/file/d/135dcK0jD6-jYmIntkXbmH_SxfpIElpUF/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Y12_Endsem",
+        //         "link": "https://drive.google.com/file/d/1H77-9BV4T0nb5nORyRbAopk2hNGjn7aG/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Y14_MidSem",
+        //         "link": "https://drive.google.com/file/d/1MhCqBfTjfhOpIsMkWmFCWhzYh1uRoumX/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Y15_Sem2Endsem",
+        //         "link": "https://drive.google.com/file/d/1bada2JtYNORrUTN7BQoQLtCNwkrPwC9I/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Y16_Sem2Endsem",
+        //         "link": "https://drive.google.com/file/d/1HfQt2EC4mxbZvx9ZbuJHn21_dF2xsLn1/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Y16_Sem2Midsem",
+        //         "link": "https://drive.google.com/file/d/1Akg4kx32uPoeX93_f19jjyTR7ZYcEI4Y/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Y23_Sem1Endsem",
+        //         "link": "https://drive.google.com/file/d/10bX4XcXG3P8p7CXBlSm622CBjGXbcRnj/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Y23_Sem2Endsem",
+        //         "link": "https://drive.google.com/file/d/1CnnLpHKkjKbOHpBSmu3aRRrBQXCUlLeQ/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   },
+        //   "Quizzes": {
+        //     "files": [
+        //       {
+        //         "title": "Y14_Quiz",
+        //         "link": "https://drive.google.com/file/d/1dvgvya5tA_abS8JMfk2BTSUB6_kSWUEp/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Y23_Sem1Quiz",
+        //         "link": "https://drive.google.com/file/d/1K6kfPxptIq0n_y6G_JwX9xx1UW09OBot/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Y23_Sem2Quiz",
+        //         "link": "https://drive.google.com/file/d/1AgzTtHUeddY5Ym-OruVi58XwTewfOcGi/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   }
+        // },
         "Short Notes": {
           "files": [
             {
@@ -3344,134 +3397,134 @@ const data = {
             }
           ]
         },
-        "Y23 Notes": {
-          "files": [
-            {
-              "title": "L1",
-              "link": "https://drive.google.com/file/d/1iXjt9ktuUzzow9vHBfyxm8wv_Bb7Jj3D/view?usp=drivesdk"
-            },
-            {
-              "title": "L10.",
-              "link": "https://drive.google.com/file/d/1Tsj2kzeWLS6-H205PkNrroQfr5nsX9YA/view?usp=drivesdk"
-            },
-            {
-              "title": "L11",
-              "link": "https://drive.google.com/file/d/1L4PEXyiGHz_d1FLYgJIsmn9a_zFvwAyI/view?usp=drivesdk"
-            },
-            {
-              "title": "L12",
-              "link": "https://drive.google.com/file/d/1hKlpDBAWobuVl-rLoVafvqcnFvup3ZU-/view?usp=drivesdk"
-            },
-            {
-              "title": "L2",
-              "link": "https://drive.google.com/file/d/1beUvvBLzkZkJZaxrdWRNHiqIx_QLMCiZ/view?usp=drivesdk"
-            },
-            {
-              "title": "L3",
-              "link": "https://drive.google.com/file/d/10cr_hlBx52WUmWrGPIWA3jFa11OwZyEr/view?usp=drivesdk"
-            },
-            {
-              "title": "L4",
-              "link": "https://drive.google.com/file/d/1QSuljq8ATv-7LaIhlkGlej1aBgqyX7Xf/view?usp=drivesdk"
-            },
-            {
-              "title": "L5",
-              "link": "https://drive.google.com/file/d/1nKMlvCkH4o3Bl3XScyT58hU--4QLum--/view?usp=drivesdk"
-            },
-            {
-              "title": "L6",
-              "link": "https://drive.google.com/file/d/1nHFAw4jxFuBA1Sc6AGigAVvjjoMP7Eft/view?usp=drivesdk"
-            },
-            {
-              "title": "L7",
-              "link": "https://drive.google.com/file/d/1qkul8lNhZ07ajruas5IGGF0s1x6jztnR/view?usp=drivesdk"
-            },
-            {
-              "title": "L8",
-              "link": "https://drive.google.com/file/d/1hJnyI9EHkB51K_WFwSpRswwzARBrlb--/view?usp=drivesdk"
-            },
-            {
-              "title": "L9",
-              "link": "https://drive.google.com/file/d/1yylu2KtdGFLu9Uau9BA3EkhkdnY3rljR/view?usp=drivesdk"
-            }
-          ]
-        },
-        "Tutorial Sheets": {
-          "files": [
-            {
-              "title": "TUTORIAL 1",
-              "link": "https://drive.google.com/file/d/1cb6raJ9AGeAdmokcEJWkNkOxNRO3OR0w/view?usp=drivesdk"
-            },
-            {
-              "title": "TUTORIAL 2",
-              "link": "https://drive.google.com/file/d/1I_S5qzc5gYDSaoD16IC2lg8DQIeaY_Jy/view?usp=drivesdk"
-            },
-            {
-              "title": "TUTORIAL 3",
-              "link": "https://drive.google.com/file/d/16_a2UtkYVfPZ_pgW1GoCMKqEfMP1DhoR/view?usp=drivesdk"
-            },
-            {
-              "title": "TUTORIAL 4",
-              "link": "https://drive.google.com/file/d/1ylhCF81EV9nuKr4il-pexYJZNauNheY6/view?usp=drivesdk"
-            },
-            {
-              "title": "TUTORIAL 5",
-              "link": "https://drive.google.com/file/d/1_L8ajYE4PbfECnSIkjnRVEiUufMsMqNL/view?usp=drivesdk"
-            },
-            {
-              "title": "TUTORIAL 6",
-              "link": "https://drive.google.com/file/d/1FS91Ei3LwcZ8dYx6AigSuJLKMulcnlsb/view?usp=drivesdk"
-            },
-            {
-              "title": "tutorial1_inorganic",
-              "link": "https://drive.google.com/file/d/1UDsQpD0YsPXg4Tro643Gp6ipaiP2oS8k/view?usp=drivesdk"
-            },
-            {
-              "title": "tutorial1_inorganic-soln",
-              "link": "https://drive.google.com/file/d/1VkiBrY-u89sSpHup6T0dsKMenyg_tcLn/view?usp=drivesdk"
-            },
-            {
-              "title": "tutorial1_organic",
-              "link": "https://drive.google.com/file/d/1xkWTf8dvU2VxgENWhTL9iIqueGQrespN/view?usp=drivesdk"
-            },
-            {
-              "title": "tutorial1_soln",
-              "link": "https://drive.google.com/file/d/1llo2vam34UqSg4CIb3_GEiZts84QJZZl/view?usp=drivesdk"
-            },
-            {
-              "title": "tutorial2_inorganic_withsolutions",
-              "link": "https://drive.google.com/file/d/1OETx3RfH59143EWfKw1c9AcpB6X0aGBV/view?usp=drivesdk"
-            },
-            {
-              "title": "tutorial2_organic",
-              "link": "https://drive.google.com/file/d/15gaIaiL2KfINRoyvctgBuWMIFjrCkWr3/view?usp=drivesdk"
-            },
-            {
-              "title": "tutorial2_soln",
-              "link": "https://drive.google.com/file/d/1JmwF7nj0mLKZQKHACzO7IPNaBQjyVdIW/view?usp=drivesdk"
-            },
-            {
-              "title": "tutorial3_inorganic_withsolutions",
-              "link": "https://drive.google.com/file/d/1etOCVlZHhIwSMae0-7zPfJAC6wz02i6P/view?usp=drivesdk"
-            },
-            {
-              "title": "tutorial3_organic",
-              "link": "https://drive.google.com/file/d/1j08HsgFThNMC6ikodfmis7-k3rSl3CcR/view?usp=drivesdk"
-            },
-            {
-              "title": "tutorial3_organic_soln",
-              "link": "https://drive.google.com/file/d/1yaidXbuVBoSAqYLwCer-IlZa-4HRFq4j/view?usp=drivesdk"
-            },
-            {
-              "title": "tutorial4_solution",
-              "link": "https://drive.google.com/file/d/1phH0ycS9UVLH0yVeOTwH-UHSTVqKBqPC/view?usp=drivesdk"
-            },
-            {
-              "title": "tutorial5_solution",
-              "link": "https://drive.google.com/file/d/1YrSUSJh7NASCe_JbOSgQXibvjW9Ex7am/view?usp=drivesdk"
-            }
-          ]
-        },
+        // "Y23 Notes": {
+        //   "files": [
+        //     {
+        //       "title": "L1",
+        //       "link": "https://drive.google.com/file/d/1iXjt9ktuUzzow9vHBfyxm8wv_Bb7Jj3D/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "L10.",
+        //       "link": "https://drive.google.com/file/d/1Tsj2kzeWLS6-H205PkNrroQfr5nsX9YA/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "L11",
+        //       "link": "https://drive.google.com/file/d/1L4PEXyiGHz_d1FLYgJIsmn9a_zFvwAyI/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "L12",
+        //       "link": "https://drive.google.com/file/d/1hKlpDBAWobuVl-rLoVafvqcnFvup3ZU-/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "L2",
+        //       "link": "https://drive.google.com/file/d/1beUvvBLzkZkJZaxrdWRNHiqIx_QLMCiZ/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "L3",
+        //       "link": "https://drive.google.com/file/d/10cr_hlBx52WUmWrGPIWA3jFa11OwZyEr/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "L4",
+        //       "link": "https://drive.google.com/file/d/1QSuljq8ATv-7LaIhlkGlej1aBgqyX7Xf/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "L5",
+        //       "link": "https://drive.google.com/file/d/1nKMlvCkH4o3Bl3XScyT58hU--4QLum--/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "L6",
+        //       "link": "https://drive.google.com/file/d/1nHFAw4jxFuBA1Sc6AGigAVvjjoMP7Eft/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "L7",
+        //       "link": "https://drive.google.com/file/d/1qkul8lNhZ07ajruas5IGGF0s1x6jztnR/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "L8",
+        //       "link": "https://drive.google.com/file/d/1hJnyI9EHkB51K_WFwSpRswwzARBrlb--/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "L9",
+        //       "link": "https://drive.google.com/file/d/1yylu2KtdGFLu9Uau9BA3EkhkdnY3rljR/view?usp=drivesdk"
+        //     }
+        //   ]
+        // },
+        // "Tutorial Sheets": {
+        //   "files": [
+        //     {
+        //       "title": "TUTORIAL 1",
+        //       "link": "https://drive.google.com/file/d/1cb6raJ9AGeAdmokcEJWkNkOxNRO3OR0w/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "TUTORIAL 2",
+        //       "link": "https://drive.google.com/file/d/1I_S5qzc5gYDSaoD16IC2lg8DQIeaY_Jy/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "TUTORIAL 3",
+        //       "link": "https://drive.google.com/file/d/16_a2UtkYVfPZ_pgW1GoCMKqEfMP1DhoR/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "TUTORIAL 4",
+        //       "link": "https://drive.google.com/file/d/1ylhCF81EV9nuKr4il-pexYJZNauNheY6/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "TUTORIAL 5",
+        //       "link": "https://drive.google.com/file/d/1_L8ajYE4PbfECnSIkjnRVEiUufMsMqNL/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "TUTORIAL 6",
+        //       "link": "https://drive.google.com/file/d/1FS91Ei3LwcZ8dYx6AigSuJLKMulcnlsb/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "tutorial1_inorganic",
+        //       "link": "https://drive.google.com/file/d/1UDsQpD0YsPXg4Tro643Gp6ipaiP2oS8k/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "tutorial1_inorganic-soln",
+        //       "link": "https://drive.google.com/file/d/1VkiBrY-u89sSpHup6T0dsKMenyg_tcLn/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "tutorial1_organic",
+        //       "link": "https://drive.google.com/file/d/1xkWTf8dvU2VxgENWhTL9iIqueGQrespN/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "tutorial1_soln",
+        //       "link": "https://drive.google.com/file/d/1llo2vam34UqSg4CIb3_GEiZts84QJZZl/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "tutorial2_inorganic_withsolutions",
+        //       "link": "https://drive.google.com/file/d/1OETx3RfH59143EWfKw1c9AcpB6X0aGBV/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "tutorial2_organic",
+        //       "link": "https://drive.google.com/file/d/15gaIaiL2KfINRoyvctgBuWMIFjrCkWr3/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "tutorial2_soln",
+        //       "link": "https://drive.google.com/file/d/1JmwF7nj0mLKZQKHACzO7IPNaBQjyVdIW/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "tutorial3_inorganic_withsolutions",
+        //       "link": "https://drive.google.com/file/d/1etOCVlZHhIwSMae0-7zPfJAC6wz02i6P/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "tutorial3_organic",
+        //       "link": "https://drive.google.com/file/d/1j08HsgFThNMC6ikodfmis7-k3rSl3CcR/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "tutorial3_organic_soln",
+        //       "link": "https://drive.google.com/file/d/1yaidXbuVBoSAqYLwCer-IlZa-4HRFq4j/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "tutorial4_solution",
+        //       "link": "https://drive.google.com/file/d/1phH0ycS9UVLH0yVeOTwH-UHSTVqKBqPC/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "tutorial5_solution",
+        //       "link": "https://drive.google.com/file/d/1YrSUSJh7NASCe_JbOSgQXibvjW9Ex7am/view?usp=drivesdk"
+        //     }
+        //   ]
+        // },
         "Extra Notes on Various Topics": {
           "files": [
             {
@@ -3508,53 +3561,53 @@ const data = {
             }
           ]
         },
-        "ResourceBank5": {
-          "files": [
-            {
-              "title": "CHM113_EndSem_Solution",
-              "link": "https://drive.google.com/file/d/1F30UHcqomSOt1zyQ_wDvnfFgwuEhC3dz/view?usp=drivesdk"
-            },
-            {
-              "title": "CHM113_Sem1_Quiz_Y23",
-              "link": "https://drive.google.com/file/d/1dETWJMz43mAEvZCLg-mjAXR1v1nZD6qm/view?usp=drivesdk"
-            },
-            {
-              "title": "CHM113_Sem2_Y23_Quiz",
-              "link": "https://drive.google.com/file/d/1F7m_H9QW5UyHr3R9odXP7ZLTsT2YCoG_/view?usp=drivesdk"
-            },
-            {
-              "title": "CHM113M_Tut2_Sol_Y23",
-              "link": "https://drive.google.com/file/d/1Yj1pq1OgDxMbZ5g6ns4iKfNksCYH-ZcK/view?usp=drivesdk"
-            },
-            {
-              "title": "CHM113M_Tut2_Y23",
-              "link": "https://drive.google.com/file/d/1LO8E-kdZJBcd9gk5b-vv2PKWdJQLbl9I/view?usp=drivesdk"
-            },
-            {
-              "title": "CHM113M_Tut3_Sol_Y23",
-              "link": "https://drive.google.com/file/d/10q0P0xCDTA444GByNYd037QvpMjX6BoK/view?usp=drivesdk"
-            },
-            {
-              "title": "CHM113M_Tut3_Y23",
-              "link": "https://drive.google.com/file/d/1bUy868pjFfxtKTqz_R1u9Q7unQaaJzdx/view?usp=drivesdk"
-            },
-            {
-              "title": "Y12_End_Sem_Physical_Solutions",
-              "link": "https://drive.google.com/file/d/1N_PNirRRLZxCnSZjXmu8GDMnrvJ6O_zI/view?usp=drivesdk"
-            },
-            {
-              "title": "Y15_End_Sem_Organic-Inorganic",
-              "link": "https://drive.google.com/file/d/1do-ufbWj66HIqxP-pmwHK-3YAyg5_m8E/view?usp=drivesdk"
-            },
-            {
-              "title": "Y16_End_Sem_Organic-Inorganic",
-              "link": "https://drive.google.com/file/d/19K8oXoJKlsJVrw6K3DbKtHiGGE6oqeJY/view?usp=drivesdk"
-            }
-          ]
-        }
+        // "ResourceBank5": {
+        //   "files": [
+        //     {
+        //       "title": "CHM113_EndSem_Solution",
+        //       "link": "https://drive.google.com/file/d/1F30UHcqomSOt1zyQ_wDvnfFgwuEhC3dz/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "CHM113_Sem1_Quiz_Y23",
+        //       "link": "https://drive.google.com/file/d/1dETWJMz43mAEvZCLg-mjAXR1v1nZD6qm/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "CHM113_Sem2_Y23_Quiz",
+        //       "link": "https://drive.google.com/file/d/1F7m_H9QW5UyHr3R9odXP7ZLTsT2YCoG_/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "CHM113M_Tut2_Sol_Y23",
+        //       "link": "https://drive.google.com/file/d/1Yj1pq1OgDxMbZ5g6ns4iKfNksCYH-ZcK/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "CHM113M_Tut2_Y23",
+        //       "link": "https://drive.google.com/file/d/1LO8E-kdZJBcd9gk5b-vv2PKWdJQLbl9I/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "CHM113M_Tut3_Sol_Y23",
+        //       "link": "https://drive.google.com/file/d/10q0P0xCDTA444GByNYd037QvpMjX6BoK/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "CHM113M_Tut3_Y23",
+        //       "link": "https://drive.google.com/file/d/1bUy868pjFfxtKTqz_R1u9Q7unQaaJzdx/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Y12_End_Sem_Physical_Solutions",
+        //       "link": "https://drive.google.com/file/d/1N_PNirRRLZxCnSZjXmu8GDMnrvJ6O_zI/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Y15_End_Sem_Organic-Inorganic",
+        //       "link": "https://drive.google.com/file/d/1do-ufbWj66HIqxP-pmwHK-3YAyg5_m8E/view?usp=drivesdk"
+        //     },
+        //     {
+        //       "title": "Y16_End_Sem_Organic-Inorganic",
+        //       "link": "https://drive.google.com/file/d/19K8oXoJKlsJVrw6K3DbKtHiGGE6oqeJY/view?usp=drivesdk"
+        //     }
+          //]
+        
       }
-      
-      
+    
+    
     },
     "TA111": {
       "name": "Technical Arts",
@@ -3573,28 +3626,28 @@ const data = {
                 }
               ]
             },
-            "Lecture Slides": {
+            // "Lecture Slides": {
               
-              "Syam Nair": {
-                "files": [
-                  {
-                    "title": "Copy of Lec 19",
-                    "link": "https://drive.google.com/file/d/1iFPl2ueZ55uW6ENnMeEuqQWfIfmFBpzt/view?usp=drivesdk"
-                  },
-                  {
-                    "title": "Copy of Lec 20",
-                    "link": "https://drive.google.com/file/d/135fu-oq8Wi5SSoH3fvfH4XtTw863B7IU/view?usp=drivesdk"
-                  }
-                ]
-              },
-              "Abhijit Kushari": {
-                "files": [
-                  {
-                    "title": "Lecture_15_16_Auxilary_views_a4868f03-f4a5-41da-8df5-26288db3da06",
-                    "link": "https://drive.google.com/file/d/1w0yhhO6Ti2s73WkGHAheu7IkUJHtWdvP/view?usp=drivesdk"
-                  }
-                ]
-              }
+            //   "Syam Nair": {
+            //     "files": [
+            //       {
+            //         "title": "Copy of Lec 19",
+            //         "link": "https://drive.google.com/file/d/1iFPl2ueZ55uW6ENnMeEuqQWfIfmFBpzt/view?usp=drivesdk"
+            //       },
+            //       {
+            //         "title": "Copy of Lec 20",
+            //         "link": "https://drive.google.com/file/d/135fu-oq8Wi5SSoH3fvfH4XtTw863B7IU/view?usp=drivesdk"
+            //       }
+            //     ]
+            //   },
+              // "Abhijit Kushari": {
+              //   "files": [
+              //     {
+              //       "title": "Lecture_15_16_Auxilary_views_a4868f03-f4a5-41da-8df5-26288db3da06",
+              //       "link": "https://drive.google.com/file/d/1w0yhhO6Ti2s73WkGHAheu7IkUJHtWdvP/view?usp=drivesdk"
+              //     }
+              //   ]
+              // }
             },
             "3D Models": {
               "files": [
@@ -3655,51 +3708,51 @@ const data = {
                 }
               ]
             },
-            "Lecture Slides": {
-              "files": [
-                {
-                  "title": " Master Matrix-Space Geometry",
-                  "link": "https://drive.google.com/file/d/1f7sBjJiPYXPuhuYY-CD6DRp62D4kPY3C/view?usp=drivesdk"
-                }
-              ],
-              "Syam Nair": {
-                "files": [
-                  {
-                    "title": "Copy of Lec 15",
-                    "link": "https://drive.google.com/file/d/1zMDfSJFQDUZeL10hWvUZsYUz6rEXN2FX/view?usp=drivesdk"
-                  },
-                  {
-                    "title": "Copy of Lec 16",
-                    "link": "https://drive.google.com/file/d/1iezfhPE92AxczS4jB79ofXzmSkdARNIP/view?usp=drivesdk"
-                  },
-                  {
-                    "title": "Copy of Lec 17",
-                    "link": "https://drive.google.com/file/d/1B24fMaVT4A6dNoEbXMIj--E2ErjVmUR4/view?usp=drivesdk"
-                  },
-                  {
-                    "title": "Copy of Lec 18",
-                    "link": "https://drive.google.com/file/d/1hzAUST493Tsd3EBSTB9P1ZIQbSAEOv6d/view?usp=drivesdk"
-                  }
-                ]
-              },
-              "Abhijit Kushari": {
-                "files": [
-                  {
-                    "title": "Lecture_12_Space_Geometry_I_b0632667-754e-4322-9182-6a42a58c3095",
-                    "link": "https://drive.google.com/file/d/1lxFN-NdVI-GtiKbeMKuQMX_oYcTPRP7O/view?usp=drivesdk"
-                  },
-                  {
-                    "title": "Lecture_13_Space_Geometry_II_148666cb-cfa9-41f1-82f9-b14909e96ddd",
-                    "link": "https://drive.google.com/file/d/1SGsV1NHEoV70oNRrRi8VukRyguEuVpXL/view?usp=drivesdk"
-                  },
-                  {
-                    "title": "Lecture_14_Space_Geometry_III_4951faa6-fd6b-4885-86b5-194901310e50",
-                    "link": "https://drive.google.com/file/d/1V8jxu9QfWxVQsIcE6wB3fMlhyfcGySqw/view?usp=drivesdk"
-                  }
-                ]
-              }
-            }
-          },
+            // "Lecture Slides": {
+            //   "files": [
+            //     {
+            //       "title": " Master Matrix-Space Geometry",
+            //       "link": "https://drive.google.com/file/d/1f7sBjJiPYXPuhuYY-CD6DRp62D4kPY3C/view?usp=drivesdk"
+            //     }
+            //   ],
+              // "Syam Nair": {
+              //   "files": [
+              //     {
+              //       "title": "Copy of Lec 15",
+              //       "link": "https://drive.google.com/file/d/1zMDfSJFQDUZeL10hWvUZsYUz6rEXN2FX/view?usp=drivesdk"
+              //     },
+              //     {
+              //       "title": "Copy of Lec 16",
+              //       "link": "https://drive.google.com/file/d/1iezfhPE92AxczS4jB79ofXzmSkdARNIP/view?usp=drivesdk"
+              //     },
+              //     {
+              //       "title": "Copy of Lec 17",
+              //       "link": "https://drive.google.com/file/d/1B24fMaVT4A6dNoEbXMIj--E2ErjVmUR4/view?usp=drivesdk"
+              //     },
+              //     {
+              //       "title": "Copy of Lec 18",
+              //       "link": "https://drive.google.com/file/d/1hzAUST493Tsd3EBSTB9P1ZIQbSAEOv6d/view?usp=drivesdk"
+              //     }
+              //   ]
+              // },
+              // "Abhijit Kushari": {
+              //   "files": [
+              //     {
+              //       "title": "Lecture_12_Space_Geometry_I_b0632667-754e-4322-9182-6a42a58c3095",
+              //       "link": "https://drive.google.com/file/d/1lxFN-NdVI-GtiKbeMKuQMX_oYcTPRP7O/view?usp=drivesdk"
+              //     },
+              //     {
+              //       "title": "Lecture_13_Space_Geometry_II_148666cb-cfa9-41f1-82f9-b14909e96ddd",
+              //       "link": "https://drive.google.com/file/d/1SGsV1NHEoV70oNRrRi8VukRyguEuVpXL/view?usp=drivesdk"
+              //     },
+              //     {
+              //       "title": "Lecture_14_Space_Geometry_III_4951faa6-fd6b-4885-86b5-194901310e50",
+              //       "link": "https://drive.google.com/file/d/1V8jxu9QfWxVQsIcE6wB3fMlhyfcGySqw/view?usp=drivesdk"
+              //     }
+              //   ]
+              // }
+           // }
+          //},
           "Sectional Views": {
             
             "Practice Questions": {
@@ -3710,29 +3763,29 @@ const data = {
                 }
               ]
             },
-            "Lecture Slides": {
+            // "Lecture Slides": {
               
-              "Syam Nair": {
-                "files": [
-                  {
-                    "title": "Copy of Lec 13",
-                    "link": "https://drive.google.com/file/d/1giYoWxYCPSFMpdPlOm-VBVn2ecaz07rh/view?usp=drivesdk"
-                  },
-                  {
-                    "title": "Copy of Lec 14",
-                    "link": "https://drive.google.com/file/d/1aiKoCbWTF6euq7XeIw6DHHfjVX_0fW_K/view?usp=drivesdk"
-                  }
-                ]
-              },
-              "Abhijit Kushari": {
-                "files": [
-                  {
-                    "title": "Lecture_9_Section_View_Basic_3b14010f-ac1b-4715-9838-c53953ffcba0",
-                    "link": "https://drive.google.com/file/d/1_f_n5Hzpkt-BHdVUL_6gFWfOAXAGz2Mu/view?usp=drivesdk"
-                  }
-                ]
-              }
-            },
+            //   "Syam Nair": {
+            //     "files": [
+            //       {
+            //         "title": "Copy of Lec 13",
+            //         "link": "https://drive.google.com/file/d/1giYoWxYCPSFMpdPlOm-VBVn2ecaz07rh/view?usp=drivesdk"
+            //       },
+            //       {
+            //         "title": "Copy of Lec 14",
+            //         "link": "https://drive.google.com/file/d/1aiKoCbWTF6euq7XeIw6DHHfjVX_0fW_K/view?usp=drivesdk"
+            //       }
+            //     ]
+            //   },
+            //   "Abhijit Kushari": {
+            //     "files": [
+            //       {
+            //         "title": "Lecture_9_Section_View_Basic_3b14010f-ac1b-4715-9838-c53953ffcba0",
+            //         "link": "https://drive.google.com/file/d/1_f_n5Hzpkt-BHdVUL_6gFWfOAXAGz2Mu/view?usp=drivesdk"
+            //       }
+            //     ]
+            //   }
+            // },
             "3D Models": {
               "files": [
                 {
@@ -3792,37 +3845,37 @@ const data = {
                 }
               ]
             },
-            "Lecture Slides": {
+            // "Lecture Slides": {
               
-              "Abhijit Kushari": {
-                "files": [
-                  {
-                    "title": "Copy of Lecture_22_Prespective_View_I_d5168689-461e-4b73-8492-33fe7582b164",
-                    "link": "https://drive.google.com/file/d/14u_gP3vcb1rxy0Pw7zsmzblzylcgalEw/view?usp=drivesdk"
-                  },
-                  {
-                    "title": "Copy of Lecture_23_Prespective_View_II_f0bbdadf-2498-4973-8c62-295d8cc1c4fd",
-                    "link": "https://drive.google.com/file/d/1_tfUULkTNie2SmM6l7IRg4LYfNTzPAJM/view?usp=drivesdk"
-                  }
-                ]
-              },
-              "Syam Nair": {
-                "files": [
-                  {
-                    "title": "Copy of L11_Perspective-I_SN",
-                    "link": "https://docs.google.com/presentation/d/1o8Q_oHOfUuZpXsY6zb4kezymlFU49FAh/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-                  },
-                  {
-                    "title": "Copy of L12_Perspective-II_SN",
-                    "link": "https://docs.google.com/presentation/d/1VnYwmmiU7gNtCIWZJhh_f6tQZNpgSxQA/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-                  },
-                  {
-                    "title": "Copy of L13_Perspective-III_SN",
-                    "link": "https://docs.google.com/presentation/d/1pOHPOkrVlowb2dfObGAok4ppXFby95KW/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-                  }
-                ]
-              }
-            },
+            //   "Abhijit Kushari": {
+            //     "files": [
+            //       {
+            //         "title": "Copy of Lecture_22_Prespective_View_I_d5168689-461e-4b73-8492-33fe7582b164",
+            //         "link": "https://drive.google.com/file/d/14u_gP3vcb1rxy0Pw7zsmzblzylcgalEw/view?usp=drivesdk"
+            //       },
+            //       {
+            //         "title": "Copy of Lecture_23_Prespective_View_II_f0bbdadf-2498-4973-8c62-295d8cc1c4fd",
+            //         "link": "https://drive.google.com/file/d/1_tfUULkTNie2SmM6l7IRg4LYfNTzPAJM/view?usp=drivesdk"
+            //       }
+            //     ]
+            //   },
+            //   "Syam Nair": {
+            //     "files": [
+            //       {
+            //         "title": "Copy of L11_Perspective-I_SN",
+            //         "link": "https://docs.google.com/presentation/d/1o8Q_oHOfUuZpXsY6zb4kezymlFU49FAh/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+            //       },
+            //       {
+            //         "title": "Copy of L12_Perspective-II_SN",
+            //         "link": "https://docs.google.com/presentation/d/1VnYwmmiU7gNtCIWZJhh_f6tQZNpgSxQA/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+            //       },
+            //       {
+            //         "title": "Copy of L13_Perspective-III_SN",
+            //         "link": "https://docs.google.com/presentation/d/1pOHPOkrVlowb2dfObGAok4ppXFby95KW/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+            //       }
+            //     ]
+            //   }
+            // },
             "Practice Questions": {
               "files": [
                 {
@@ -3850,33 +3903,33 @@ const data = {
                 }
               ]
             },
-            "Lecture Slides": {
+            // "Lecture Slides": {
               
-              "Syam Nair": {
-                "files": [
-                  {
-                    "title": "Copy of L31_Development of Surface-I",
-                    "link": "https://docs.google.com/presentation/d/1cR66y_nMlE2cE8GJThbvyzWaajmXX2k5/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-                  },
-                  {
-                    "title": "Copy of L32_Development of Surface-II",
-                    "link": "https://docs.google.com/presentation/d/1KkdCeeK6vtzimMX0s6JskgNlObcMvM4w/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-                  }
-                ]
-              },
-              "Abhijit Kushari": {
-                "files": [
-                  {
-                    "title": "Copy of Lecture_20_Development_Surfaces_I_64711140-d46d-4399-affb-8c2af258cff1",
-                    "link": "https://drive.google.com/file/d/1NITbnKSgk0RAojHl2ciqou6tsbX4EVvb/view?usp=drivesdk"
-                  },
-                  {
-                    "title": "Copy of Lecture_21_Development_Surfaces_II_b182372a-5770-48f2-9db6-5472dfe43c8c (1)",
-                    "link": "https://drive.google.com/file/d/1UnsUGnkzuFulrEDG2qmGgqXON9Uzh4TC/view?usp=drivesdk"
-                  }
-                ]
-              }
-            }
+            //   "Syam Nair": {
+            //     "files": [
+            //       {
+            //         "title": "Copy of L31_Development of Surface-I",
+            //         "link": "https://docs.google.com/presentation/d/1cR66y_nMlE2cE8GJThbvyzWaajmXX2k5/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+            //       },
+            //       {
+            //         "title": "Copy of L32_Development of Surface-II",
+            //         "link": "https://docs.google.com/presentation/d/1KkdCeeK6vtzimMX0s6JskgNlObcMvM4w/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+            //       }
+            //     ]
+            //   },
+            //   "Abhijit Kushari": {
+            //     "files": [
+            //       {
+            //         "title": "Copy of Lecture_20_Development_Surfaces_I_64711140-d46d-4399-affb-8c2af258cff1",
+            //         "link": "https://drive.google.com/file/d/1NITbnKSgk0RAojHl2ciqou6tsbX4EVvb/view?usp=drivesdk"
+            //       },
+            //       {
+            //         "title": "Copy of Lecture_21_Development_Surfaces_II_b182372a-5770-48f2-9db6-5472dfe43c8c (1)",
+            //         "link": "https://drive.google.com/file/d/1UnsUGnkzuFulrEDG2qmGgqXON9Uzh4TC/view?usp=drivesdk"
+            //       }
+            //     ]
+            //   }
+            // }
           },
           "Intersection": {
             
@@ -3896,41 +3949,41 @@ const data = {
                 }
               ]
             },
-            "Lecture Slides": {
+            // "Lecture Slides": {
               
-              "Syam Nair": {
-                "files": [
-                  {
-                    "title": "Copy of L28_Intersection of Solids-I_SN",
-                    "link": "https://docs.google.com/presentation/d/1g026a3IsV8fgO9EVc14fexJgLnhliNo-/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-                  },
-                  {
-                    "title": "Copy of L29_Intersection of Solids-II_SN",
-                    "link": "https://docs.google.com/presentation/d/1QkVmgk5ojg12wzU1tl-lnsGDAJczug_A/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-                  },
-                  {
-                    "title": "Copy of L30_Intersection of Solids-III_SN",
-                    "link": "https://docs.google.com/presentation/d/1ggpwzempPDns4-9Rif7xlhsG9LJux7wd/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-                  }
-                ]
-              },
-              "Abhijit Kushari": {
-                "files": [
-                  {
-                    "title": "Copy of Lecture_17_Intersection_Lines_Planes_I_aab2e625-8ea8-4df2-baa4-cee1ffa61312",
-                    "link": "https://drive.google.com/file/d/1jR8rSgLqf_FtapHxZYbjxXKuU-l06lJc/view?usp=drivesdk"
-                  },
-                  {
-                    "title": "Copy of Lecture_18_Intersection_Lines_Planes_II_afa02e9f-3dab-485d-a831-e1b93f1a78e5 (1)",
-                    "link": "https://drive.google.com/file/d/1bDvfKaty_3_PrM3SZNgglQJOJ6XQWcRb/view?usp=drivesdk"
-                  },
-                  {
-                    "title": "Copy of Lecture_19_Intersection_Solids_e297336d-7c1e-4a3b-932b-3a34841ce846",
-                    "link": "https://drive.google.com/file/d/1DsQEc2QiswzqncLuucOOm9luZJt3PMn-/view?usp=drivesdk"
-                  }
-                ]
-              }
-            },
+            //   "Syam Nair": {
+            //     "files": [
+            //       {
+            //         "title": "Copy of L28_Intersection of Solids-I_SN",
+            //         "link": "https://docs.google.com/presentation/d/1g026a3IsV8fgO9EVc14fexJgLnhliNo-/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+            //       },
+            //       {
+            //         "title": "Copy of L29_Intersection of Solids-II_SN",
+            //         "link": "https://docs.google.com/presentation/d/1QkVmgk5ojg12wzU1tl-lnsGDAJczug_A/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+            //       },
+            //       {
+            //         "title": "Copy of L30_Intersection of Solids-III_SN",
+            //         "link": "https://docs.google.com/presentation/d/1ggpwzempPDns4-9Rif7xlhsG9LJux7wd/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+            //       }
+            //     ]
+            //   },
+            //   "Abhijit Kushari": {
+            //     "files": [
+            //       {
+            //         "title": "Copy of Lecture_17_Intersection_Lines_Planes_I_aab2e625-8ea8-4df2-baa4-cee1ffa61312",
+            //         "link": "https://drive.google.com/file/d/1jR8rSgLqf_FtapHxZYbjxXKuU-l06lJc/view?usp=drivesdk"
+            //       },
+            //       {
+            //         "title": "Copy of Lecture_18_Intersection_Lines_Planes_II_afa02e9f-3dab-485d-a831-e1b93f1a78e5 (1)",
+            //         "link": "https://drive.google.com/file/d/1bDvfKaty_3_PrM3SZNgglQJOJ6XQWcRb/view?usp=drivesdk"
+            //       },
+            //       {
+            //         "title": "Copy of Lecture_19_Intersection_Solids_e297336d-7c1e-4a3b-932b-3a34841ce846",
+            //         "link": "https://drive.google.com/file/d/1DsQEc2QiswzqncLuucOOm9luZJt3PMn-/view?usp=drivesdk"
+            //       }
+            //     ]
+            //   }
+            // },
             "3D Models": {
               "files": [
                 {
@@ -4037,162 +4090,162 @@ const data = {
             }
           ]
         },
-        "PYQs": {
-          "Mid Semesters PYQs": {
-            "Y14": {
-              "files": [
-                {
-                  "title": "Copy of Midsem SetA_Solutions",
-                  "link": "https://drive.google.com/file/d/1ExAK4pJ9wyaFEJpSqT2cFPwVKvJRrzSl/view?usp=drivesdk"
-                },
-                {
-                  "title": "Copy of Midsem SetB_Solutions",
-                  "link": "https://drive.google.com/file/d/1nh9y42vNUmWjNqYEQ81TnNjaHj4qJ_eG/view?usp=drivesdk"
-                },
-                {
-                  "title": "Copy of midsemexamsolutionsgradingpolicyvitalstats_4035",
-                  "link": "https://drive.google.com/file/d/1x7Z72szQILYWBvSK8UzTKI3OyfPEkzfu/view?usp=drivesdk"
-                }
-              ]
-            },
-            "Y20": {
-              "files": [
-                {
-                  "title": "Copy of Make-up_Mid-sem_2021_question_paper",
-                  "link": "https://drive.google.com/file/d/1QL8jdSGIV0m727Tah2dv03HG9qjuhT2-/view?usp=drivesdk"
-                },
-                {
-                  "title": "Copy of Mid-sem_2021_question_paper",
-                  "link": "https://drive.google.com/file/d/1IMeXVmNCSGCptGYd8vdoGEJwriipmw_4/view?usp=drivesdk"
-                },
-                {
-                  "title": "Copy of Mid-sem_2021_question_paper",
-                  "link": "https://docs.google.com/document/d/1g_ieF8E2nt6HFQYHfXImzLN_VkfUz1N9/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-                },
-                {
-                  "title": "Copy of MS TA101 SEM1",
-                  "link": "https://drive.google.com/file/d/1H0p6K5vFHhG0bVa8o3REwy2s67fTR9IW/view?usp=drivesdk"
-                },
-                {
-                  "title": "Make-up_Mid-sem_2021_question_paper",
-                  "link": "https://docs.google.com/document/d/1e5SV8Ymr4tUbnDTFS6LDlq7twk99CLTe/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-                },
-                {
-                  "title": "Make-up_Mid-sem_2021_question_paper",
-                  "link": "https://drive.google.com/file/d/1PM42GcaprxF1sQewW0LzLJQNqagIblxK/view?usp=drivesdk"
-                },
-                {
-                  "title": "Mid-sem_2021_question_paper",
-                  "link": "https://drive.google.com/file/d/1PGx-JcfOLUkLlE54dBiY4_pefDfykvnZ/view?usp=drivesdk"
-                },
-                {
-                  "title": "MS TA101 SEM1",
-                  "link": "https://drive.google.com/file/d/1r-XAZjWjSLsq2VMuZ9tjq-Oq40Wmd4FM/view?usp=drivesdk"
-                }
-              ]
-            },
-            "Miscellaneous": {
-              "files": [
-                {
-                  "title": "Copy of Mid Sem_solutions",
-                  "link": "https://drive.google.com/file/d/1COqXttBwHIhl-3NevSCp2DIj3nWTLHvW/view?usp=drivesdk"
-                },
-                {
-                  "title": "Mid Sem_solutions",
-                  "link": "https://drive.google.com/file/d/1Wi9pGKmYu1zK4nliIx6SJemS1_8nX7DY/view?usp=drivesdk"
-                }
-              ]
-            },
-            "Y15": {
-              "files": [
-                {
-                  "title": "Copy of Y15 midsem",
-                  "link": "https://drive.google.com/file/d/1NG6f55HmtYM88IYcqmSkxPBFQ40gDnuC/view?usp=drivesdk"
-                },
-                {
-                  "title": "Midsem 2015",
-                  "link": "https://drive.google.com/file/d/1yrRDXcgU0tzc7v19qAfLKWiuE-d08ShU/view?usp=drivesdk"
-                }
-              ]
-            }
-          },
-          "Y21": {
-            "files": [
-              {
-                "title": "ENDSEM - QUESTIONS",
-                "link": "https://drive.google.com/file/d/1L1jscsW25FiX0GH9FrTgXkxLgV0zUmin/view?usp=drivesdk"
-              }
-            ]
-          },
-          "Y20": {
-            "files": [
-              {
-                "title": "Y20_Endsem",
-                "link": "https://drive.google.com/file/d/1LUcfzsTrRivGSFxdE_BC6ZwdXc-DBkGT/view?usp=drivesdk"
-              }
-            ]
-          },
-          "Y15": {
-            "files": [
-              {
-                "title": "End Semester Solutions 2015",
-                "link": "https://drive.google.com/file/d/1-RhM2-pH-vKk0xyE-yJk93Uo3WPIhbj-/view?usp=drivesdk"
-              }
-            ]
-          },
-          "Y23": {
-            "files": [
-              {
-                "title": "IMG_5613",
-                "link": "https://drive.google.com/file/d/1UYdMiGnt-mAeKt73E7DSFWtTxlQV0LxS/view?usp=drivesdk"
-              },
-              {
-                "title": "IMG_5614",
-                "link": "https://drive.google.com/file/d/1sl-O9vQ2xB0_cP9Lcg4Z7wkygS-XltE8/view?usp=drivesdk"
-              },
-              {
-                "title": "IMG_5615",
-                "link": "https://drive.google.com/file/d/1dz949hlvviLw1DizjpjIydy_cFHOzUvE/view?usp=drivesdk"
-              },
-              {
-                "title": "IMG_5616",
-                "link": "https://drive.google.com/file/d/1Z8lNrXZtJr9OFySlxv2Ky1OYktcz3L84/view?usp=drivesdk"
-              },
-              {
-                "title": "IMG_5617",
-                "link": "https://drive.google.com/file/d/1mKtmU5o8z0c-5o2dJclECStP20CKQkG0/view?usp=drivesdk"
-              },
-              {
-                "title": "Y23_Endem",
-                "link": "https://drive.google.com/file/d/1hLPcZLTu2kWOnn-yjPMQ6LQlDCRmg7Ox/view?usp=drivesdk"
-              }
-            ]
-          },
-          "Y14": {
-            "files": [
-              {
-                "title": "endsemsolution_4708",
-                "link": "https://drive.google.com/file/d/1pYS0O8CG1a4e-ZjhYHmRhWtHgnSHWa2H/view?usp=drivesdk"
-              }
-            ]
-          },
-          "Miscellaneous": {
-            "files": [
-              {
-                "title": "End Sem Solutions A upload",
-                "link": "https://drive.google.com/file/d/1bAeC7iB8jcz97cDGnYyfCWT4Zl5KTLoi/view?usp=drivesdk"
-              }
-            ]
-          },
-          "Y17": {
-            "files": [
-              {
-                "title": "Y17 endsem",
-                "link": "https://drive.google.com/file/d/19mGEWVQcVqceR0DcTK8r8ckcWWsQccWS/view?usp=drivesdk"
-              }
-            ]
-          }
-        }
+        //"PYQs": {
+          // "Mid Semesters PYQs": {
+          //   "Y14": {
+          //     "files": [
+          //       {
+          //         "title": "Copy of Midsem SetA_Solutions",
+          //         "link": "https://drive.google.com/file/d/1ExAK4pJ9wyaFEJpSqT2cFPwVKvJRrzSl/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "Copy of Midsem SetB_Solutions",
+          //         "link": "https://drive.google.com/file/d/1nh9y42vNUmWjNqYEQ81TnNjaHj4qJ_eG/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "Copy of midsemexamsolutionsgradingpolicyvitalstats_4035",
+          //         "link": "https://drive.google.com/file/d/1x7Z72szQILYWBvSK8UzTKI3OyfPEkzfu/view?usp=drivesdk"
+          //       }
+          //     ]
+          //   },
+          //   "Y20": {
+          //     "files": [
+          //       {
+          //         "title": "Copy of Make-up_Mid-sem_2021_question_paper",
+          //         "link": "https://drive.google.com/file/d/1QL8jdSGIV0m727Tah2dv03HG9qjuhT2-/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "Copy of Mid-sem_2021_question_paper",
+          //         "link": "https://drive.google.com/file/d/1IMeXVmNCSGCptGYd8vdoGEJwriipmw_4/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "Copy of Mid-sem_2021_question_paper",
+          //         "link": "https://docs.google.com/document/d/1g_ieF8E2nt6HFQYHfXImzLN_VkfUz1N9/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+          //       },
+          //       {
+          //         "title": "Copy of MS TA101 SEM1",
+          //         "link": "https://drive.google.com/file/d/1H0p6K5vFHhG0bVa8o3REwy2s67fTR9IW/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "Make-up_Mid-sem_2021_question_paper",
+          //         "link": "https://docs.google.com/document/d/1e5SV8Ymr4tUbnDTFS6LDlq7twk99CLTe/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+          //       },
+          //       {
+          //         "title": "Make-up_Mid-sem_2021_question_paper",
+          //         "link": "https://drive.google.com/file/d/1PM42GcaprxF1sQewW0LzLJQNqagIblxK/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "Mid-sem_2021_question_paper",
+          //         "link": "https://drive.google.com/file/d/1PGx-JcfOLUkLlE54dBiY4_pefDfykvnZ/view?usp=drivesdk"
+          //       },
+          //       {
+          //         "title": "MS TA101 SEM1",
+          //         "link": "https://drive.google.com/file/d/1r-XAZjWjSLsq2VMuZ9tjq-Oq40Wmd4FM/view?usp=drivesdk"
+          //       }
+          //     ]
+          //   },
+            // "Miscellaneous": {
+            //   "files": [
+            //     {
+            //       "title": "Copy of Mid Sem_solutions",
+            //       "link": "https://drive.google.com/file/d/1COqXttBwHIhl-3NevSCp2DIj3nWTLHvW/view?usp=drivesdk"
+            //     },
+            //     {
+            //       "title": "Mid Sem_solutions",
+            //       "link": "https://drive.google.com/file/d/1Wi9pGKmYu1zK4nliIx6SJemS1_8nX7DY/view?usp=drivesdk"
+            //     }
+            //   ]
+            // },
+        //     "Y15": {
+        //       "files": [
+        //         {
+        //           "title": "Copy of Y15 midsem",
+        //           "link": "https://drive.google.com/file/d/1NG6f55HmtYM88IYcqmSkxPBFQ40gDnuC/view?usp=drivesdk"
+        //         },
+        //         {
+        //           "title": "Midsem 2015",
+        //           "link": "https://drive.google.com/file/d/1yrRDXcgU0tzc7v19qAfLKWiuE-d08ShU/view?usp=drivesdk"
+        //         }
+        //       ]
+        //     }
+        //   },
+        //   "Y21": {
+        //     "files": [
+        //       {
+        //         "title": "ENDSEM - QUESTIONS",
+        //         "link": "https://drive.google.com/file/d/1L1jscsW25FiX0GH9FrTgXkxLgV0zUmin/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   },
+        //   "Y20": {
+        //     "files": [
+        //       {
+        //         "title": "Y20_Endsem",
+        //         "link": "https://drive.google.com/file/d/1LUcfzsTrRivGSFxdE_BC6ZwdXc-DBkGT/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   },
+        //   "Y15": {
+        //     "files": [
+        //       {
+        //         "title": "End Semester Solutions 2015",
+        //         "link": "https://drive.google.com/file/d/1-RhM2-pH-vKk0xyE-yJk93Uo3WPIhbj-/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   },
+        //   "Y23": {
+        //     "files": [
+        //       {
+        //         "title": "IMG_5613",
+        //         "link": "https://drive.google.com/file/d/1UYdMiGnt-mAeKt73E7DSFWtTxlQV0LxS/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "IMG_5614",
+        //         "link": "https://drive.google.com/file/d/1sl-O9vQ2xB0_cP9Lcg4Z7wkygS-XltE8/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "IMG_5615",
+        //         "link": "https://drive.google.com/file/d/1dz949hlvviLw1DizjpjIydy_cFHOzUvE/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "IMG_5616",
+        //         "link": "https://drive.google.com/file/d/1Z8lNrXZtJr9OFySlxv2Ky1OYktcz3L84/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "IMG_5617",
+        //         "link": "https://drive.google.com/file/d/1mKtmU5o8z0c-5o2dJclECStP20CKQkG0/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "Y23_Endem",
+        //         "link": "https://drive.google.com/file/d/1hLPcZLTu2kWOnn-yjPMQ6LQlDCRmg7Ox/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   },
+        //   "Y14": {
+        //     "files": [
+        //       {
+        //         "title": "endsemsolution_4708",
+        //         "link": "https://drive.google.com/file/d/1pYS0O8CG1a4e-ZjhYHmRhWtHgnSHWa2H/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   },
+        //   "Miscellaneous": {
+        //     "files": [
+        //       {
+        //         "title": "End Sem Solutions A upload",
+        //         "link": "https://drive.google.com/file/d/1bAeC7iB8jcz97cDGnYyfCWT4Zl5KTLoi/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   },
+        //   "Y17": {
+        //     "files": [
+        //       {
+        //         "title": "Y17 endsem",
+        //         "link": "https://drive.google.com/file/d/19mGEWVQcVqceR0DcTK8r8ckcWWsQccWS/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   }
+        // }
       }
       
       
@@ -4206,6 +4259,7 @@ const data = {
           
           "Student Notes": {
             "files": [
+              
               {
                 "title": "DNA as a Genetic Material - Experiments (LIF111 AM Session 2023-24)",
                 "link": "https://docs.google.com/presentation/d/1ugsv3rezd1uioYA_9KV6EqsnRvlliNzD/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
@@ -4229,6 +4283,14 @@ const data = {
               {
                 "title": "Mitosis and Meiosis (LIF111 AM Session 2023-24)",
                 "link": "https://drive.google.com/file/d/10ijOYyWaYt0jybAsdX1CNHUMWOwDPs3e/view?usp=drivesdk"
+              },
+              {
+                "title": "Suplementary Resources",
+                "link": "https://docs.google.com/document/d/1Kf99KMr40gP0z67ovjWe1KC9_Q9_imJ3gK8I0lw9_5k/edit?usp=sharing"
+              },
+              {
+                "title": "Notes",
+                "link": "https://docs.google.com/document/d/187hDxdhrteDUaDwdi20CDrODMg6gKKI5/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
               }
             ]
           },
@@ -4241,6 +4303,10 @@ const data = {
               {
                 "title": "Schematic diagram of Mitotic Cell Division",
                 "link": "https://drive.google.com/file/d/17dkDuCcGTKdWWoJL6yvcspfgE-HFv9oi/view?usp=drivesdk"
+              },
+              {
+                "title": "Other Youtube Links",
+                "link": "https://docs.google.com/document/d/12TGxmaIwFsCuE6cNGTm-B3V4T452QiXa/edit?usp=sharing&ouid=113563175630196145989&rtpof=true&sd=true"
               }
             ]
           },
@@ -4297,77 +4363,77 @@ const data = {
             }
           ]
         },
-        "Course Lecture Notes": {
+        // "Course Lecture Notes": {
           
-          "Robert Sonowal (2024 - 25 - II)": {
-            "files": [
-              {
-                "title": "LIF111 Lecture - 1",
-                "link": "https://drive.google.com/file/d/1bSMsLiTtsD0hYiwoVGIUplw6ElTzxstw/view?usp=drivesdk"
-              },
-              {
-                "title": "LIF111 Lecture - 2",
-                "link": "https://drive.google.com/file/d/1OljsQw7d-1nAHW5DLFEADTdJyUxtuzY-/view?usp=drivesdk"
-              },
-              {
-                "title": "LIF111 Lecture - 3",
-                "link": "https://drive.google.com/file/d/14ErNKOy6AC39ymzPtV1PNpK0o00er-Wf/view?usp=drivesdk"
-              },
-              {
-                "title": "LIF111 Lecture - 4",
-                "link": "https://drive.google.com/file/d/1YET9e_scvm8PjycwmlrFHT8ltg0pGZQq/view?usp=drivesdk"
-              },
-              {
-                "title": "LIF111 Lecture - 5",
-                "link": "https://drive.google.com/file/d/135q-uiR_XJFPuY-Pd7pCnhfgkq_9p-dE/view?usp=drivesdk"
-              },
-              {
-                "title": "LIF111 Lecture - 6",
-                "link": "https://docs.google.com/presentation/d/1EvE4nIhESV6WaynDiY7Vs3Azxlj5i9x_/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-              }
-            ]
-          },
-          "Pradip Sinha (2024 - 25 - I)": {
-            "files": [
-              {
-                "title": "LIF111 Lecture (1) - 25.09.24",
-                "link": "https://docs.google.com/presentation/d/1wVPqM-FTJoNHAPOoROUWQhHvEI0WpqCj/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-              },
-              {
-                "title": "LIF111 Lecture (2) - 27.09.24",
-                "link": "https://docs.google.com/presentation/d/16Q2Pa7l5ERRay6YoDtGn-1LM0A2LAjwJ/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-              },
-              {
-                "title": "LIF111 Lecture (3) - 04.09.24",
-                "link": "https://docs.google.com/presentation/d/1YFApv3oMCVcudYdfcIBNt8mi7k6hYvMz/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-              },
-              {
-                "title": "LIF111 Lecture (4) - 16.10.24",
-                "link": "https://docs.google.com/presentation/d/1TIkg4oDWmbM44_aDmwmDxhuecMr_FKzJ/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-              },
-              {
-                "title": "LIF111 Lecture (5) - 18.10.24",
-                "link": "https://docs.google.com/presentation/d/17vV1RpGmh6tjf4meag5MIrTTsy9q4IaZ/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-              },
-              {
-                "title": "LIF111 Lecture (6) - 25.10.24",
-                "link": "https://docs.google.com/presentation/d/1137ThT7-sHnljTvAmop0WspHNwr2lpVq/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-              },
-              {
-                "title": "LIF111 Lecture (7) - 30.10.24",
-                "link": "https://docs.google.com/presentation/d/1aNgehKuPLZvqIVKn2c5XGkxHi4XN1bcf/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-              },
-              {
-                "title": "LIF111 Lecture (8) - 06.11.24",
-                "link": "https://docs.google.com/presentation/d/1hCoDVZ1jBD5H_JhsQiMG1bG6okjvvRaa/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-              },
-              {
-                "title": "LIF111 Lecture (9) - 08.11.24",
-                "link": "https://drive.google.com/file/d/1AltmiYgyISy1oEmNfasvhJGav0p4sP5D/view?usp=drivesdk"
-              }
-            ]
-          }
-        },
+        //   "Robert Sonowal (2024 - 25 - II)": {
+        //     "files": [
+        //       {
+        //         "title": "LIF111 Lecture - 1",
+        //         "link": "https://drive.google.com/file/d/1bSMsLiTtsD0hYiwoVGIUplw6ElTzxstw/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "LIF111 Lecture - 2",
+        //         "link": "https://drive.google.com/file/d/1OljsQw7d-1nAHW5DLFEADTdJyUxtuzY-/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "LIF111 Lecture - 3",
+        //         "link": "https://drive.google.com/file/d/14ErNKOy6AC39ymzPtV1PNpK0o00er-Wf/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "LIF111 Lecture - 4",
+        //         "link": "https://drive.google.com/file/d/1YET9e_scvm8PjycwmlrFHT8ltg0pGZQq/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "LIF111 Lecture - 5",
+        //         "link": "https://drive.google.com/file/d/135q-uiR_XJFPuY-Pd7pCnhfgkq_9p-dE/view?usp=drivesdk"
+        //       },
+        //       {
+        //         "title": "LIF111 Lecture - 6",
+        //         "link": "https://docs.google.com/presentation/d/1EvE4nIhESV6WaynDiY7Vs3Azxlj5i9x_/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //       }
+        //     ]
+        //   },
+        //   "Pradip Sinha (2024 - 25 - I)": {
+        //     "files": [
+        //       {
+        //         "title": "LIF111 Lecture (1) - 25.09.24",
+        //         "link": "https://docs.google.com/presentation/d/1wVPqM-FTJoNHAPOoROUWQhHvEI0WpqCj/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //       },
+        //       {
+        //         "title": "LIF111 Lecture (2) - 27.09.24",
+        //         "link": "https://docs.google.com/presentation/d/16Q2Pa7l5ERRay6YoDtGn-1LM0A2LAjwJ/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //       },
+        //       {
+        //         "title": "LIF111 Lecture (3) - 04.09.24",
+        //         "link": "https://docs.google.com/presentation/d/1YFApv3oMCVcudYdfcIBNt8mi7k6hYvMz/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //       },
+        //       {
+        //         "title": "LIF111 Lecture (4) - 16.10.24",
+        //         "link": "https://docs.google.com/presentation/d/1TIkg4oDWmbM44_aDmwmDxhuecMr_FKzJ/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //       },
+        //       {
+        //         "title": "LIF111 Lecture (5) - 18.10.24",
+        //         "link": "https://docs.google.com/presentation/d/17vV1RpGmh6tjf4meag5MIrTTsy9q4IaZ/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //       },
+        //       {
+        //         "title": "LIF111 Lecture (6) - 25.10.24",
+        //         "link": "https://docs.google.com/presentation/d/1137ThT7-sHnljTvAmop0WspHNwr2lpVq/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //       },
+        //       {
+        //         "title": "LIF111 Lecture (7) - 30.10.24",
+        //         "link": "https://docs.google.com/presentation/d/1aNgehKuPLZvqIVKn2c5XGkxHi4XN1bcf/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //       },
+        //       {
+        //         "title": "LIF111 Lecture (8) - 06.11.24",
+        //         "link": "https://docs.google.com/presentation/d/1hCoDVZ1jBD5H_JhsQiMG1bG6okjvvRaa/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+        //       },
+        //       {
+        //         "title": "LIF111 Lecture (9) - 08.11.24",
+        //         "link": "https://drive.google.com/file/d/1AltmiYgyISy1oEmNfasvhJGav0p4sP5D/view?usp=drivesdk"
+        //       }
+        //     ]
+        //   }
+        // },
         "AM slides": {
           "files": [
             {
@@ -5507,140 +5573,140 @@ const data = {
           ]
         },
         "PYQs": {
-          "files": [
-            {
-              "title": "2024_ESC112_quiz",
-              "link": "https://drive.google.com/file/d/1xjU-ovCR6dkO6yQ1LbUZb-W6VZxC68h8/view?usp=drivesdk"
-            },
-            {
-              "title": "Endsem 2016 I",
-              "link": "https://drive.google.com/file/d/1wqZSwBFHzwa1hwEOp2-aJtOPxKuKxhOP/view?usp=drivesdk"
-            },
-            {
-              "title": "Endsem 2017 I A",
-              "link": "https://drive.google.com/file/d/1abyqhm2DwSYT4tdLMrFTikqApUy-kpE6/view?usp=drivesdk"
-            },
-            {
-              "title": "Endsem 2018 I",
-              "link": "https://drive.google.com/file/d/1dtS6zvk5yUGzXMKJA2lMPSTQomur1Zq9/view?usp=drivesdk"
-            },
-            {
-              "title": "endsem_labexam",
-              "link": "https://drive.google.com/file/d/1LCzkmnVDY4txcs6DbFMGUQomxAazI-y7/view?usp=drivesdk"
-            },
-            {
-              "title": "ES_A",
-              "link": "https://drive.google.com/file/d/17gbgYSH4U9-_xMORORz1uyVaXDjf9X35/view?usp=drivesdk"
-            },
-            {
-              "title": "ES_A_Solution",
-              "link": "https://drive.google.com/file/d/1wA8VguyPR-lZj4HhXgJStiQdaoazv3oY/view?usp=drivesdk"
-            },
-            {
-              "title": "ES_B",
-              "link": "https://drive.google.com/file/d/1kQZAWRpF_RsXxANyOQfJh5P9XMw-zqsb/view?usp=drivesdk"
-            },
-            {
-              "title": "ES_B_Solution",
-              "link": "https://drive.google.com/file/d/1gD_uceNZBoAbaG4bc-YFAags1ufe_Qhl/view?usp=drivesdk"
-            },
-            {
-              "title": "ESC 112 ENDSEM",
-              "link": "https://drive.google.com/file/d/1HQ5gXQ7IuWLyybNs8LU5LGOWCoOFUgUe/view?usp=drivesdk"
-            },
-            {
-              "title": "ESC 112 Endsem - 2",
-              "link": "https://drive.google.com/file/d/1UkDXU2yNWg1OYqSYg9vL9NZnEKOGMKrc/view?usp=drivesdk"
-            },
-            {
-              "title": "ESC 112 Endsem - 2 soln",
-              "link": "https://drive.google.com/file/d/19mW4GWZQD6Pm0gsaPSmX1oDMSvS4FLb8/view?usp=drivesdk"
-            },
-            {
-              "title": "ESC 112 Endsem (with soln)",
-              "link": "https://docs.google.com/document/d/1EvC8ti7euOuxvLgxqi8iQBzwsoD63Gu8/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "ESC 112 Quiz (with soln)",
-              "link": "https://docs.google.com/document/d/1xPVwSGQo6K-MvUu8BdzdiD5V4CAj6n5M/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "ESC 112 Quiz-2 (with soln)",
-              "link": "https://drive.google.com/file/d/1HuQ0SgQPkynhgejJAHVC4x_UEOtD6jWR/view?usp=drivesdk"
-            },
-            {
-              "title": "esc_endsem",
-              "link": "https://drive.google.com/file/d/1F7wIOhUf_4o_Nq0kMF6EQ6fD3leO29nH/view?usp=drivesdk"
-            },
-            {
-              "title": "ESC112 Endsem",
-              "link": "https://drive.google.com/file/d/1H-yYjYO7XrK6Vf6or4mPVdwKSN88CpfT/view?usp=drivesdk"
-            },
-            {
-              "title": "esc112_endsem_qp",
-              "link": "https://drive.google.com/file/d/18K6FS05Q82DT3AZp3gSsyQW5KXlPwjBi/view?usp=drivesdk"
-            },
-            {
-              "title": "ESC112_quiz",
-              "link": "https://docs.google.com/document/d/1R8ecL2gjBg03i6_nGL3wrV7At4zH0FIs/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "ESC112_quiz (1)",
-              "link": "https://docs.google.com/document/d/1Ei878nSNwdLWmfBIGmLN9Y9OfwyRwKU0/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "esc112_Y23_endsem",
-              "link": "https://drive.google.com/file/d/1P30duAvKefqNiMVCo9F6qGaqmvAu1iox/view?usp=drivesdk"
-            },
-            {
-              "title": "ESC112M_Quiz1_Solution",
-              "link": "https://drive.google.com/file/d/1FYkmJhR6Se4UZto_R2oB4-jgCCaAj8MO/view?usp=drivesdk"
-            },
-            {
-              "title": "final-ESC112-solution-key (1)",
-              "link": "https://docs.google.com/document/d/1Kx9kQGe6ZR6YsBmLEPC5l7KfaKMRTBzV/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "Quiz_ESC112_last_sem",
-              "link": "https://docs.google.com/document/d/1m7mx5K53sacNP9XhgPviutZWRi_zT5bz/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
-            },
-            {
-              "title": "quiz2",
-              "link": "https://drive.google.com/file/d/1AoqDmZO44U6eafp7uIy33jFD9FmHMHKB/view?usp=drivesdk"
-            },
-            {
-              "title": "QW12A",
-              "link": "https://drive.google.com/file/d/12KtwAWPijJXUgMLuXvhdV3H4p-Jlrs8P/view?usp=drivesdk"
-            },
-            {
-              "title": "W10",
-              "link": "https://drive.google.com/file/d/19TM0ANXDvV9UMA1Fz0VSRYErcY1PeSRH/view?usp=drivesdk"
-            },
-            {
-              "title": "W11",
-              "link": "https://drive.google.com/file/d/1L3NJdPQD64HLM5NE6Qcswe_uUwhU3TGy/view?usp=drivesdk"
-            },
-            {
-              "title": "W12",
-              "link": "https://drive.google.com/file/d/1nuEP8kno_WzXuFkj6PeLmCrIk-pc0e-o/view?usp=drivesdk"
-            },
-            {
-              "title": "W13",
-              "link": "https://drive.google.com/file/d/11XKN0yYnUX7-GlQRA9dL4LpeWZLVtD4p/view?usp=drivesdk"
-            },
-            {
-              "title": "W14",
-              "link": "https://drive.google.com/file/d/1rcC_yh-d_LcsYaaC92Jyc4NN97OcjXUf/view?usp=drivesdk"
-            },
-            {
-              "title": "W8",
-              "link": "https://drive.google.com/file/d/1BL5jnjXKvohkakmaAL6m8yUQeFN_UPRk/view?usp=drivesdk"
-            },
-            {
-              "title": "W9",
-              "link": "https://drive.google.com/file/d/1xJMWb7hlcTF8KXMIMhsvVsV1FA-dnQ2J/view?usp=drivesdk"
-            }
-          ]
+          // "files": [
+          //   {
+          //     "title": "2024_ESC112_quiz",
+          //     "link": "https://drive.google.com/file/d/1xjU-ovCR6dkO6yQ1LbUZb-W6VZxC68h8/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "Endsem 2016 I",
+          //     "link": "https://drive.google.com/file/d/1wqZSwBFHzwa1hwEOp2-aJtOPxKuKxhOP/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "Endsem 2017 I A",
+          //     "link": "https://drive.google.com/file/d/1abyqhm2DwSYT4tdLMrFTikqApUy-kpE6/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "Endsem 2018 I",
+          //     "link": "https://drive.google.com/file/d/1dtS6zvk5yUGzXMKJA2lMPSTQomur1Zq9/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "endsem_labexam",
+          //     "link": "https://drive.google.com/file/d/1LCzkmnVDY4txcs6DbFMGUQomxAazI-y7/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "ES_A",
+          //     "link": "https://drive.google.com/file/d/17gbgYSH4U9-_xMORORz1uyVaXDjf9X35/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "ES_A_Solution",
+          //     "link": "https://drive.google.com/file/d/1wA8VguyPR-lZj4HhXgJStiQdaoazv3oY/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "ES_B",
+          //     "link": "https://drive.google.com/file/d/1kQZAWRpF_RsXxANyOQfJh5P9XMw-zqsb/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "ES_B_Solution",
+          //     "link": "https://drive.google.com/file/d/1gD_uceNZBoAbaG4bc-YFAags1ufe_Qhl/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "ESC 112 ENDSEM",
+          //     "link": "https://drive.google.com/file/d/1HQ5gXQ7IuWLyybNs8LU5LGOWCoOFUgUe/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "ESC 112 Endsem - 2",
+          //     "link": "https://drive.google.com/file/d/1UkDXU2yNWg1OYqSYg9vL9NZnEKOGMKrc/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "ESC 112 Endsem - 2 soln",
+          //     "link": "https://drive.google.com/file/d/19mW4GWZQD6Pm0gsaPSmX1oDMSvS4FLb8/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "ESC 112 Endsem (with soln)",
+          //     "link": "https://docs.google.com/document/d/1EvC8ti7euOuxvLgxqi8iQBzwsoD63Gu8/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+          //   },
+          //   {
+          //     "title": "ESC 112 Quiz (with soln)",
+          //     "link": "https://docs.google.com/document/d/1xPVwSGQo6K-MvUu8BdzdiD5V4CAj6n5M/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+          //   },
+          //   {
+          //     "title": "ESC 112 Quiz-2 (with soln)",
+          //     "link": "https://drive.google.com/file/d/1HuQ0SgQPkynhgejJAHVC4x_UEOtD6jWR/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "esc_endsem",
+          //     "link": "https://drive.google.com/file/d/1F7wIOhUf_4o_Nq0kMF6EQ6fD3leO29nH/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "ESC112 Endsem",
+          //     "link": "https://drive.google.com/file/d/1H-yYjYO7XrK6Vf6or4mPVdwKSN88CpfT/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "esc112_endsem_qp",
+          //     "link": "https://drive.google.com/file/d/18K6FS05Q82DT3AZp3gSsyQW5KXlPwjBi/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "ESC112_quiz",
+          //     "link": "https://docs.google.com/document/d/1R8ecL2gjBg03i6_nGL3wrV7At4zH0FIs/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+          //   },
+          //   {
+          //     "title": "ESC112_quiz (1)",
+          //     "link": "https://docs.google.com/document/d/1Ei878nSNwdLWmfBIGmLN9Y9OfwyRwKU0/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+          //   },
+          //   {
+          //     "title": "esc112_Y23_endsem",
+          //     "link": "https://drive.google.com/file/d/1P30duAvKefqNiMVCo9F6qGaqmvAu1iox/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "ESC112M_Quiz1_Solution",
+          //     "link": "https://drive.google.com/file/d/1FYkmJhR6Se4UZto_R2oB4-jgCCaAj8MO/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "final-ESC112-solution-key (1)",
+          //     "link": "https://docs.google.com/document/d/1Kx9kQGe6ZR6YsBmLEPC5l7KfaKMRTBzV/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+          //   },
+          //   {
+          //     "title": "Quiz_ESC112_last_sem",
+          //     "link": "https://docs.google.com/document/d/1m7mx5K53sacNP9XhgPviutZWRi_zT5bz/edit?usp=drivesdk&ouid=118171121564066809461&rtpof=true&sd=true"
+          //   },
+          //   {
+          //     "title": "quiz2",
+          //     "link": "https://drive.google.com/file/d/1AoqDmZO44U6eafp7uIy33jFD9FmHMHKB/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "QW12A",
+          //     "link": "https://drive.google.com/file/d/12KtwAWPijJXUgMLuXvhdV3H4p-Jlrs8P/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "W10",
+          //     "link": "https://drive.google.com/file/d/19TM0ANXDvV9UMA1Fz0VSRYErcY1PeSRH/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "W11",
+          //     "link": "https://drive.google.com/file/d/1L3NJdPQD64HLM5NE6Qcswe_uUwhU3TGy/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "W12",
+          //     "link": "https://drive.google.com/file/d/1nuEP8kno_WzXuFkj6PeLmCrIk-pc0e-o/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "W13",
+          //     "link": "https://drive.google.com/file/d/11XKN0yYnUX7-GlQRA9dL4LpeWZLVtD4p/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "W14",
+          //     "link": "https://drive.google.com/file/d/1rcC_yh-d_LcsYaaC92Jyc4NN97OcjXUf/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "W8",
+          //     "link": "https://drive.google.com/file/d/1BL5jnjXKvohkakmaAL6m8yUQeFN_UPRk/view?usp=drivesdk"
+          //   },
+          //   {
+          //     "title": "W9",
+          //     "link": "https://drive.google.com/file/d/1xJMWb7hlcTF8KXMIMhsvVsV1FA-dnQ2J/view?usp=drivesdk"
+          //   }
+          // ]
         }
       }
       
